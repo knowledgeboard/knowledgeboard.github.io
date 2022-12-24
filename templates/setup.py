@@ -2,7 +2,9 @@
 import os
 from typing import Literal
 
-file = open("./template.html")
+import sys
+
+file = open(sys.argv[1])
 lines = file.readlines()
 file.close()
 
@@ -10,7 +12,7 @@ i = lines.index("LINKS\n")
 PRE = lines[:i]
 POST = lines[i+1:]
 
-sources = [x for x in os.listdir("./") if ".md" in x]
+sources = [sys.argv[2:]][0]
 
 list_item = '''<ul>
     <li>
@@ -31,7 +33,7 @@ for source in sources:
     items = _f.readlines()
     _f.close()
 
-    out = open("../{}.html".format(source[:-3]), "w")
+    out = open("{}.html".format(source[:-3].split("/")[1]), "w")
 
     out.writelines(PRE)
      
