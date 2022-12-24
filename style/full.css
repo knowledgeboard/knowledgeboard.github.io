@@ -81,10 +81,10 @@ body a {
 }
 
 
-
 /* List */
 ul {
   counter-reset: index;  
+  margin: 0px 0px 0px 0px;
   padding: 0;
 }
 
@@ -93,10 +93,25 @@ li {
   counter-increment: index; 
   display: flex;
   align-items: center;
-  padding: 12px 0;
+  padding: 0px;
   box-sizing: border-box;
+
+  font-size: 20px;
 }
 
+li a {
+    text-decoration: none;  
+}
+
+li a:hover {
+    background-image: linear-gradient(to bottom, aquamarine, orangered);
+    background-attachment: fixed;
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    font-weight: bold;
+}
 
 /* Element counter */
 li::before {
@@ -116,6 +131,7 @@ li::before {
 }
 
 /* Element separation */
-li + li {
-  border-top: 1px solid #818181;
-}
+/* li + li { */
+/*   border-top: 2px solid #818181; */
+/* } */
+

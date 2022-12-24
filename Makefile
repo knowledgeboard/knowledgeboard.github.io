@@ -13,10 +13,10 @@ build: $(TARGET)
 publish: $(TARGET)pub
 
 $(TARGET): $(SOURCES)
-	# @echo building $(SOURCES)
+	@echo building $(SOURCES)
 	python3 $(PROGRAM) $(TEMPLATE_FILE) $(SOURCES)
 
-$(TARGET)pub: $(SOURCES)
-	$(build)
-	@echo publishing to Github
-	git commit $(TARGET) $(SOURCES) -m "$(date) publish"
+# $(TARGET)pub: $(SOURCES)
+	# $(build)
+	# @echo publishing to Github
+	# git commit $(TARGET) $(SOURCES) -m "$(date) publish"
