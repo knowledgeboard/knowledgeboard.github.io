@@ -26,4 +26,8 @@
 [towardsdatascience - RL explained](https://towardsdatascience.com/reinforcement-learning-explained-visually-part-4-q-learning-step-by-step-b65efb731d3e)
 [towardsdatascience - RL and OpenAI gym](https://towardsdatascience.com/getting-started-with-reinforcement-learning-and-open-ai-gym-c289aca874f)
 [Brax.gg - QLearning the mountain car](https://brax.gg/qlearning-the-mountain-cart/)
+[Deep MLP with scikit](https://towardsdatascience.com/deep-neural-multilayer-perceptron-mlp-with-scikit-learn-2698e77155e)
+[MLP from scratch](https://www.kaggle.com/code/vitorgamalemos/multilayer-perceptron-from-scratch/notebook)
+[towardsdatascience - RL explaned](https://towardsdatascience.com/reinforcement-learning-explained-visually-part-5-deep-q-networks-step-by-step-5a5317197f4b)
+[Why is a target network required - Stackoverflow](https://stackoverflow.com/questions/54237327/why-is-a-target-network-required)
 []()
