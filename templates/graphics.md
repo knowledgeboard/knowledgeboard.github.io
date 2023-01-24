@@ -30,4 +30,3 @@
 [PBR book](https://www.pbr-book.org/)
 [DDA line traversal algorithm - voxel space ideas](https://www.geeksforgeeks.org/dda-line-generation-algorithm-computer-graphics/)
 []()
-

@@ -38,6 +38,8 @@ for source in sources:
     out.writelines(PRE)
      
     for item in items:
+        if item == "": continue
+
         info, url = itemParser(item)
         if url=="":
             continue
