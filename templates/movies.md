@@ -43,5 +43,8 @@
 [Schools out forever](https://www.youtube.com/watch?v=vlzWnaJK_wE&ab_channel=MovieCoverage)
 [American Made](https://www.youtube.com/watch?v=WhwR_hAh9Xc&ab_channel=BingeSociety)
 [Best upcoming 2022](https://www.youtube.com/watch?v=uAQFxn2Ss84&ab_channel=KinoCheck.com)
+[Best Upcoming 2023 - WOW](https://www.youtube.com/watch?v=ZYyDrhM_jho&ab_channel=KinoCheck.com)
+[Oppenheimer](https://www.youtube.com/watch?v=bK6ldnjE3Y0&ab_channel=UniversalPictures)
+[Chevalier](https://www.youtube.com/results?search_query=chevalier)
 []()
 []()

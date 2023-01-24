@@ -1,2 +1,3 @@
 [Ubuntu disk space tests](https://askubuntu.com/questions/911865/no-more-disk-space-how-can-i-find-what-is-taking-up-the-space)
+[Tool for automatically applying randr configs when external display connected - Stackexchange](https://unix.stackexchange.com/questions/4489/a-tool-for-automatically-applying-randr-configuration-when-external-display-is-p)
 []()

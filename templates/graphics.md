@@ -28,4 +28,6 @@
 [NVIDIA Dev - Accelerating Standard C++ with GPUs](https://developer.nvidia.com/blog/accelerating-standard-c-with-gpus-using-stdpar/)
 [EDU Rendering: Next Event Estimation](https://www.cg.tuwien.ac.at/sites/default/files/course/4411/attachments/08_next%20event%20estimation.pdf)
 [PBR book](https://www.pbr-book.org/)
+[DDA line traversal algorithm - voxel space ideas](https://www.geeksforgeeks.org/dda-line-generation-algorithm-computer-graphics/)
 []()
+
