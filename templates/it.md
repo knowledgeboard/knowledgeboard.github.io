@@ -25,4 +25,6 @@
 [YouTube - Designigng a Physics Engine in 5 minutes](https://www.youtube.com/watch?v=-_IspRG548E&ab_channel=Winterdev)
 [C++ operator overloading](https://stackoverflow.com/questions/4421706/what-are-the-basic-rules-and-idioms-for-operator-overloading)
 [Eval of Infix Expression](https://algorithms.tutorialhorizon.com/evaluation-of-infix-expressions/)
+[IMDB API](http://www.omdbapi.com/)
+[Teardown Frame Teardown](https://acko.net/blog/teardown-frame-teardown/)
 []()
