@@ -22,7 +22,11 @@ list_item = '''<ul>
 '''
 
 def itemParser(item:str):
-    info, url = item.split("](") #)
+    try:
+        info, url = item.split("](") #)
+    except:
+        return "",""
+
     info = info[1:]
     url = url[:-2]
 

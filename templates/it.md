@@ -27,4 +27,8 @@
 [Eval of Infix Expression](https://algorithms.tutorialhorizon.com/evaluation-of-infix-expressions/)
 [IMDB API](http://www.omdbapi.com/)
 [Teardown Frame Teardown](https://acko.net/blog/teardown-frame-teardown/)
+[SCIKIT-image characters to regions](https://scikit-image.org/docs/stable/auto_examples/segmentation/plot_label.html)
+[11 dimensions reduction techniques - TowardsDataScience](https://towardsdatascience.com/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b)
+[Finding best features - TowardsDataScience](https://towardsdatascience.com/the-art-of-finding-the-best-features-for-machine-learning-a9074e2ca60d)
+[WhiteBatAudio - Royalty free music](https://whitebataudio.com/)
 []()
