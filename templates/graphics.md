@@ -29,4 +29,7 @@
 [EDU Rendering: Next Event Estimation](https://www.cg.tuwien.ac.at/sites/default/files/course/4411/attachments/08_next%20event%20estimation.pdf)
 [PBR book](https://www.pbr-book.org/)
 [DDA line traversal algorithm - voxel space ideas](https://www.geeksforgeeks.org/dda-line-generation-algorithm-computer-graphics/)
-[]()
+[Bidirectional path tracing](https://graphics.cs.kuleuven.be/publications/BDPT/BDPT_paper.pdf)
+[Bidirectional path tracing - Křivánek MFF UK](https://cgg.mff.cuni.cz/~jaroslav/teaching/2018-npgr010/slides/10%20-%20npgr010-2018%20-%20BPT.pdf)
+[BDPT - github integrator implementation](https://github.com/JackMinn/Bidirectional-Path-Tracing/blob/master/src/integrators/bdpt.h)
+[BDPT - shadertoy](https://www.shadertoy.com/view/MtfGR4)
