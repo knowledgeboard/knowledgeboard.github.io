@@ -31,4 +31,5 @@
 [11 dimensions reduction techniques - TowardsDataScience](https://towardsdatascience.com/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b)
 [Finding best features - TowardsDataScience](https://towardsdatascience.com/the-art-of-finding-the-best-features-for-machine-learning-a9074e2ca60d)
 [WhiteBatAudio - Royalty free music](https://whitebataudio.com/)
+[NICE CMAKE + opengl tutorial](https://shot511.github.io/2018-05-29-how-to-setup-opengl-project-with-cmake/)
 []()
