@@ -32,4 +32,5 @@
 [Finding best features - TowardsDataScience](https://towardsdatascience.com/the-art-of-finding-the-best-features-for-machine-learning-a9074e2ca60d)
 [WhiteBatAudio - Royalty free music](https://whitebataudio.com/)
 [NICE CMAKE + opengl tutorial](https://shot511.github.io/2018-05-29-how-to-setup-opengl-project-with-cmake/)
+[quadtree DDA](https://www.shadertoy.com/view/7dVSRh)
 []()
