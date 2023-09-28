@@ -34,3 +34,7 @@
 [NICE CMAKE + opengl tutorial](https://shot511.github.io/2018-05-29-how-to-setup-opengl-project-with-cmake/)
 [quadtree DDA](https://www.shadertoy.com/view/7dVSRh)
 [SPHINX Python autodoc](https://towardsdatascience.com/documenting-python-code-with-sphinx-554e1d6c4f6d)
+[RICH - nice python stuff - pip progress bars](https://pypi.org/project/rich/)
+[CLOTH SIM](https://pikuma.com/blog/verlet-integration-2d-cloth-physics-simulation)
+[AI Challenges](https://www.gocoder.one/)
+[]()
