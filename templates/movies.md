@@ -46,3 +46,4 @@
 [Missio: Impossible - Dead Reckonging part 1](https://www.youtube.com/watch?v=avz06PDqDbM&ab_channel=ParamountPictures)
 [The Creator - AI action movie](https://www.youtube.com/watch?v=nFpC2C8Pdh4&ab_channel=RapidTrailer)
 [Upcoming action movies 2023](https://www.youtube.com/watch?v=vhW7dszdVNk&ab_channel=FilmSpotTrailer)
+[Avatar: The Last Airbender (NETFLIX)](https://www.youtube.com/watch?v=waJKJW_XU90&ab_channel=Netflix)

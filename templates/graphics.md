@@ -36,3 +36,4 @@
 [PhysicallyBassed - PBR Material database](https://physicallybased.info/)
 [ShaderToy - BDPT2](https://www.shadertoy.com/view/4lfGWr)
 []()
+[RadianceCascades WIP Paper](https://drive.google.com/file/d/1L6v1_7HY2X-LV3Ofb6oyTIxgEaP4LOI6/view)
