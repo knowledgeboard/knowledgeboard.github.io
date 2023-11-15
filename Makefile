@@ -11,6 +11,11 @@ TARGET = $(addsuffix .html, $(FILES))
 
 build: $(TARGET)
 
+git:
+	git add .
+	git commit -m "update"
+	git push
+
 $(TARGET): $(SOURCES)
 	@echo building $(SOURCES)
 	python3 $(PROGRAM) $(TEMPLATE_FILE) $(SOURCES)
