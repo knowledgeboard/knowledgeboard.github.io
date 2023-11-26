@@ -2,6 +2,4 @@
 [Tool for automatically applying randr configs when external display connected - Stackexchange](https://unix.stackexchange.com/questions/4489/a-tool-for-automatically-applying-randr-configuration-when-external-display-is-p)
 [Menzostat](https://menzostat.ggu.cz/)
 [Artstation Nature fine](https://www.artstation.com/quentinregnes)
-[]()
-
 [Freedium](freedium.cfd)

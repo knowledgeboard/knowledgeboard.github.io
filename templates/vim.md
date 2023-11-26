@@ -3,4 +3,3 @@
 [NerdFonts - Github](https://github.com/ryanoasis/nerd-fonts#option-3-install-script)
 [Nerdfonts - cheat sheet](https://www.nerdfonts.com/cheat-sheet)
 [Awesome Neovim - Github](https://github.com/rockerBOO/awesome-neovim)
-[]()
