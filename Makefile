@@ -1,3 +1,5 @@
+.PHONY : build git
+
 FILES = movies school ai graphics vim it other
 
 TEMPLATE = templates
@@ -12,6 +14,9 @@ TARGET = $(addsuffix .html, $(FILES))
 build: $(TARGET)
 
 git:
+	@echo building $(SOURCES)
+	python3 $(PROGRAM) $(TEMPLATE_FILE) $(SOURCES)
+
 	git add .
 	git commit -m "update"
 	git push
