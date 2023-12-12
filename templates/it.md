@@ -37,3 +37,4 @@
 [RICH - nice python stuff - pip progress bars](https://pypi.org/project/rich/)
 [CLOTH SIM](https://pikuma.com/blog/verlet-integration-2d-cloth-physics-simulation)
 [AI Challenges](https://www.gocoder.one/)
+[Paradiseo CPP EA](https://github.com/nojhan/paradiseo)
