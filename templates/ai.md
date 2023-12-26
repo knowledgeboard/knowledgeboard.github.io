@@ -33,3 +33,4 @@
 [Q-learning hands on](https://freedium.cfd/https://towardsdatascience.com/hands-on-deep-q-learning-9073040ce841)
 [Actor critics](https://theaisummer.com/Actor_critics/)
 [Actor critic - a2c](https://huggingface.co/blog/deep-rl-a2c)
+[A2C implementation - Towards data science](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)
