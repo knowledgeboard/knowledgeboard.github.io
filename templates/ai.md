@@ -31,3 +31,5 @@
 [towardsdatascience - RL explaned](https://towardsdatascience.com/reinforcement-learning-explained-visually-part-5-deep-q-networks-step-by-step-5a5317197f4b)
 [Why is a target network required - Stackoverflow](https://stackoverflow.com/questions/54237327/why-is-a-target-network-required)
 [Q-learning hands on](https://freedium.cfd/https://towardsdatascience.com/hands-on-deep-q-learning-9073040ce841)
+[Actor critics](https://theaisummer.com/Actor_critics/)
+[Actor critic - a2c](https://huggingface.co/blog/deep-rl-a2c)
