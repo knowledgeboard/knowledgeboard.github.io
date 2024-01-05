@@ -4,7 +4,7 @@
 <!-- loads of flowers IYKWIM... See you soon. -->
 
 ### 2024-01-05 13:32
+It's the start of the blog, yaay!
+
 How we doing? It's getting real, real fast. Miss some already, it might get
 only worse, or not... we'll see.
-
-It's the start of the blog, yaay!
