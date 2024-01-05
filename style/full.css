@@ -14,6 +14,31 @@ body a {
   padding: 0px 10px;
 }
 
+.blog {
+    font-size: 20px;
+}
+
+.blog p {
+    font-family:'Times New Roman', Times, serif ;
+    margin-bottom: 0px;
+    padding-left: 30px;
+}
+
+.blog h3 {
+    font-family:'Times New Roman', Times, serif ;
+
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 2px solid #818181;
+
+    background-image: linear-gradient(to bottom, aquamarine, orangered);
+    background-attachment: fixed;
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
 /* The sidebar menu */
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
