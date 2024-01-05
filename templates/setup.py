@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import os
-from typing import Literal
+import subprocess
 
 import sys
 
@@ -21,6 +21,11 @@ list_item = '''<ul>
 </ul>
 '''
 
+blog_item = '''<div class="blog">
+{}
+</div>
+'''
+
 def itemParser(item:str):
     try:
         info, url = item.split("](") #)
@@ -33,21 +38,32 @@ def itemParser(item:str):
     return info, url
 
 for source in sources:
-    _f = open(source)
-    items = _f.readlines()
-    _f.close()
+    if source.endswith("blog.md"):
+        name = source[:-3].split("/")[1]
+        out = open(f"{name}.html", "w")
+        out.writelines(PRE)
+        blog_text = subprocess.Popen(["markdown", source],
+                                     stdout=subprocess.PIPE).communicate()[0]
+        blog_text = blog_text.decode()
+        out.write(blog_item.format(blog_text))
+        out.writelines(POST)
+        out.close()
+    else:
+        _f = open(source)
+        items = _f.readlines()
+        _f.close()
 
-    out = open("{}.html".format(source[:-3].split("/")[1]), "w")
+        out = open("{}.html".format(source[:-3].split("/")[1]), "w")
 
-    out.writelines(PRE)
-     
-    for item in items:
-        if item == "": continue
+        out.writelines(PRE)
+        
+        for item in items:
+            if item == "": continue
 
-        info, url = itemParser(item)
-        if url=="":
-            continue
-        out.write(list_item.format(url, info))
+            info, url = itemParser(item)
+            if url=="":
+                continue
+            out.write(list_item.format(url, info))
 
-    out.writelines(POST)
-    out.close()
+        out.writelines(POST)
+        out.close()

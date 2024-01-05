@@ -1,6 +1,6 @@
 .PHONY : build git
 
-FILES = movies school ai graphics vim it other cern
+FILES = movies school ai graphics vim it other cern blog
 
 TEMPLATE = templates
 
