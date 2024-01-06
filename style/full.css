@@ -39,6 +39,12 @@ body a {
 
 }
 
+.blog iframe {
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+}
+
 /* The sidebar menu */
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
