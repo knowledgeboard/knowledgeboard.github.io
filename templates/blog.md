@@ -11,3 +11,6 @@ It's the start of the blog, yaay!
 How we doing? It's getting real, real fast. Miss some already, it might get
 only worse, or not... we'll see.
 
+### 2024-01-06 21:36
+Everything is crazy, homesick at home yet I wanna leave so bad! Tomorrow big
+time! (*added Spotify links, songs everywhere! Good job past me*)
