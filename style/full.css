@@ -39,9 +39,20 @@ body a {
 
 }
 
+/* .blog ul { */
+/*     /1* color: #fff; *1/ */
+/*     padding-left: 50px; */
+/* } */
+/* .blog li { */
+/*     /1* color: #fff; *1/ */
+/*     padding: 0px; */
+/* } */
+
+
 .blog iframe {
     display: block;
     margin: 0 auto;
+    margin-top: 25px;
     width: 40%;
 }
 
