@@ -56,6 +56,13 @@ body a {
     width: 40%;
 }
 
+.blog img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 25px;
+    width: 40%;
+}
+
 /* The sidebar menu */
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
