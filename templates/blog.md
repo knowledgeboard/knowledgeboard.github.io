@@ -53,3 +53,30 @@ Probably gonna be making new website, should look into that (*some state of the 
 html source*). And some simpler Python thingies.
 
 <img src="images/globe_cern.jpg" alt="globe" width=40%>
+
+### 2024-01-09 16:12
+
+Hey there! Bunch of mails done today, M. is pouring info and there's still more
+to go. Went to the 275 lab this morning, saw mountains for pretty much the
+first time (*the view is much much better than what I expected*). Had small
+debugging session with A., had zoom calls about bunch of guys speaking
+french..., lunch and more debugging. 
+
+A. gave me access to the **universe** amount of data (*like wtf is in 19PB of
+experimental data and WHY THE FUCK is it in single folder somewhere AND WTF AM
+I DOING WITH ACCESS TO IT IN CLOUD!!!* ... like, I'm not touching anything but
+just saying). 
+
+Did some search for the problem, helped to solve it finally after she was stuck
+on it for weeks probs. God I hope I'm gonna be useful here (that felt nice)!
+She's probably gonna let me fiddle around with much more from that one so I
+should try to read up on electromagnets lul.
+
+About hour more and home we go.
+
+Also... got mail from M. that we are advised to go home and work remotely
+because of the snow :D Interesting.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1rBiNR61IhvbzeKwfs3AwE?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+Also this is playing on repeat :D
+
