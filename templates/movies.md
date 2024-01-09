@@ -47,3 +47,4 @@
 [The Creator - AI action movie](https://www.youtube.com/watch?v=nFpC2C8Pdh4&ab_channel=RapidTrailer)
 [Upcoming action movies 2023](https://www.youtube.com/watch?v=vhW7dszdVNk&ab_channel=FilmSpotTrailer)
 [Avatar: The Last Airbender (NETFLIX)](https://www.youtube.com/watch?v=waJKJW_XU90&ab_channel=Netflix)
+[Past Lives](https://www.youtube.com/results?search_query=past+lives)
