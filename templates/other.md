@@ -3,3 +3,4 @@
 [Menzostat](https://menzostat.ggu.cz/)
 [Artstation Nature fine](https://www.artstation.com/quentinregnes)
 [Freedium](freedium.cfd)
+[web dev list](https://dev.to/yirenlu/the-right-way-to-build-a-web-app-in-2021-4jc5)

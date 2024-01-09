@@ -80,3 +80,13 @@ because of the snow :D Interesting.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1rBiNR61IhvbzeKwfs3AwE?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 Also this is playing on repeat :D
 
+### 2024-01-09 23:22
+
+Well I wanted to go working out to Bushido Gym. Such a nice place and the guy
+does only 1on1 sessions. Bummer. Gotta get on the bike thing tomorrow (not
+literally yet). 
+
+Looks like I'm gonna be learning javascript for web dev project. So even this
+website might get a facelift who knows.
+
+Well GN and let's try for a gym tomorrow after work!
