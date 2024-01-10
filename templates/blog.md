@@ -90,3 +90,27 @@ Looks like I'm gonna be learning javascript for web dev project. So even this
 website might get a facelift who knows.
 
 Well GN and let's try for a gym tomorrow after work!
+
+### 2024-01-10 23:53
+
+Good evening! Day pretty much successful. I am pretty active in helping A. with
+the project. And she's having problems with such basic stuff (not meant bad,
+she is not supposed to do better, she did great already with the amount that
+she has written). But I feel like I could help more. Still feels good that I
+can solve whatever she throws at me.
+
+I was told that I might be able to participate during some of the ZULF
+experiments if there is gonna be python shenanigans happening! That would mean
+going to the Geneva hospital and doing something around their own small
+accelerator!! Cool!
+
+Started working on the website. Pain. Gonna continue tomorrow.
+
+First time visiting the gym here! Gotta search for another one, because this
+one costs a lot (25 CHF per visit/125 I think per month). Could do montly, but
+would probably be better to look elsewhere too. Did chest, 100 bench 2x, 1x,
+bunch of 90, 80. NOBODY KNOWS ANY ENGLISH, WTF!!! Was spotting the younger guy
+who spoke only french. Like cmon learn some english as well, what are you
+doing. Was happy with how it went tho.
+
+Shower + Sleep! Cy@
