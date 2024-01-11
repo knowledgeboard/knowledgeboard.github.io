@@ -114,3 +114,17 @@ who spoke only french. Like cmon learn some english as well, what are you
 doing. Was happy with how it went tho.
 
 Shower + Sleep! Cy@
+
+### 2024-01-11 23:33
+
+Day that went away quite quick! Work was great, I'm useful there and there are
+more projects to come.
+
+Spending time with A. on the project, I would like to help more but not forcing
+anything. I mean it's still a project that funds everything that she does here.
+So surely she wants to work on it by itself.
+
+WTF that powerlifting belt. There were some visible hints but that's so cool!
+Gonna have to try the CERN gym xD
+
+P.S. Don't try the burger again! It's really not worth the money.
