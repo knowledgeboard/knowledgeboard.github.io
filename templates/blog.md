@@ -154,5 +154,5 @@ Adding some images from the podcast event and on my way home: (also the gallery
 idea is not really bad - could use the slick library I found out about)
 
 <img src="images/another_globe.jpg" alt="globe" width=40%>
-<img src="images/podcast.jpg.jpg" alt="globe" width=40%>
-<img src="images/podcast2.jpg.jpg" alt="globe" width=40%>
+<img src="images/podcast.jpg" alt="globe" width=40%>
+<img src="images/podcast2.jpg" alt="globe" width=40%>
