@@ -41,10 +41,10 @@ What a long day ha!
 meeting was amazing, met a few poeple (Portuguese Peter, the IT data girl).
 
 Meeting the team was bit quicker than I would like but got along well enough I
-would say. I'm probably the youngest, with A. the only other one who is not
+would say. I'm probably the youngest, with Amy the only other one who is not
 physicist, alone in IT stuff. 
 
-Lunch, back to back coffee breaks, M. showing me around (gotta find her paper
+Lunch, back to back coffee breaks, Magda showing me around (gotta find her paper
 again), A. showing me lab and our first rubber duck session on serial comms.
 Looks like a pain of a problem with little to no debugging potential, hopefully
 gonna be able to fiddle around a bit and get it working.
@@ -128,3 +128,31 @@ WTF that powerlifting belt. There were some visible hints but that's so cool!
 Gonna have to try the CERN gym xD
 
 P.S. Don't try the burger again! It's really not worth the money.
+
+### 2024-01-12 22:50
+
+First friday, first weekend incoming. The week went by super fast. Spent the
+day struggling with the website kinda, but got a lot of progress in. I would
+just hope to code it up all by myself. But first reactions were nice. Got the
+*views* going at the end so it now seems like I know what I'm doing.
+
+Have seen the french mountains clearly for the first time!
+
+Great to talk to that Netherlands guys. Also Monika was one to talk to as well.
+Probably gonna work with her more during the Vito web dev. Also stoked about
+the next task (hopefully CERN approves it - learning JavaScript gonna be
+interesting but not as hard I think).
+
+I was the luckiest, late registering for the [BBC podcast
+event](https://indico.cern.ch/event/1330090/) and was able tob participate!
+What a lucky thing, like 800 people with really well known faces in the front.
+And most of the audience were CERN guys xD That's some audience as well (I
+really gotta get my own trip to the LHC done, because that would be a shame not
+actually seeing the big stuff). 
+
+Adding some images from the podcast event and on my way home: (also the gallery
+idea is not really bad - could use the slick library I found out about)
+
+<img src="images/another_globe.jpg" alt="globe" width=40%>
+<img src="images/podcast.jpg.jpg" alt="globe" width=40%>
+<img src="images/podcast2.jpg.jpg" alt="globe" width=40%>
