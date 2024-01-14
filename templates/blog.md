@@ -156,3 +156,31 @@ idea is not really bad - could use the slick library I found out about)
 <img src="images/another_globe.jpg" alt="globe" width=40%>
 <img src="images/podcast.jpg" alt="globe" width=40%>
 <img src="images/podcast2.jpg" alt="globe" width=40%>
+
+### 2024-01-13 23:14
+
+First saturday, first walk through Geneva, first shopping madness at the end of
+work day in coop. Geneva was cosy, not big, walkable. French is everywhere!
+People actually don't know much english. I started doing french duolingo course
+xD. Tried going to the Saint-Genis gym. Man they should really know a bit of
+english everywhere... 
+
+Geneva was nice, look at some of the nice images.
+
+<img src="images/geneva_0113/1.jpg" width=40%>
+<img src="images/geneva_0113/2.jpg" width=40%>
+<img src="images/geneva_0113/3.jpg" width=40%>
+<img src="images/geneva_0113/4.jpg" width=40%>
+<img src="images/geneva_0113/5.jpg" width=40%>
+<img src="images/geneva_0113/6.jpg" width=40%>
+<img src="images/geneva_0113/7.jpg" width=40%>
+<img src="images/geneva_0113/8.jpg" width=40%>
+<img src="images/geneva_0113/9.jpg" width=40%>
+<img src="images/geneva_0113/10.jpg" width=40%>
+<img src="images/geneva_0113/11.jpg" width=40%>
+
+Sunday is about trying to find suitable gym. I already know about a boulder gym
+and that is gonna be a plan for sometimes next week probably. We'll see what's
+the program. Also I should look at those indico events, because there might be
+something interesting that I'm missing.
+
