@@ -201,3 +201,17 @@ some ways how to try and solve the ssh connection task.
 
 Also I saw mountains on both sides for the first time! What a moment. The area
 is much mountain-y than what I've expected.
+
+### 2024-01-16 00:10
+
+Hey there. Just one late entry before the bed. Had my first monday report
+today. Felt like I was looking for words but it went ok. A. is giving me more
+programming tasks. 
+
+I became the master of cernoverride theme and hence the master of css. The site
+is gonna look good! I never knew the strenght of nautilus mounting. 
+
+Also went for the Bladonet nonstop gym and that's probably gonna be the gym to
+stay in. My legs are so sore! 140 squats without belt for twos. Felt really
+good. Place bit crowded but it never really stopped me from doing my stuff.
+
