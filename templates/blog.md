@@ -134,7 +134,8 @@ P.S. Don't try the burger again! It's really not worth the money.
 First friday, first weekend incoming. The week went by super fast. Spent the
 day struggling with the website kinda, but got a lot of progress in. I would
 just hope to code it up all by myself. But first reactions were nice. Got the
-*views* going at the end so it now seems like I know what I'm doing.
+*views* going at the end so it now seems like I know what I'm doing. Found out
+that A. had the phd done in Oxford from what it looks like, just wow.
 
 Have seen the french mountains clearly for the first time!
 
