@@ -216,3 +216,25 @@ Also went for the Bladonet nonstop gym and that's probably gonna be the gym to
 stay in. My legs are so sore! 140 squats without belt for twos. Felt really
 good. Place bit crowded but it never really stopped me from doing my stuff.
 
+### 2024-01-16 15:55
+
+This day takes so long, maybe because I'm basically alone here. Meeting is
+coming up shortly. I've done some good work today, the DB is waiting for
+approval, been running around asking questions and making stuff done. Will
+finish the day with looking at c++ resources for A.
+
+### 2024-01-16 23:21
+
+OK so the meeting was really something. It was a safety meeting mainly because
+of the fiery 24/10 incident with Ita. girl (the name of whom I'm still missing). 
+It looked rough for everyone because of the safety procedure changes that have
+to happen. It didn't sound that unreasonable, but I can imagine that those
+clever minds can think of something just on the spot (*just as I do while
+working*) that really has to be done in the moment and this kinda sabotages
+their work.
+
+Hopefully they get together to generate something that helps everyone and
+doesn't threaten ISOLDE anymore.
+
+Lidl shopping is goated. First chicken breasts today xD. Loved that. Would use
+some more cutlery, but I managed.

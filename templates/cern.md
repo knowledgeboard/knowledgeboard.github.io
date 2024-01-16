@@ -4,3 +4,4 @@
 [Isolde Access](https://isolde.web.cern.ch/get-access-isolde-facility)
 [Amy - Voigt](https://docs.mantidproject.org/nightly/fitting/fitfunctions/Voigt.html)
 [Amy - Fitting functions](https://docs.mantidproject.org/nightly/fitting/fitfunctions/index.html#fit-functions-list)
+[Amy - Fitting functions](https://jugit.fz-juelich.de/mlz)
