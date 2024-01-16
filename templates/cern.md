@@ -2,3 +2,5 @@
 [Mattermost](https://mattermost.web.cern.ch/newcomerscern/channels/town-square)
 [All the great lectures Summer 2023](https://indico.cern.ch/event/1254879/timetable/)
 [Isolde Access](https://isolde.web.cern.ch/get-access-isolde-facility)
+[Amy - Voigt](https://docs.mantidproject.org/nightly/fitting/fitfunctions/Voigt.html)
+[Amy - Fitting functions](https://docs.mantidproject.org/nightly/fitting/fitfunctions/index.html#fit-functions-list)
