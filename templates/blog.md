@@ -238,3 +238,24 @@ doesn't threaten ISOLDE anymore.
 
 Lidl shopping is goated. First chicken breasts today xD. Loved that. Would use
 some more cutlery, but I managed.
+
+### 2024-01-18 00:41
+
+An interesting day. I was pretty useful, almost finishing the N. visualizer
+project. Ending the day with actual python script generating real time data for
+the DB and visualizer working as intended. Probably gonna implement it
+tomorrow.
+
+In next few days, I'm gonna talk to M. about the website so I'm a bit nervous
+but I think we will manage together.
+
+I really like how much I need to go around and communicate with others, because
+I always feel like I know only half of the needed informations. And it's kinda
+like a game, figuring out all the necessary pieces to put together. Real team
+work feeling kinda.
+
+Finished my day with gym, chest day. I kept my strength mostly. Why are there
+only 37.5kg dumbbells in the gym. I was already repping that. We'll have to do
+some harder exercises with those ones. Other than that, I looked PEELED AF.
+
+
