@@ -270,3 +270,22 @@ all of it.
 
 Started talking a lot with most of the guys at lunch. Feels like I'm slowly
 getting tag of the *regular* one and kinda a part of team member.
+
+### 2024-01-18 23:13
+
+Evening entry. We have the test visualizer running :D My man is pumping it with
+data 2 random doubles + time code + maybe something else every 200ms. We
+already have some improvements for it and there are guys in the office looking
+to get something of their own plotted as well. I might set them up for
+something too.
+
+Finally bought a cutting board, the living conditions are slowly but surely
+improving. Also, found use for my first lessons level french in shape of *Cheval
+steak* in Carrefour 🐴.
+
+Also, this song might be a theme of this whole trip. It came out like a day or
+two after my arrival and I'm completely hooked.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Fq32xDMM2zLsNg7ppe64g?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
