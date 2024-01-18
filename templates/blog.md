@@ -261,4 +261,12 @@ Finished my day with gym, chest day. I kept my strength mostly. Why are there
 only 37.5kg dumbbells in the gym. I was already repping that. We'll have to do
 some harder exercises with those ones. Other than that, I looked PEELED AF.
 
+### 2024-01-18 13:08
 
+Afterlunch one. Tasks flying, zoned out with the website, N. comes in with
+Python requests. Still making improvements on website. Now gotta prepare the
+final version of everything for visualizer. It's like a game. Need to *minmax*
+all of it.
+
+Started talking a lot with most of the guys at lunch. Feels like I'm slowly
+getting tag of the *regular* one and kinda a part of team member.
