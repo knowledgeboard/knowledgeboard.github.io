@@ -336,7 +336,7 @@ some of the pictures.
 <img src="images/trip1/6.jpg" width=40%>
 <img src="images/trip1/7.jpg" width=40%>
 <img src="images/trip1/8.jpg" width=40%>
-<img src="images/trip1/9.jpg.jpg" width=40%>
-<img src="images/trip1/10.jpg.jpg" width=40%>
+<img src="images/trip1/9.jpg" width=40%>
+<img src="images/trip1/10.jpg" width=40%>
 
 I'm gonna go for a night gym session later.
