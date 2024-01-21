@@ -196,6 +196,8 @@ climbing kids as always. Talked a bit to these two in CERN student girls and
 they were great. One was getting seriously close to embarassing my climbing
 too. But luckily I showed off well.
 
+<img src="images/boulder.jpg" width=40%>
+
 Not gonna work much more today. Will get a dinner in. And probably look at some
 javascript thingy so I know what I'm getting myself into or I try to look for
 some ways how to try and solve the ssh connection task.
@@ -257,6 +259,8 @@ work feeling kinda.
 I opened my SWISS BANK ACCOUNT 🇨🇭 today! What a weird student's life this is.
 This is like a whole adventure. I'm glad that I'm keeping up with this blog.
 
+<img src="images/ubs.jpg" width=40%>
+
 Finished my day with gym, chest day. I kept my strength mostly. Why are there
 only 37.5kg dumbbells in the gym. I was already repping that. We'll have to do
 some harder exercises with those ones. Other than that, I looked PEELED AF.
@@ -287,5 +291,52 @@ Also, this song might be a theme of this whole trip. It came out like a day or
 two after my arrival and I'm completely hooked.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Fq32xDMM2zLsNg7ppe64g?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+### 2024-01-19 23:45
 
+End of the second working week. Clouds went finally away and it look awesome!
+**TODO: add some pics!** Also tried to get the bike sorted but that went south
+real bad. How does an atm not have enought money... 
 
+The visualization app is running, although there is a problem on upload (not on
+my side I think). And I had meeting with M. about the website and we finally
+have some contents for it. She has some really ambitious ideas for it. I'll try
+whats possible.
+
+I'm going to look for some trips around the area. Gym tomorrow for sure!
+
+End of the second working week. Clouds went finally away and it look awesome!
+Also tried to get the bike sorted but that went south real bad. How does an atm
+not have enought money... 
+
+<img src="images/sun1/1.jpg" width=40%>
+<img src="images/sun1/2.jpg" width=40%>
+<img src="images/sun1/3.jpg" width=40%>
+<img src="images/sun1/4.jpg" width=40%>
+
+The visualization app is running, although there is a problem on upload (not on
+my side I think). And I had meeting with M. about the website and we finally
+have some contents for it. She has some really ambitious ideas for it. I'll try
+whats possible.
+
+I'm going to look for some trips around the area. Gym tomorrow for sure!
+
+### 2024-01-20 17:22
+
+I'm home from a first little trip of mine to Jura mountains. And I'm so glad
+that I went. It was pretty cheap and quite easy to get to the mountains. Most
+of the time I was choosing pretty nonsense tracks for myself. It was a weird
+feeling being there just on my own. Felt kinda awkward for a bit. Gotta add
+some of the pictures. 
+
+<img src="images/trip1/1.jpg" width=40%>
+<img src="images/trip1/2.jpg" width=40%>
+<img src="images/trip1/3.jpg" width=40%>
+<img src="images/trip1/4.jpg" width=40%>
+<img src="images/trip1/5.jpg" width=40%>
+<img src="images/trip1/6.jpg" width=40%>
+<img src="images/trip1/7.jpg" width=40%>
+<img src="images/trip1/8.jpg" width=40%>
+<img src="images/trip1/9.jpg.jpg" width=40%>
+<img src="images/trip1/10.jpg.jpg" width=40%>
+
+I'm gonna go for a night gym session later.
