@@ -154,9 +154,11 @@ actually seeing the big stuff).
 Adding some images from the podcast event and on my way home: (also the gallery
 idea is not really bad - could use the slick library I found out about)
 
-<img src="images/another_globe.jpg" alt="globe" width=40%>
-<img src="images/podcast.jpg" alt="globe" width=40%>
-<img src="images/podcast2.jpg" alt="globe" width=40%>
+<div class="row slider">
+    <img src="images/another_globe.jpg" alt="globe" width=40%>
+    <img src="images/podcast.jpg" alt="globe" width=40%>
+    <img src="images/podcast2.jpg" alt="globe" width=40%>
+</div>
 
 ### 2024-01-13 23:14
 
@@ -168,17 +170,19 @@ english everywhere...
 
 Geneva was nice, look at some of the nice images.
 
-<img src="images/geneva_0113/1.jpg" width=40%>
-<img src="images/geneva_0113/2.jpg" width=40%>
-<img src="images/geneva_0113/3.jpg" width=40%>
-<img src="images/geneva_0113/4.jpg" width=40%>
-<img src="images/geneva_0113/5.jpg" width=40%>
-<img src="images/geneva_0113/6.jpg" width=40%>
-<img src="images/geneva_0113/7.jpg" width=40%>
-<img src="images/geneva_0113/8.jpg" width=40%>
-<img src="images/geneva_0113/9.jpg" width=40%>
-<img src="images/geneva_0113/10.jpg" width=40%>
-<img src="images/geneva_0113/11.jpg" width=40%>
+<div class="row slider">
+    <img src="images/geneva_0113/1.jpg"  width=40%>
+    <img src="images/geneva_0113/2.jpg"  width=40%>
+    <img src="images/geneva_0113/3.jpg"  width=40%>
+    <img src="images/geneva_0113/4.jpg"  width=40%>
+    <img src="images/geneva_0113/5.jpg"  width=40%>
+    <img src="images/geneva_0113/6.jpg"  width=40%>
+    <img src="images/geneva_0113/7.jpg"  width=40%>
+    <img src="images/geneva_0113/8.jpg"  width=40%>
+    <img src="images/geneva_0113/9.jpg"  width=40%>
+    <img src="images/geneva_0113/10.jpg" width=40%>
+    <img src="images/geneva_0113/11.jpg" width=40%>
+</div>
 
 Sunday is about trying to find suitable gym. I already know about a boulder gym
 and that is gonna be a plan for sometimes next week probably. We'll see what's
@@ -340,3 +344,33 @@ some of the pictures.
 <img src="images/trip1/10.jpg" width=40%>
 
 I'm gonna go for a night gym session later.
+
+### 2024-01-22 10:56
+
+No entry from yesterday, but mainly because I did almost nothing. Free day is
+fine as well (probably). Listened to some IT stuff, I feel like doing some kind
+of GPU raymarcher or voxel engine of some sort with physics and raycasting
+(*yeah influenced by teardown for sure* - *imitation is the greatest form of
+flattery*). 
+
+Called with 🦆❤️ as always! I'm glad for her.
+
+Also played around with this blog. Now know how I'm going to do img galeries,
+it's now just a matter of choosing nice way of implementing it - struggled with
+picture height/widht.
+
+And I've started watching a bit of netflix in the evening! xD Started the *Full
+swing* series about golf (drive-to-survive-like). And I was very impressed. So
+I'm probably gonna look at that more.
+
+NOW... It's Monday my dudes. Actually I'm really happy at work! Looks like some new
+projects are slowly coming my way. We just had meeting with A. and M.
+presenting their projects. A. measuring interfacial ionic conductivity in SSB
+was like just beyond what I could have understand. But I think with couple of
+searches I might get on top of that and it really sounded like a big great
+thing. Actually a project where I can see a work on something tangible
+(althought, nm of ssb xD). But it looks like some future tech which I would
+have no clue about otherwise. Glad to be here with them.
+
+Gotta go work on line fitting c++ before the lunch guy comes :D (muffin man:
+the lunch man).
