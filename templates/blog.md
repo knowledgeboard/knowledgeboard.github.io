@@ -374,3 +374,29 @@ have no clue about otherwise. Glad to be here with them.
 
 Gotta go work on line fitting c++ before the lunch guy comes :D (muffin man:
 the lunch man).
+
+### 2024-01-23 00:23
+
+Another Monday. What an eventful day! Got my credit card (made of cornstarch
+for some reason). After last entry we almost immediately had lunch, I went to
+work for a minute and Marius was heading away with Daniel to CMS for friendly
+excursion. And stuffed happend and they had one free spot which he gave to me.
+I'm so greateful. That was amazing. Gotta add some pics later **TODO: pics**.
+
+Stuff like science fiction. 100m underground, built on top and with crane took
+to the cavern. Crane was used to build the South African(I think) football
+stadium roof in one piece. Detector was huge and we saw it move. On freaking
+howercrafts xD ...scientists man (I'm kinda part of them). What a job to have.
+Guys looked like regular technicians but must be so into what they are doing
+and on another level. We also got to see mockup of the LHC tube which gave me a
+better idea of what and how it actually works.
+
+Got some work done in the end of the day. Ahhhh got my bike (#2277) this
+morning! 100 CHF deposit well spent :D It looks sick! 
+
+And did a evening (late evening) workout. It all feels great, but could be
+better in there. Maybe in the next days.
+
+See you tomorrow!
+
+
