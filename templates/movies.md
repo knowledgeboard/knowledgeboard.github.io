@@ -54,3 +54,4 @@
 [La La Land](https://www.youtube.com/watch?v=0pdqf4P9MB8&ab_channel=LionsgateMovies)
 [3 body problem](https://www.youtube.com/watch?v=mogSbMD6EcY&ab_channel=Netflix)
 [The Creator](https://www.youtube.com/watch?v=3o1sOCdLU4Y)
+[Bear](https://www.youtube.com/watch?v=kMGog1cU8BY&ab_channel=ThomasFlight)
