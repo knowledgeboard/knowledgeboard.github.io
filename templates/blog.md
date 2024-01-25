@@ -399,4 +399,35 @@ better in there. Maybe in the next days.
 
 See you tomorrow!
 
+### 2024-01-23 11:43
+
+Well today was more about programming than any other day xD I was deep in C++
+the whole day. Trying to figure out how to compile those three libraries
+together. Line fitting is gonna be in my dreams now. However, I think I figured
+what I could do to make it work. Gonna be another day of cpp and that's fine!!!
+
+Other than that I was fairly lazy. We watched another Black Mirror episode (I
+think one of the worst episodes tbh). Bought some stuff for mornings, kikoman
+for the rice and more pasta :P. Miss 🦆.
+
+The bike is amazing tho. I almost came late for work because I just knew how
+fast it's going to be.
+
+### 2024-01-24 10:46
+
+Quite a long day because I made it that way xD. Had a lot of fun with C++ in
+the past two days. Have been working for A. on her line fitting and it just
+couldn't compile together. So I tried to do my idea from yesterday and it
+worked. Self-contained my ass, now it is truly self contained... Producing 3.5k
+lines in 2 header and 1 cpp files. BUT it works without any need for some fancy
+special compilation. Great! A. seems to like the outcome. Quick scripting
+around and we were plotting different spectra left and right!. 
+
+Quick cycle home and back for gym. Quite a strong back, but cannot shake that
+idea that I lost size in the back. We'll see.
+
+I was able to get a place at ATLAS guide for this friday and ALICE with Lisa
+for early February! I'm probably gonna be able to see all the experiments I was
+looking forward to!
+
 

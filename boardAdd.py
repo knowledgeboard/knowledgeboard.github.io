@@ -1,6 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
-from argparse import ArgumentError, ArgumentParser, ArgumentTypeError, Namespace
+from __future__ import annotations
+
+from argparse import ArgumentParser, ArgumentTypeError, Namespace
 import sys
 
 TEMPLATE_PATH = "/home/marculonis/Desktop/Projects/knowledgeboard/knowledgeboard.github.io/templates/"
