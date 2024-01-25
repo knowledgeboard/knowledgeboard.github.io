@@ -399,7 +399,7 @@ better in there. Maybe in the next days.
 
 See you tomorrow!
 
-### 2024-01-23 11:43
+### 2024-01-23 23:43
 
 Well today was more about programming than any other day xD I was deep in C++
 the whole day. Trying to figure out how to compile those three libraries
@@ -413,7 +413,7 @@ for the rice and more pasta :P. Miss 🦆.
 The bike is amazing tho. I almost came late for work because I just knew how
 fast it's going to be.
 
-### 2024-01-24 10:46
+### 2024-01-24 22:46
 
 Quite a long day because I made it that way xD. Had a lot of fun with C++ in
 the past two days. Have been working for A. on her line fitting and it just
@@ -430,4 +430,19 @@ I was able to get a place at ATLAS guide for this friday and ALICE with Lisa
 for early February! I'm probably gonna be able to see all the experiments I was
 looking forward to!
 
+### 2024-01-25 23:50
 
+First half of the day great, second half meh. At least of the work part xD. 
+Did some improvements for C++ and I loved the way it turned out. Everyone is on
+safety procedures so I wasted some time with the website (*gotta add the content
+first before making it look pretty!!*).
+
+The weather is finally getting better! We get full days of at least partly blue
+skies! So mountains are always visible and the bike rides are amazing.
+
+Made some calls and did some bouldering afterwork. I moved up to a higher tier
+(dark blue me)! Still there are so many better climbers that do it so easily xD
+it's insane!
+
+Friday next!
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/08LcZvcgfqN5uKcGTb7Gc4?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
