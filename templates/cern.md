@@ -5,3 +5,5 @@
 [Amy - Voigt](https://docs.mantidproject.org/nightly/fitting/fitfunctions/Voigt.html)
 [Amy - Fitting functions](https://docs.mantidproject.org/nightly/fitting/fitfunctions/index.html#fit-functions-list)
 [Amy - Fitting functions](https://jugit.fz-juelich.de/mlz)
+[NMR 101](https://www.youtube.com/watch?v=YFftG1B-mYA&ab_channel=Bruker)
+[NMR ++](https://www.youtube.com/watch?v=Sn3dNMv-67k&ab_channel=Bruker)
