@@ -483,5 +483,15 @@ affordable. I gotta get my clubs here and practice and play! That would be
 amazing! Having like 10-15 rounds of golf during this trip?? JUST IMAGINE.
 
 Finished my day with wraps and **Sisu** :D The most bloody movie I've seen in a
-    while in which the main character says like two sentences. That was
-    something else.
+while in which the main character says like two sentences. That was something
+else.
+
+### 2024-01-28 18:12
+
+Loundry is done! Hate it! Struggled to figure everything out as there is
+nothing in english... But made it work and blacks are black and smelling good!
+
+Gotta get dinner soon, wanna look at the CERN golf club when I now know a bit
+more how everything works. Pretty excited about the golf courses that are
+around so would be great to get the clubs here. And want to look at raymarching
+in GPUs for possible raymarching project.
