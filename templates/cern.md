@@ -7,3 +7,4 @@
 [Amy - Fitting functions](https://jugit.fz-juelich.de/mlz)
 [NMR 101](https://www.youtube.com/watch?v=YFftG1B-mYA&ab_channel=Bruker)
 [NMR ++](https://www.youtube.com/watch?v=Sn3dNMv-67k&ab_channel=Bruker)
+[Golf club](https://club-golf.web.cern.ch/club-golf/)
