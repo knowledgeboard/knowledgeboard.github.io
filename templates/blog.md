@@ -495,3 +495,27 @@ Gotta get dinner soon, wanna look at the CERN golf club when I now know a bit
 more how everything works. Pretty excited about the golf courses that are
 around so would be great to get the clubs here. And want to look at raymarching
 in GPUs for possible raymarching project.
+
+### 2024-01-30 00:15
+
+Another Monday! The day went away so quick! I did almost nothing and still was
+productive the whole time. Weird days! Went to visit the **N_TOF** facility
+with other ISOLDE people. I'm not one of the nuclear physicists so it wasn't
+aimed at me that much, BUT I think that I saw what F.Mraz was telling me about
+(TimePix something device -- calibration of beam and laser?? or something like
+that from what I talked to the head of N_TOF... which is also crazy). Lab with
+the most RP precautions I have seen to this point. Also this AL^26 story xD
+Kekw
+
+We tried to work on magnet with A. but we got a leak. Before that we saw a
+correct signal so that was positive!
+
+End of the day was quick. With a few french phrases from me, M., I. and A. :D
+
+Plus gym (filled but ok... headphones dead :/).
+
+There's a farmers strike tomorrow from 9 in the morning. I'm interested if I'm
+gonna see some of them xD
+
+Life is good
+See you tomorrow!
