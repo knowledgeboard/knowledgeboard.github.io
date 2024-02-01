@@ -519,3 +519,38 @@ gonna see some of them xD
 
 Life is good
 See you tomorrow!
+
+### 2024-01-30 19:21
+
+Tuesday! I'm still waiting for the PIN for my card. Hopefully that comes soon.
+Spending more and more time in the 275 :D. The C++ is always trying to argue
+but I've always managed to persuade it somehow. For some reason A. thought that
+I'm staying for only 3 months, so got something like (*cannot you stay for more
+than 3 months* -> *oh you are staying for six :D*). I'm really glad to be
+useful to others.
+
+LHCB next. Met Fatimah and Enrico together with other guys from the visit. It
+was quite a tiny detector compared to the other ones (but the lowest I've been
+-- -108m). Detector for only one side of the collision and the huge
+*rotor*-looking thingy on the other side. CMS still rules as the best I would
+say.
+
+Lazy rest of the evening.
+
+### 2024-01-31 11:21
+A long night with gym ... deadlifts -- 180 without a belt, 170x3 without a
+belt, felt really strong just having to focus on streangtening my back as much
+as possible so it does not move! Not the greatest thing for power but I'm
+gaining confidence in those lower weights.
+
+Pizza (tuna with red onions -- never seen in CZ) + chicken now :P.
+
+The working days are going so fast now! Every day I'm at least once in the lab.
+So there's c++ always on the menu. We are starting to make it work. Major
+unexpected problem with the fitting as the data was nowhere close to being fit
+correctly. The data is just to dense. Main peak is around -3500 which is so
+much further. Worked at the end tho. Plus almost all the python is now
+transfered!
+
+
+
