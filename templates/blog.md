@@ -537,7 +537,7 @@ say.
 
 Lazy rest of the evening.
 
-### 2024-01-31 11:21
+### 2024-01-31 23:21
 A long night with gym ... deadlifts -- 180 without a belt, 170x3 without a
 belt, felt really strong just having to focus on streangtening my back as much
 as possible so it does not move! Not the greatest thing for power but I'm
@@ -552,5 +552,20 @@ correctly. The data is just to dense. Main peak is around -3500 which is so
 much further. Worked at the end tho. Plus almost all the python is now
 transfered!
 
+
+### 2024-02-01 23:43
+
+These days I'm more in the lab than anywhere else. C++ is always throwing rocks
+at you but we are fighting well and it's moving! I was *interrogated* by M.
+about the progress and at the end of the day we showed her some of it. It
+wasn't perfect, but seemed alright! 
+
+Also did some lighter leg workout... cos my legs are still burning from last
+friday!
+
+I'm looking forward to 🦆❤️! She's here in a minute! We called as pretty much
+always and that's always nice to hear!
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6YZZvbeTNUmNDxrMnNZMg1?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
