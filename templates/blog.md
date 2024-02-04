@@ -568,4 +568,16 @@ always and that's always nice to hear!
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6YZZvbeTNUmNDxrMnNZMg1?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+### 2024-02-04 01:49
 
+Late saturday entry xD No entry from yesterday as I was expecting 🦆❤️ and had
+no time afterwards to write anything. Was really awesome to meet again! More
+left for the memories...
+
+Today we were lazy, had lunch, walked through most of the CERN and R1 and
+our offices, seen everything outside of the Meyrin site at CERN, went to
+Manor for coffee and visited the best light festival ever (Geneva Lux --
+possibly the 10th). It has been great having her around again! Made dinner and
+watched Your Name. Lovely movie.
+
+Such a long Saturday! Loved that. Bit of a shopping and climbing tomorrow :).
