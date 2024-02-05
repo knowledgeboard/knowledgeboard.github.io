@@ -581,3 +581,28 @@ possibly the 10th). It has been great having her around again! Made dinner and
 watched Your Name. Lovely movie.
 
 Such a long Saturday! Loved that. Bit of a shopping and climbing tomorrow :).
+
+### 2024-02-05 08:43
+
+Monday morning! Nothing from yesterday so here I am. It's not that it would
+have been super busy or anything like that. It was just great having her around
+and I didn't spend any time at pc. We stayed in mostly, went shopping for a
+bit, had great lunch and went to the Totem bouldering gym, which went very
+well.
+
+Today she took me to my work and we left it off there. See you soon, hopefully!
+
+### 2024-02-05 20:49
+
+Another Monday!! Lab work continues, but the stabilisation was running today!
+So big improvement. They always come at the end of the day to keep me there
+longer than I would like (but I like it). I know all of the c++ project now so
+the work is actually so good on it. And I have ideas how to improve fitting
+with some smoothing things... Gonna be great.
+
+🦆❤️ arrived home! The weekend was something that I really needed! We started
+watching One Piece yesterday and it is surprisingly great. I should probably
+give more on others opinions about these shows! They are actually fine.
+
+Wanna look into c++ RayMarching for a bit! Tomorrow probably fast shop and gym.
+See you then!
