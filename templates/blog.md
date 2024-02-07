@@ -635,3 +635,7 @@ but amazing xD
 
 My true first french lesson comes tomorrow.
 
+### 2024-02-07 10:01
+
+Finished all of my online lessons. Have to get safety stuff, dosimeter, and
+full day RP/Electrical courses and we are done xD So much safety to do...
