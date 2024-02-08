@@ -42,3 +42,4 @@
 [AVX Advanced Vector Extensions C++](https://www.cs.uaf.edu/courses/cs441/notes/avx/index.html)
 [Nvidia Raymarch](https://graphicscodex.courses.nvidia.com/app.html?page=_rn_rayMrch)
 [CUDA tutorial](https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/)
+[Fix Kernel Panic Ubuntu](https://www.geekswarrior.com/2019/07/solved-how-to-fix-kernel-panic-on-linux.html)

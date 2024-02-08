@@ -639,3 +639,25 @@ My true first french lesson comes tomorrow.
 
 Finished all of my online lessons. Have to get safety stuff, dosimeter, and
 full day RP/Electrical courses and we are done xD So much safety to do...
+
+### 2024-02-07 23:12
+
+First french lesson :D That's gonna be some fun. Guy speaks really a
+french-english and french so it's like 50:50 foreign:foreign language lesson.
+Which is awesome! Other than the obnoxious german guy, everything was amazing!
+
+The work is slow now. There's not much to do on the magnet
+because it does not work again. The water leaks fixes and subsequent
+upgrades did not help much and actually made it worse for now. Hopefully it
+gets better soon so we can see the stabilisation in action!
+
+Gym felt good, back day, full of energy, good! 3 sets 90kg bentover rows. Felt
+good.
+
+Another long distance call and OnePiece!
+
+Also my YoungLa stuff came this morning! Gonna get them tomorrow (*Clothing
+show tomorrow? :P*).
+
+
+
