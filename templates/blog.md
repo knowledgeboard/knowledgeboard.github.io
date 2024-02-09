@@ -660,4 +660,15 @@ Also my YoungLa stuff came this morning! Gonna get them tomorrow (*Clothing
 show tomorrow? :P*).
 
 
+### 2024-02-09 00:16
+Hey I got my new gym gear! YoungLA is freaking goated. Everything fits
+perfectly (*for my own liking*). And the double layered shorts! Goated.
 
+Work was feeling slow today, but killed time with website (*filling up profile
+pics with xkcd memes xD*). Preparing all of the content already. Probably gonna
+spend tomorrow with it as well. Also, wanna get my dosimeter tomorrow morning.
+ANd hopefully find some spot for earlier RP course than 2nd of April xD.
+
+Ended the day with another OnePiece and some french.
+
+And probably late gym tomorrow if I may guess. See you then! Bye.

@@ -8,3 +8,4 @@
 [NMR 101](https://www.youtube.com/watch?v=YFftG1B-mYA&ab_channel=Bruker)
 [NMR ++](https://www.youtube.com/watch?v=Sn3dNMv-67k&ab_channel=Bruker)
 [Golf club](https://club-golf.web.cern.ch/club-golf/)
+[Radiation protection at CERN](https://cds.cern.ch/record/1533023/files/CERN-2013-001-p415.pdf)
