@@ -659,8 +659,8 @@ Another long distance call and OnePiece!
 Also my YoungLa stuff came this morning! Gonna get them tomorrow (*Clothing
 show tomorrow? :P*).
 
-
 ### 2024-02-09 00:16
+
 Hey I got my new gym gear! YoungLA is freaking goated. Everything fits
 perfectly (*for my own liking*). And the double layered shorts! Goated.
 
@@ -672,3 +672,32 @@ ANd hopefully find some spot for earlier RP course than 2nd of April xD.
 Ended the day with another OnePiece and some french.
 
 And probably late gym tomorrow if I may guess. See you then! Bye.
+
+### 2024-02-10 00:21
+
+Long day but just a quick one. I was fortunate enough to land a spot on a trip
+to Ostenensee (*maybe*) with a couple of other guys! BUT it's really ealry in
+the morning... Sooo gotta hit bed asap. 
+
+Work was weird! Magnet worked, then everything worked, then motor started doing
+weird things... nwm, I thought I knew the solution... lunch and the spectrum is
+nowhere to be found!!! Got my dosimeter today tho!
+
+French... man who designed the numbering system. above 60 it's sum... above 80
+it's partly multiplication WTF! Language sounds great tho and I love to add new
+phrases to our convos with Lufi (*he's probably gonna be the king of the
+pirates* xD).
+
+I did a leg day today! With my new belt and shorts!!! Ohh I love those! 150kg
+squat, 140x3 easily. Felt alright! Met this guy whose name I can't come up with
+atm, super amazing english, great squats. 55 year old english teacher in
+Geneva, absolute beast! Sporty, did squats with like 105/110, then went to
+bench 3x5 100kg pretty much close grip bench like fuck yeah! Gotta talk to him
+more! Also had a silent, distant moment with an gorg asian girl when we crossed
+paths at CERN in the evening. Guys were going out and I was returning for my
+bike. With the size of this thing, I'm probably not gonna see many guys more
+than once xD Probably should talk to everyone interesting the first chance I
+got.
+
+See you tomorrow! Gotta wake up so early!
+
