@@ -701,3 +701,19 @@ got.
 
 See you tomorrow! Gotta wake up so early!
 
+### 2024-02-11 18:46
+
+Sunday, nothing yesterday as I was happy to be happy. Woke up super early to
+meet 4 other guys at Carrefour and go to see on really really snowy adventure.
+Nice hike although we could have gone a bit further (*batter safe than
+sorry*). 
+
+Today I took my window blinders fully down, so I slept till like 10:30 with no
+problem xD did laundry, looked at french stuff, played arround with CUDA (*need
+to find some sample projects for cuda opengl interopt*). Pretty nice calm day.
+
+Played a bit of Shapez and got hooked on overoptimizing everything xD Not a
+game for me probably... 
+For some reason, I'm getting insecure feelings about stuff... but probably
+that's just my weekend brain going over the allowed limit of thinking time...
+I'm planning a small surprise for 🦆❤️.
