@@ -4,3 +4,4 @@
 [Artstation Nature fine](https://www.artstation.com/quentinregnes)
 [Freedium](freedium.cfd)
 [web dev list](https://dev.to/yirenlu/the-right-way-to-build-a-web-app-in-2021-4jc5)
+[Semantic Versioning 2.0.0](https://semver.org/)
