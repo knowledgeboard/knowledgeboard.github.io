@@ -742,11 +742,11 @@ some work to be done with it. I'm probably sinking a few days into it.
 Other than that I went shopping and had a lazy evening with a bit of reaserch
 to cuda stuff and *Full Swing* videos. 
 
-### 2024-02-14 23:11
+### 2024-02-15 00:20
 
 Valentine's day! Everything arrived well :) Glad to make her happy with small
 things like that! Was waiting till 4pm. the whole day... so the day went by
-fast!
+fast! We finished the live action One Piece xD Onto the anime now... xD
 
 French was interesting and I feel like I'm slowly getting into it! I'm surely
 not the best there. There are guys with latin knowledge and much better
@@ -758,3 +758,18 @@ weird serial comm which doesn't want to behave. There are a few things to test
 so I always have something to try! Other than that, we were able to run the
 stabilisation so progress!
 
+### 2024-02-15 23:13 
+
+Back was really exhausted from last nights gym - deadlifts and more. So I'm
+staying at home, cooking and being lazy. I found some interesting Cuda+OpenGL projects
+so I might try to work with them.
+
+I love how often I get to call with everyone! 🦆❤️ pretty much every day these
+days!
+
+Achievements at work! Stabilization ran for the first time for a long long
+time. We are in area of just fixing corner cases, which break the comm once in
+a while (haven't happened in a while). The arduino sucks, but we are handeling
+it! Lovely encounter with Nik. yesterday when we got blame for him
+disconnecting his own under current cables. It is a great fun with A. these
+days! Had birthday yesterday so seemed under the weather xD It was a fun day!
