@@ -758,6 +758,8 @@ weird serial comm which doesn't want to behave. There are a few things to test
 so I always have something to try! Other than that, we were able to run the
 stabilisation so progress!
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4yNk9iz9WVJikRFle3XEvn?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### 2024-02-15 23:13 
 
 Back was really exhausted from last nights gym - deadlifts and more. So I'm
