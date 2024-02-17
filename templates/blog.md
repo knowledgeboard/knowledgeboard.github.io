@@ -775,3 +775,20 @@ a while (haven't happened in a while). The arduino sucks, but we are handeling
 it! Lovely encounter with Nik. yesterday when we got blame for him
 disconnecting his own under current cables. It is a great fun with A. these
 days! Had birthday yesterday so seemed under the weather xD It was a fun day!
+
+### 2024-02-17 12:37
+
+I'm up! xD Friday at work ended up with French lesson and Francesco offering me
+and the indian girl their party that night! So I took Gin, got gym in between
+and went there (in SG). 
+
+The house was packed! It felt like a premium MFF party xD mainly guys, some
+girls but at least everyone was quite talkative. Had fun. Talked to a few gym
+guys xD The Estonian was really funny. We met with the US(Jeevi)/ITA friend
+pair and other than the unreasonable tremblings for weed, they were great. It
+was the ITA's girl first night at CERN, visiting her brother :D. Drank a little
+but nothing crazy! Everyone was going arond 12-1, I went around 2 and was still
+able to cycle home. Completely fine.
+
+Gotta be a lazy day today, but still want to go climbing today!
+
