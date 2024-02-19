@@ -792,3 +792,21 @@ able to cycle home. Completely fine.
 
 Gotta be a lazy day today, but still want to go climbing today!
 
+### 2024-02-18 01:26
+
+Lazy lazy saturday xD Bit of search for my next graphical app, shop, lunch, call
+(we are thinking about timing on Dune 2), boulde, I did another dark blue and
+new routes! And kinda injured my left ring finger a little on two hole pocket
+and move to the right side. Immediate pain, was able to continue tho. Some
+tendon shit probably. No big deal, can't push straight into it but again, you
+can't otherwise even when it's fine xD. All good.
+
+### 2024-02-19 00:20
+
+Sunday was fun, finally did some stuff on the raymarching algorithm and it
+looks goood on gpu! Did some meat prep, gym and looked at golf stuff. If I
+don't receive an offer in next week I'm buying them on my own because that's
+just horrible way of dealing with stuff and at the moment I REALLY don't care
+about saving 2k to wait another X weeks.
+
+Learning more french. Going great! fluent probably in no time xD
