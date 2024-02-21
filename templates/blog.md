@@ -844,3 +844,23 @@ Gym-chest was alright... although bench is not as strong as I would like... did
 
 We have watched first anime one piece! (One Pace actually) And it trully looked
 like a pokemon xD Feels interesting.
+
+### 2024-02-22 00:22
+
+Hello, I HAVE FIRST CERN MERGE xD seems like nothing, it is nothing, BUT sounds
+cool! My code works, it's faster, better, cleaner. Mornign was slow but after
+lunch we made everything work and it felt great! 
+
+A. played the **Barbara's bombastic Rhubarb pie**... and it's horrible... FUCK
+IT, I'm gonna link it HERE xD
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7ki0Q2nYTBhVxZvqLLDp5W?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+French was quite fun. Ended with the german guy complaining about trafic. We had
+great time with the indian girl just laughing at him. She finished him by *you
+would die in India*. BASED TAKE xD
+
+Gym after, legs. Why do I feel weak when I'm able to do (on the way up), do
+everything, 4x140kg, 3x1x150kg, 2*9x120kg(till fail), (10-15)x100kg. STIL FEELS
+WEAK WTF! finished with all other parts. Huge pump tho. It's probably fine!
+Need some sleep now tho. See you later!
