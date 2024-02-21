@@ -830,3 +830,17 @@ not hey.
 
 ALSO the callaway XR 13 seems like a nice choice. I might get that one, if
 there's a reasonable price on that.
+
+### 2024-02-21 00:22
+
+OK on friday I'm flying home! With 🦆❤️ as well! 
+
+The day was full of programming, refactoring the stabilization code. We'll test
+it tomorrow. Looking forward to that, because I feel like it must have changed
+a lot, but I had no way of testing xD So programming in blind.
+
+Gym-chest was alright... although bench is not as strong as I would like... did
+90kg for 5,4.5,4.5.
+
+We have watched first anime one piece! (One Pace actually) And it trully looked
+like a pokemon xD Feels interesting.
