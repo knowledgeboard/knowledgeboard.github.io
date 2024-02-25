@@ -864,3 +864,45 @@ Gym after, legs. Why do I feel weak when I'm able to do (on the way up), do
 everything, 4x140kg, 3x1x150kg, 2*9x120kg(till fail), (10-15)x100kg. STIL FEELS
 WEAK WTF! finished with all other parts. Huge pump tho. It's probably fine!
 Need some sleep now tho. See you later!
+
+### 2024-02-22 23:55
+
+Just finished a little fun talk with 🦆❤️! Love!
+
+The day was quite long but maybe I'm already looking forward to tomorrow :)
+Full day of rain so everyone stayed inside, no lab, just programming and
+fooling around. 
+
+No gym, but a quick shop and calm evening. See you at home!!
+
+### 2024-02-24 12:15
+
+HEY, I'm at home! Nothing from yesterday, the work day was quite nice, work on
+my own NVIM Lua config, then did some work on CPP with A. No french lesson
+unfortunately but was able to leave a bit earlier and catch my plane home.
+
+Was able to get from work through airport security in less then 30 minutes xD
+Absolutely amazing. Still had an hour to wait on the airport because of the
+gate closing policy... kinda dumb. It would be great if it was possible to
+close the gate like 10 mins before and that would make it much quicker for
+some. Parents picked us up from the airport. Funny that the air travel was
+exactly a half of the journey xD
+
+Great to be at home. Had much fun with 🦆❤️!
+
+### 2024-02-25 23:51
+
+Heyo, I'm back at Geneva (Fr actually). The flight was awful xD but still
+better than anything else! Like 2-2.5h delay because of plane's technical
+probelms in Barcelona before Prague... Interesting. Although I was able to
+spent a bit more time with 🦆❤️ and I've been really enjoying having her around!
+
+I brought DUNE book with me. And immediately I was able to read a bunch of it
+again while waiting for the plane and on the airplane. Other than that, the
+trip from the airport was rather uneventful.
+
+The weekend with everyone around was really amazing! Although I feel a bit bad
+that I cannot properly talk about everything that is happening at CERN. While
+I'm still really interested, I really am missing some stuff which are just
+kinda out of my league... I'm gonna try to learn a bit and maybe I'm gonna be
+able to talk about more interesting stuff on the next visit :).
