@@ -35,3 +35,5 @@
 [Actor critic - a2c](https://huggingface.co/blog/deep-rl-a2c)
 [A2C implementation - Towards data science](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)
 [A2C continuous actions](https://medium.com/@asteinbach/rl-introduction-simple-actor-critic-for-continuous-actions-4e22afb712)
+[Self Attention and Transformers medium article](https://medium.com/aiguys/a-detailed-look-at-self-attention-and-transformers-6a07c2d7af41)
+[Attention Is All You Need - Paper](https://arxiv.org/abs/1706.03762)

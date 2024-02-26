@@ -906,3 +906,8 @@ that I cannot properly talk about everything that is happening at CERN. While
 I'm still really interested, I really am missing some stuff which are just
 kinda out of my league... I'm gonna try to learn a bit and maybe I'm gonna be
 able to talk about more interesting stuff on the next visit :).
+
+### 2024-02-26 11:26
+
+Got a low level Gamma MRI description from Mateus and that was lovely! Must
+explore the website more!
