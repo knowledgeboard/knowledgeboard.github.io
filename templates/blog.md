@@ -907,7 +907,7 @@ I'm still really interested, I really am missing some stuff which are just
 kinda out of my league... I'm gonna try to learn a bit and maybe I'm gonna be
 able to talk about more interesting stuff on the next visit :).
 
-### 2024-02-25 11:26
+### 2024-02-26 11:26
 
 Got a low level Gamma MRI description from Mateus and that was lovely! Must
 explore the website more!
@@ -916,3 +916,10 @@ The quartz tubes are filled with xenon and activated in reactor, shipped back,
 tested for contaminations (of tubes), tested with gamma spectroscopy, then
 crushed in vacuum to move to another tube to be then used in Gamma NMR for
 improvements with polarised stuff...
+
+### 2024-02-26 23:08
+
+After gym - finally hit 100kg for 2 on bench again! ALSO I weighted in at 80kg.
+Eating properly pays off looks like.
+
+It was pretty strong. Probably the lazy weekend at home and sleep works well xD
