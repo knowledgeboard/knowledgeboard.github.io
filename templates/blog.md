@@ -923,3 +923,16 @@ After gym - finally hit 100kg for 2 on bench again! ALSO I weighted in at 80kg.
 Eating properly pays off looks like.
 
 It was pretty strong. Probably the lazy weekend at home and sleep works well xD
+
+### 2024-02-28 00:04
+
+After One Pace post. We got another episode in and it's getting better and
+better! 
+
+Did pretty late gym today. Wanted to try 200kg deadlift... Legs weren't there
+yet, probably still not 100% from last leg day (last thursday I think). 190
+went hard. 170x3 good.
+
+Work was fine, bit of setup work (TMUX and stuff), trying to get my VM started
+to install QT creator for myself and some PICO5000 work - it sucks xD
+Everything is an unexpected behaviour.

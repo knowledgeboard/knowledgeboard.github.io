@@ -5,7 +5,7 @@ from __future__ import annotations
 from argparse import ArgumentParser, ArgumentTypeError, Namespace
 import sys
 
-TEMPLATE_PATH = "/home/marculonis/Desktop/Projects/knowledgeboard/knowledgeboard.github.io/templates/"
+TEMPLATE_PATH = "/home/marculonis/Desktop/Projects/knowledgeboard.github.io/templates/"
 
 groups = ["ai","graphics","it","movies","other","school","vim","test","cern"]
 
