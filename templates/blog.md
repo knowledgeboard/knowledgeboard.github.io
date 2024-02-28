@@ -949,9 +949,13 @@ Just talked to M. about different LHC stuff (my dumb little questions)... SOOO:
     being fed in and accumulated and sped up AND then collision are set up to
     happen,
 * soo *collision events* are happening for like a few hours - until they decide
-    it's not worth it anymore and saturation starts again
+    it's not worth it anymore and saturation starts again,
+* also the *collision events* are pretty much probabilistic - meaning that they
+    are happening all the time (possibly at all places at once - *in LHC*) BUT
+    as it was described -- *hitting two particles together is like trying to
+    throw two needles across the Atlantic and hit them streight on*,
 * also cool! when it is not worth anymore - for some reason - particles are
     dumped (*you guessed it*) into a beam dump xD M. said that one of the
     towns/villages nearby is actually partly running their heating using the
     heat from the particle dump (the only source we found atm is about the
-    water being used -- [link](https://home.cern/news/news/engineering/lhcs-cooling-system-energy-source-cerns-neighbours))
+    water being used -- [link](https://home.cern/news/news/engineering/lhcs-cooling-system-energy-source-cerns-neighbours)).
