@@ -936,3 +936,22 @@ went hard. 170x3 good.
 Work was fine, bit of setup work (TMUX and stuff), trying to get my VM started
 to install QT creator for myself and some PICO5000 work - it sucks xD
 Everything is an unexpected behaviour.
+
+### 2024-02-28 15:53
+
+Just talked to M. about different LHC stuff (my dumb little questions)... SOOO:
+* ISOLDE is one of the lowest energy points of the beam because we are
+    basically the closest to the origin (1.4 GeV),
+* BUT because of that we are getting like 50% of all the particles (as I was
+    told),
+* at the LHC things are bit more interesting (~14 TeV - 7 + 7),
+* the particles need time to saturate the LHC and get to the speed, they are
+    being fed in and accumulated and sped up AND then collision are set up to
+    happen,
+* soo *collision events* are happening for like a few hours - until they decide
+    it's not worth it anymore and saturation starts again
+* also cool! when it is not worth anymore - for some reason - particles are
+    dumped (*you guessed it*) into a beam dump xD M. said that one of the
+    towns/villages nearby is actually partly running their heating using the
+    heat from the particle dump (the only source we found atm is about the
+    water being used -- [link](https://home.cern/news/news/engineering/lhcs-cooling-system-energy-source-cerns-neighbours))
