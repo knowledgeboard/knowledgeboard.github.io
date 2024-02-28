@@ -959,3 +959,19 @@ Just talked to M. about different LHC stuff (my dumb little questions)... SOOO:
     towns/villages nearby is actually partly running their heating using the
     heat from the particle dump (the only source we found atm is about the
     water being used -- [link](https://home.cern/news/news/engineering/lhcs-cooling-system-energy-source-cerns-neighbours)).
+
+### 2024-02-28 23:40
+
+Well, today was a good day, calm evening with shop and then dinner and nothing.
+Stayed a bit late at work, just talking with M., I. and D. about everything
+funny beamtime. 
+
+I missed the french lesson today... I was so caught up in the work (was doing
+bunch of great pointer magic and I managed to make it work! *VOID Pointers suck
+it!!*). So unfortnuately but hey, don't let it stink that long. Tomorrow there
+is some emergency Python coding because A. and M. were in the hospital and
+Python is throwing some errors! Let's GO!
+
+Have been talking with M about LHC (see up for more ^^^).
+
+Golf clubs called! They are on the way! XR13 stiff here we gooo!
