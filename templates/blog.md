@@ -975,3 +975,28 @@ Python is throwing some errors! Let's GO!
 Have been talking with M about LHC (see up for more ^^^).
 
 Golf clubs called! They are on the way! XR13 stiff here we gooo!
+
+### 2024-02-29 23:51
+
+The Grand Budapest Hotel is amazing! Thank you M.
+
+The day was lazy... I sunk it into the PICO5000 problem. In the end when I
+started to rewrite init, because I stopped trusting A's setup and she sat with
+me. We found the issue like in the second or third function.... Well I'm glad
+it works now.
+On more possitive note. It looks like I'm gonna be joining them in the Genevian
+hospital tomorrow to debug python on site! What a fortunate position that I am
+working at!
+
+Gym was harsh. Bit of legs, tried squats -- did couple sets of 140, but sore
+back from last strength backday didn't allow for much. The other parts were
+fine and walking lunges as well. Might try to incorporate them more into my
+trainings. 
+
+Also A. invited me to ski with them on saturday! Time to scavange for
+approriate tools xD
+
+🦆❤️ arrrived to Budapest today. Hope they are gonna be alright. She's the best
+I could have wished for. For some reason I'm not feeling 100%. I hope it all
+goes fine during the semester and that we can keep our long distance thing
+running well.
