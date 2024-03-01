@@ -947,19 +947,20 @@ Just talked to M. about different LHC stuff (my dumb little questions)... SOOO:
     told),
 3. at the LHC things are bit more interesting (~14 TeV - 7 + 7),
 4. the particles need time to saturate the LHC and get to the speed, they are
-    being fed in and accumulated and sped up AND then collision are set up to
-    happen,
-5. soo *collision events* are happening for like a few hours - until they decide
-    it's not worth it anymore and saturation starts again,
-6. also the *collision events* are pretty much probabilistic - meaning that they
-    are happening all the time (possibly at all places at once - *in LHC*) BUT
-    as it was described -- *hitting two particles together is like trying to
-    throw two needles across the Atlantic and hit them streight on*,
+   being fed in and accumulated and sped up AND then collision are set up to
+   happen,
+5. soo *collision events* are happening for like a few hours - until they
+   decide it's not worth it anymore and saturation starts again,
+6. also the *collision events* are pretty much probabilistic - meaning that
+   they are happening all the time (possibly at all places at once - *in LHC*)
+   BUT as it was described -- *hitting two particles together is like trying to
+   throw two needles across the Atlantic and hit them streight on*,
 7. also cool! when it is not worth anymore - for some reason - particles are
-    dumped (*you guessed it*) into a beam dump xD M. said that one of the
-    towns/villages nearby is actually partly running their heating using the
-    heat from the particle dump (the only source we found atm is about the
-    water being used -- [link](https://home.cern/news/news/engineering/lhcs-cooling-system-energy-source-cerns-neighbours)).
+   dumped (*you guessed it*) into a beam dump xD M. said that one of the
+   towns/villages nearby is actually partly running their heating using the
+   heat from the particle dump (the only source we found atm is about the water
+   being used --
+   [link](https://home.cern/news/news/engineering/lhcs-cooling-system-energy-source-cerns-neighbours)).
 
 ### 2024-02-28 23:40
 
