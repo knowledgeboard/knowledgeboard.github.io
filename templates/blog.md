@@ -1018,3 +1018,23 @@ time because we have done body parts again.
 
 Afterwards we talked with N. for a moment and I went to Decathlon in Geneva to
 buy some ski equipment. BECAUSE I'M GONNA GO SKI TOMORROW! HELL YEAH!
+
+### 2024-03-03 23:47
+
+Sunday, nothing from yesterday as there was a full day of skiing and had no
+energy to do nothing else after that xD But it was awesome! We have really
+really great ability on skies. Timo has been said to be the best and I was way
+more in my own element around there. It was really awesome, had a great time.
+The snow quality wasn't the best, it was around +5-7 degrees all day so it was
+getting heavier, but I got a better set of skies (rent - Noir set/Black set).
+And I was fairly happy about my choice. (TODO: ADD ALL THE SNOW PICS)
+
+Today I slept a lot xD but my legs were quite fine. I got a late lunch, decided
+to go for the Car Show. The main part was a little underwhelming, but the
+supercar section and older cars were amazing (TODO: again, pictures).
+
+Got more hypertrophy chest workout in after that -- so I made it into a fully
+active weekend xD. Was really happy with that as well.
+
+Nadin is talking with me again. I'm probably gonna help her with some IT
+knowledge towards her new job now.
