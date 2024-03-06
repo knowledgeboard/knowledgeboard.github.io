@@ -1059,3 +1059,30 @@ and everyone was doing cables...
 
 Also, the washing machines tried to fuck me over but I managed to get it done.
 Well, no washing but at least I got my money back... Gotta try again tomorrow.
+
+### 2024-03-05 23:34
+
+Tuesday and the work was fun. Almost full day spent with A. on software for
+counters (hospital stuff). AND WE made it work at like 17:45.
+
+On worse note I might have shingles. As if it wasn't destined to be -- some
+problem on my half year stay here. We are gonna get through. 
+
+I have my plane tickets for Easter and looking forward to everything and Finja
+afterwards. Gotta get some hikes planed.
+
+### 2024-03-06 15:52
+
+FIRST Actuall case of testing from which floor the egg breaks. AMAZING!
+
+Also I'm making our Italian friend into a cpp developer. Que the Silicon Valley
+"her java subroutine is so sexy" moment xDDD. 
+
+<img src="images/java.jpg" alt="java" width=40%>
+
+Also went through morning check at CERN and an afternoon check at the Meyrin
+hospital. I would say everything alright. It's not, doctor confirmed shingles
+for now and I have meds. That's the good part.
+
+Back to work.
+
