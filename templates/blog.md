@@ -1086,3 +1086,23 @@ for now and I have meds. That's the good part.
 
 Back to work.
 
+### 2024-03-07 00:07
+
+Home, not doing much, but at least I know what's up with me and we can do
+something with it. Early night and RP course tomorrow.
+
+### 2024-03-07 21:30
+
+I am fully protected AAAND 🦆❤️ is here!
+
+Well I'm fully protected! RP was fun. Went there with one Italian girl and like
+6 firefighters. Pretty easy, advanced physics helped the radiation knowledge.
+
+M. was bothering me a bit because the stabilisation software was not working.
+A. probably wrote the procedure a bit worse than it should have been for M. BUT
+it was working when I made it there... yes I was picked up and driven to 275
+instead of lunch and got to debugging. The program ran BUT the fitting was
+acting up again... as the signal of 23Na is like 16 times lower than what it
+was before. So that's gonna be fun.
+
+Love here.
