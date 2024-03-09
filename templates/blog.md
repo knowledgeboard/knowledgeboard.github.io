@@ -1106,3 +1106,19 @@ acting up again... as the signal of 23Na is like 16 times lower than what it
 was before. So that's gonna be fun.
 
 Love here.
+
+### 2024-03-08 23:10
+
+Well that was a long friday, work since the earliest morning. Today I worked in
+2 programming languages, spoke about 4, worked on 4 different
+projects/codebases. So fun everywhere all the time. AND everything was
+successful for some reason xD
+I almost fucked up tho... Almost got rid of all the changes that Mark made to
+the pico script (somehow).
+
+Then I had a company to come home from work with. And that was great change
+from normality.
+
+Shop, cooking and movie. Nice evening.
+
+The rash is really going away. Love that. Gym next week again.
