@@ -1122,3 +1122,11 @@ from normality.
 Shop, cooking and movie. Nice evening.
 
 The rash is really going away. Love that. Gym next week again.
+
+### 2024-03-10 23:43
+
+Sunday, had no mind on writting any entries when A. was here with me. We saw
+Dune 2 on saturday and that was epic. Thinking about rewatching it!
+
+Weekend was great, although lazy xD Looking forward to more!
+
