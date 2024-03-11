@@ -1130,3 +1130,41 @@ Dune 2 on saturday and that was epic. Thinking about rewatching it!
 
 Weekend was great, although lazy xD Looking forward to more!
 
+### 2024-03-11 10:45
+
+Monday, ran away from the meeting to have a check in with the doctors. Blood
+tests fine. All well. Low testosteron probably, need to add some FOR SURE fr
+fr bro trust me!
+
+### 2024-03-11 22:51
+
+What a monday! Always feels great. After my blood results I came back to the
+meeting and immediately was mentioned as needed at few different places! Mich.
+said he booked me for the week and after lunch I. was like that she needs me
+for moment as well xD Love to be useful around here.
+
+Went to 275 after lunch with Mich. We talked about the LHC and that was
+amazing! 
+
+- we talked about the syncronization of everything in LHC
+- synced batches with 25ns gaps (I think) from the series of lower boosters and
+    accelerators
+- 8T magnets steering everything around (15-20 mins run-up time)
+- about a 10% of the sinlge group energy to clench a magnet
+- LEP - electron-positron collider - some energy getting thrown out when a
+    charged particle is turning at high speeds (e^- losing about 10% energy a
+    turn!)
+- LHC - run up about 2 hours - longest stay about 2 days (1 days avg)
+- the 900m abort gap - wtf - 3 microsecond gap with a synced power source which
+    can come up in power in that time to charge a H-beam (type of thing) to
+    induce *small* magnetic field to steer the particles away to dump
+- [facts and figures](https://home.cern/resources/faqs/facts-and-figures-about-lhc#:~:text=The%20Large%20Hadron%20Collider%20(LHC,Swiss%20border%20near%20Geneva%2C%20Switzerland.)
+- [LHC wiki](https://en.wikipedia.org/wiki/Large_Hadron_Collider)
+
+WHAT A WORLD TO WORK IN!
+
+Other then that I was able to help with the program for the counters for
+hospital fairly quickly. And was able to improve it, fix it up and speed it up.
+More work on it later in the week probably. There's bunch of redundant work
+that can be gotten rid of. Absolutely looking forward to tomorrow (with no
+exact plan... just love to go there!).
