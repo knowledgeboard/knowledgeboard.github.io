@@ -38,3 +38,4 @@
 [RadianceCascades WIP Paper](https://drive.google.com/file/d/1L6v1_7HY2X-LV3Ofb6oyTIxgEaP4LOI6/view)
 [RadianceCascades_Web](https://tmpvar.com/poc/radiance-cascades/)
 [YT - How games have worked for 30 Years](https://www.youtube.com/watch?v=CHYxjpYep_M&ab_channel=SimonDev)
+[Displacement mapping vs height mapping](https://gamedev.stackexchange.com/questions/65755/whats-the-difference-between-displacement-mapping-and-height-mapping)
