@@ -1168,3 +1168,24 @@ hospital fairly quickly. And was able to improve it, fix it up and speed it up.
 More work on it later in the week probably. There's bunch of redundant work
 that can be gotten rid of. Absolutely looking forward to tomorrow (with no
 exact plan... just love to go there!).
+
+### 2024-03-12 22:58
+
+Tuesday, fairly long, didn't want to get out of bed in the morning. So came
+into work completely gone with no energy!
+
+Well, I. came :D And we sat down multiple times. Finally made her a proper
+developer experience with VSCode. She was doing CPP hardcore way in GEdit only!
+Brave one! She was so happy about the change xD 
+
+Would love to go to the gym, but I already told myself that I have to wait! At
+least till tomorrow and then we'll see! It all looks good.
+
+Have seen first part of the Avatar yesterday. IT FUCKING SUCKED! It all felt so
+overdone and just fake!
+
+### 2024-03-13 14:00
+
+Hey guys came back from the hospital and codes for both counters worked
+basically perfectly for few hours with no delays and M. was really happy with
+how well it worked! Great one there!
