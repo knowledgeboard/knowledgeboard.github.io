@@ -1189,3 +1189,16 @@ overdone and just fake!
 Hey guys came back from the hospital and codes for both counters worked
 basically perfectly for few hours with no delays and M. was really happy with
 how well it worked! Great one there!
+
+### 2024-03-14 00:43
+
+Dune 2 again, the only reason to come so late when you have to work the next
+day. I might be a bit psychotic, because I was hoping for all the bad things to
+happen to the guy sitting next to me! He was complete dickhead! Just talking to
+the one sitting next to him and just f****** overreacting to something that is
+known to happen! Like wtf. Nevertheless, enjoyed the rewatch. 
+
+My shoulder is almost healed... so I'm thinking about gym tomorrow! We'll see
+at what time I get home.
+
+Let's hit bed now!
