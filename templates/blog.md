@@ -1202,3 +1202,21 @@ My shoulder is almost healed... so I'm thinking about gym tomorrow! We'll see
 at what time I get home.
 
 Let's hit bed now!
+
+### 2024-03-14 22:48
+
+Finally went to the gym again! Chest day, incline didn't feel that great, but
+still did 80kg and was doing 8s of 70kg for sets. 35kg/hand on flat bench felt
+good for bunch of reps, flies, flies, presses, cables. Great pump when taking
+off the jumper! MORE TO COME!
+
+Work is pretty filled nowadays. Working on the pico2000 still. Helping I. as
+she deleted 3 days of work but we got it back xD No crying yet! And we have
+talked the magnet project over with M. and now I have an idea what is there to
+do.
+
+GOLF accessories came home! Looking forward to that A LOT!
+
+And also... I was working a bit on my "Dunes" app, which is currently a height
+map terrain renderer but still cool xD completely different kind of shaders
+than what I have done before! (TODO: add pics of )
