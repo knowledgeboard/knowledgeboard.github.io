@@ -1220,3 +1220,8 @@ GOLF accessories came home! Looking forward to that A LOT!
 And also... I was working a bit on my "Dunes" app, which is currently a height
 map terrain renderer but still cool xD completely different kind of shaders
 than what I have done before! (TODO: add pics of )
+
+### 2024-03-15 09:03
+
+You come to work and immediately you get new (luckily really small) assignments
+from Mag. and a laugh from Mar. xD as expected! 
