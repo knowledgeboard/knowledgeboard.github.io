@@ -1230,7 +1230,9 @@ from Mag. and a laugh from Mar. xD as expected!
 
 Well I worked on a lot today! Mag. got her project even before lunch. Did some
 more pico2000 work and am still helping A. and I. with their work. I'm really
-glad to be this useful!
+glad to be this useful! There was a funny moment between me, A. and I. about
+the few deleted days of work and "OMG I. how have you gotten so far with
+GEdit" moment. Impressive indeed!
 
 AAAND FOR SOME REASON, I'm chairing the monday meeting! That's gonna be fun!
 Like wtf what am I supposed to do :D Email sent so hopefully we are gonna make
@@ -1238,6 +1240,9 @@ it through it in one piece.
 
 Gym session again! Back focused, cables, Štěpán-styled and it was juicy. Came
 home after midnight xD So great! My happy meal got soked...
+
+He says that he might have injured his back again... I hope he's alright tho so
+we can try some together here!
 
 ### 2024-03-16 23:02
 
@@ -1253,3 +1258,27 @@ Did a fine leg day afterwards and I'm enjoying every minute of it Jerry xDD
 
 We are talking/calling with 🦆❤️ a lot lately and I just love it. I'm glad we
 learned how to communicate in this way as well!
+
+### 2024-03-17 23:00
+
+Lazy lazy day. The laundry is still working only partly. I did bunch of work on
+my 3D env again. Now looks really really cool!
+
+<img src="images/env1.jpg" width=40%>
+<img src="images/env2.jpg" width=40%>
+
+And some one pace again. 
+
+Found out that the people at Schuman's have rotated and now I'm surrounded by
+Asian people (some Chinese from what I know). Actually met 4 in the evening
+while making dinner.
+
+### 2024-03-18 11:22
+
+Today I led my first Monday morning meeting and crushed it xD. It was alright!
+Immediately I was not sure how to write the first word into the sheet but I got
+it right xDD Morning exercise. But it was fun. And also there are more and more
+tasks being put onto me. I'm useful! Gotta deliver.
+
+Wanna ask A. for a workout sometime this/next week. And gotta put my vacation
+in.
