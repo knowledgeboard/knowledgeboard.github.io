@@ -1282,3 +1282,27 @@ tasks being put onto me. I'm useful! Gotta deliver.
 
 Wanna ask A. for a workout sometime this/next week. And gotta put my vacation
 in.
+
+### 2024-03-19 02:23
+
+Work day was alright. Finished my Pico2000 button with more weird c++ quirks.
+Starting to config env for Mich. stuff.
+
+Good chest today with YoungLA top, bunch of new guys talking to me because of
+my asian friend! 
+
+Came home around 11. The other building washing machine was free so I ran into
+it and luckily was able to get my washing done. Took shower, went to switch to
+drier, did my dinner, came to the drier and that bitch was not on, stuck on
+different mode than what I have selected and still on 40min timer. Took out the
+stuff, let it run out, and go to our building to put it into the working drier
+there. 20 mins later struggling to start it up because of no signal on that
+drier like fuck me. Went back to the other building, waited for like 10 more
+minutes to start 40 minute drying again! Well I'm dead.
+
+### 2024-03-19 13:44
+
+BTW I'm dead from the morning.
+
+So almost just went to the hospital. Amy was able to resolve the issue on her
+own. Again a reason for M. to drive to pick me up from office xD
