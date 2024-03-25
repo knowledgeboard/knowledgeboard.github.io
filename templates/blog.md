@@ -1367,3 +1367,24 @@ Work was also fine! Working on UI for the magnet source.
 
 ### 2024-03-23 00:26
 
+Friday! Pretty calm working day all the time looking forward to evening gym.
+Legs with the boys! 
+And enjoy it I did. We took some mexican drugs, there were 4 of us in the end
+and on top of that I spoke with Miguel, my new Brazilian workout friend, who
+I met there and in CERN multiple times already.
+
+Legs were fine. Hit 150 fairly easy and 160 with small help (I'm going so low
+with my squats it's crazy). My form holds up well.
+Then we did deadlifts for some reason and I'm the strongest with the best form!
+WTF. Some killer 200kg legpresses and extension and we (I) were done.
+
+### 2024-03-24 23:48
+
+Sunday, not much being done, but I have created trails (some nice places to
+visit). All of them scattered in a similar areas so that's gonna be nice. Also
+we got an idea with Ann. to take a tent and sleep somewhere on/off trail! Would
+be amazing to find some spot for that (have some in mind ... hehe Instagram)! 
+
+Also played around with my gpu project. I now have tesselation working really
+well! It wasn't even that hard, so that is amazing, there are some nice videos
+which I have already sent to Degu! Really looks great!
