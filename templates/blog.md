@@ -1388,3 +1388,26 @@ be amazing to find some spot for that (have some in mind ... hehe Instagram)!
 Also played around with my gpu project. I now have tesselation working really
 well! It wasn't even that hard, so that is amazing, there are some nice videos
 which I have already sent to Degu! Really looks great!
+
+### 2024-03-26 01:10
+
+Just finishing my laundry. Late monday entry!
+
+Work went fast, spent some time on UI improvements and first serial writes
+(with no machine on the other side BTW)... And then did some work with A. on
+Picos (we took a look at it, made it work again and stuff like that).
+
+Hit gym afterwards, met Miguel again! And also met (not spoke to tho) the other
+huge CERN bearded guy. Was repping like 100-110kg benches like crazy. Huge.
+
+Ann. might be getting sick... I hope we get to be together for a bit at least. 
+
+I had a look at rental cars and all those options felt surprisingly cheap to
+me... Hopefully the price ranges don't lie. I might actually just rent a car
+for a day or two for me and Ann. and we might be able to do some nice trips
+that way!
+
+Also I'm getting a little anxious about the golf clubs. I hope that's gonna be
+alright and they are gonna be just waiting for me to get them!
+
+Gotta get my laundry now! Cya.
