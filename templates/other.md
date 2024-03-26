@@ -8,3 +8,4 @@
 [Conver Spherical to Rectangular Coordinates](https://www.mathforengineers.com/math-calculators/spherical-to-rectangular-coordinates.html)
 [Outdoor swiss](https://outdoor.ch/en/)
 [Outdoor swiss hiking](https://thebackpackinghiker.com/hiking-and-wild-camping-in-switzerland/)
+[Lake hikes](https://alliemtaylor.blog/2019/09/07/the-10-best-hikes-in-switzerland/)
