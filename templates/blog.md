@@ -1411,3 +1411,23 @@ Also I'm getting a little anxious about the golf clubs. I hope that's gonna be
 alright and they are gonna be just waiting for me to get them!
 
 Gotta get my laundry now! Cya.
+
+### 2024-03-27 09:33
+
+Late Tuesday entry on Wednesday. Yesterday was calm, didn't do much after work,
+just small shop and met Niya around there for a bit. There was absolutely huge
+overcrowding happening in the kitchen with like 7 people being there. New
+french girl which Abus took under his ... wings (smoked weed for starters - at
+least smelled better than the usual cigarettes). And I'm ready for home :)
+
+Work was alright, did a stroll through the lab and worked on more UI for the
+app. I've pretty much mapped out all the functionality we might want to test
+before automated runs, so that's going to be good. 
+
+And A. came to talk about work. She was trying to postpone the work with the
+pico5000 data because she didn't want to work on the file processing. She
+seemed fairly better after knowing that I did all of it and that there is just
+a single calculating func for her to change! Happy to help!
+
+Now at work, attestation of work ready, everything prepared for my leave.
+Around lunch time, I'm going!
