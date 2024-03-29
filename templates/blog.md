@@ -1431,3 +1431,13 @@ a single calculating func for her to change! Happy to help!
 
 Now at work, attestation of work ready, everything prepared for my leave.
 Around lunch time, I'm going!
+
+### 2024-03-29 17:09
+
+Friday! Quick recap... flight went just fine. Met with 🦆❤️ and we had a lovely
+couple of days together. Now I'm on train back home, for Saturday and Sunday
+and then back to Geneva. 
+
+First time we were able to spent a few days at Ann's dorms! Lazy cos she's ill
+a bit but we started watching `3 body problem` aaand it's great! We are almost
+done. ToBeFinished this weekend :D!
