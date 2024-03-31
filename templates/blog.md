@@ -1441,3 +1441,21 @@ and then back to Geneva.
 First time we were able to spent a few days at Ann's dorms! Lazy cos she's ill
 a bit but we started watching `3 body problem` aaand it's great! We are almost
 done. ToBeFinished this weekend :D!
+
+### 2024-03-31 17:23
+
+OMW from HK to PRAGUE, gonna arrive around 18:40, some time to get to the
+airport and then 21:15 flight to Geneva. Today with the new travel bag
+half-filled with not exactly just golf stuff, so hopefully we are gonna be
+alright!
+
+Stay home was nice a for minute. Again got a lecture about what feels like my
+*unhealthy* body, which always pains me. Last time I came home heavier and they
+thought I was smaller. Dunno what that's all about. I'm gonna do what I enjoy
+and like (keep moving as much as I can!). Plug golf is gonna add to that in
+just a few days I hope!!
+
+Other than that I was happy to meet Degu when I arrived to Prague and to have
+Ann. again with me!
+
+BTW. The 3D project looks sick!
