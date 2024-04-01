@@ -10,3 +10,4 @@
 [Outdoor swiss hiking](https://thebackpackinghiker.com/hiking-and-wild-camping-in-switzerland/)
 [Lake hikes](https://alliemtaylor.blog/2019/09/07/the-10-best-hikes-in-switzerland/)
 [Lake hikes](https://alliemtaylor.blog/2019/09/07/the-10-best-hikes-in-switzerland/)
+[Lake hikes](https://alliemtaylor.blog/2019/09/07/the-10-best-hikes-in-switzerland/)

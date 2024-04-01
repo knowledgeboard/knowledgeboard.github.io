@@ -1459,3 +1459,10 @@ Other than that I was happy to meet Degu when I arrived to Prague and to have
 Ann. again with me!
 
 BTW. The 3D project looks sick!
+
+### 2024-04-01 02:44
+
+Well what an eventful journey. An hour+ delay for the flight, got all my
+baggage, had 15 mins to get to the last tram to CERN and walk from there.
+Luckily made it all work (otherwise I would be sleeping in the gym or something
+like that). Came soaked but happy to be here. Pizza, shower and done.
