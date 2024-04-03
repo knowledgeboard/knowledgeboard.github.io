@@ -1466,3 +1466,27 @@ Well what an eventful journey. An hour+ delay for the flight, got all my
 baggage, had 15 mins to get to the last tram to CERN and walk from there.
 Luckily made it all work (otherwise I would be sleeping in the gym or something
 like that). Came soaked but happy to be here. Pizza, shower and done.
+
+### 2024-04-02 00:56
+
+Really bad head day... I'm probably just tired and didn't get to go gym because
+I felt not great after yesterdays journey after midnight. 
+
+We finished `3 body problem` tho and that was nice!
+
+### 2024-04-02 23:23
+
+Who would have guessed that resting for a few days can help! 105kg benches
+alone went smoothly!
+
+Work was great. Slowly future proofing the program for Mich. which is going
+well! Hopefully I get to test it in a couple of days, after F. leaves. 
+Literally noone was at work, lunch was only me and A.
+
+ALSO, F. is arriving tomorrow! Car rental prepared. Gotta choose the best day
+for our long trip, but the weather looks fairly nice these days so hopefully it
+holds up!
+
+### 2024-04-03 09:32
+
+F. is on the train already! Car pickup is tomorrow at 8:00.
