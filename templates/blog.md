@@ -1477,7 +1477,7 @@ We finished `3 body problem` tho and that was nice!
 ### 2024-04-02 23:23
 
 Who would have guessed that resting for a few days can help! 105kg benches
-alone went smoothly!
+alone went smoothly! Felt like a beast!
 
 Work was great. Slowly future proofing the program for Mich. which is going
 well! Hopefully I get to test it in a couple of days, after F. leaves. 
@@ -1489,10 +1489,52 @@ holds up!
 
 ### 2024-04-03 09:32
 
-F. is on the train already! Car pickup is tomorrow at 8:00.
+F. is on the train already! Car pickup is tomorrow at 18:00.
 
 ### 2024-04-03 22:21
 
 Package arrived, well fed, looks satisfied. Car pickup tomorrow!
 
 ...
+
+### 2024-04-09 01:34
+I'm not sleeping, pumped from the gym today, a loong session with tries on
+200kg deadlifts and then bunch of talk with Miguel. I'm gonna try to be with
+him as long as possible before he leaves. 
+
+We shared a lot. And he had fair bit of inputs, really productive ones,
+although I'm afraid of what he sees in the problems. He's probably mostly right
+in what he talks about (really smart). 
+
+We have gone for McDonald's after, geeking about our past projects, talking
+boys talk, stuff like that. Told me about his past fling with the gym girl and
+we had bunch of fun about that(everything in general). Also told me about his
+amazing maze project done in CPU architecture with bunch of weird problems. We
+really do share this kind of love for coming up with our problems to solve.
+Drove me home from CERN as well. More talk. 
+
+Back to work after a few days of vacation. No entries, as I rarely had any time
+in our days and PC was mostly a radio. I'll probably add the pictures and
+that's gonna be enough for the memories TODO. I managed to drive us around
+safely all the way. The Interlaken trip was really really great but it
+surprised me how taxing it must have been on the body. Think like 500km in the
+day there and back. And was feeling fairly well when arriving. But then it
+really just hit all and I was like completely down from that. Got better in the
+morning. Also talked with Ann. that evening. Was and will be a bit of a
+struggle, but I should believe in that. 
+
+Work work was great today, beamline preps continuing, actually some pumping
+tests were done. I'm done preparing bot for monitoring. Gonna do grafana alerts
+next.
+
+### 2024-04-09 13:01
+
+I really hate the look on Monika's face. There seems to be some problems around
+some electrical part at the beamline. They all care greatly about their work. I
+cannot imagine that they don't look forward to working, even though it must be
+always fair bit of stress.
+
+My Italian friend picked me up randomly at the bus station in the morning.
+'Italian taxi xD'. She told me they are already spending overtimes at the hall!
+But only see it as *it is what it is*.
+She seems to like me, I'm happy to help!
