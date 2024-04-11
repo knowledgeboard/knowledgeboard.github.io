@@ -1553,3 +1553,21 @@ was just struggling through it. Talking with him is always great tho!
 
 Also received an email from Mag. about origin position. Dunno what's that
 suggestion, but might remember it later!
+
+### 2024-04-10 23:58
+
+Calm work day with not much to do in the afternoon, worked on the chatbots,
+did some limit setting with Ila. and system works. Great to see. Afternoon
+spent with my own research and a bit more testing of the systems. 
+
+Also! I have access to ISOLDEHALL now! I'm really looking forward to seeing
+that!
+
+Masters at Augusta (Georgia) starting tomorrow! Gonna try and watch that on the
+live feeds! (new info, starting on 14:00 my time, and tiger around 7pm).
+
+Went for legday today, back still sore from Monday but getting better. Did some
+bodybuilding type of legday, with heavy slow legpresses. Felt good but tired!
+
+(weird highlight - chocolate musli)
+
