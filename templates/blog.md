@@ -1571,3 +1571,25 @@ bodybuilding type of legday, with heavy slow legpresses. Felt good but tired!
 
 (weird highlight - chocolate musli)
 
+### 2024-04-14 00:20
+
+Saturday! Been a few days without this. What happened? Mainly was watching
+*Masters* since thursday! xD
+
+Everything works at work. Guys are doing hela overtimes, so we've been talking
+a lot about it with Ila. Also A. always comes to me during lunch and seems
+really talkative with me always. Always happy about that!
+
+Really looking forward to golf clubs! Can't wait to start playing as well!
+Well, just Masters at this point!
+
+Gym has been going really well! Did legs on Wednesday, rest proper chest again
+on Friday with an amazing pump, have really round chest at the moment. And
+again at 80kg again!
+Did late back today, partly with Dimo (asian friend) with some posing
+afterwards.
+
+Also we had a play session with 🦆❤️ again! So I'm really looking forward to
+having her around again. Possibly with new additions as well.
+
+Now a meal and then creating the post for IG with Finja's pics.
