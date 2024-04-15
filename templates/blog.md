@@ -1599,3 +1599,19 @@ Now a meal and then creating the post for IG with Finja's pics.
 Sunday done, Scottie Scheffler is Masters champion and I want to play golf! xD
 
 Lazy sunday, nice curry lunch tho.
+
+### 2024-04-16 00:30 
+
+Monday eeey. Done with food and work and everything! Shower and I'm going!
+
+We went to ISOLDE top room for the morning meeting. I'm always getting small
+credits for work on the systems which non of them can see but they work!
+
+Did gym then. Chest day, 3x5x90kg fairly nice! And was getting some eyes from
+two girls there.
+
+Also Finja told me about a concert (festival) happening. I think she might be
+coming back for that xD Would be funny!
+Gotta look for the tickets tomorrow!
+
+Also have more fun pics of Mark (gotta add some of them here!) TODO:
