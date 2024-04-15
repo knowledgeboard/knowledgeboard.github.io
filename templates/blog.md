@@ -1593,3 +1593,9 @@ Also we had a play session with 🦆❤️ again! So I'm really looking forward 
 having her around again. Possibly with new additions as well.
 
 Now a meal and then creating the post for IG with Finja's pics.
+
+### 2024-04-15 01:00
+
+Sunday done, Scottie Scheffler is Masters champion and I want to play golf! xD
+
+Lazy sunday, nice curry lunch tho.
