@@ -4,3 +4,4 @@
 [Nerdfonts - cheat sheet](https://www.nerdfonts.com/cheat-sheet)
 [Awesome Neovim - Github](https://github.com/rockerBOO/awesome-neovim)
 [Cool looking notifications](https://github.com/rcarriga/nvim-notify)
+[Neovim addons](https://github.com/rockerBOO/awesome-neovim?tab=readme-ov-file#completion)
