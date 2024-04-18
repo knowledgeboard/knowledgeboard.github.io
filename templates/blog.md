@@ -1615,3 +1615,21 @@ coming back for that xD Would be funny!
 Gotta look for the tickets tomorrow!
 
 Also have more fun pics of Mark (gotta add some of them here!) TODO:
+
+### 2024-04-17 17:32
+
+Wednesday, nothing from yesterday as I was fairly lazy in the evening. Doing
+laundry and watching *Hot shots* with Ann. xD amazing movie.
+
+Today I found out why the nmrdq is losing connection sometimes. Filling up the
+TCP ports. How was noone annoyed with it? Just restart it and it's ok... well
+it's up to me now. I might change how the bot works to make it safer. Just pool
+a txt source file and let it stay on one connection all the time.
+
+Going to gym after work. And 🦆❤️ is coming tomorrow!
+
+### 2024-04-17 23:30
+
+Gym was fun, back day. Seems like everyone is watching me! Even the *not the
+nicest* girl group... Full workout went well and then Miguel came and we spent
+another hour just talking xD Soo I came home late again.
