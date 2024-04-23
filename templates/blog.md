@@ -1641,3 +1641,27 @@ more serious, closer we get to the beamtime. Planning the trip with Miguel!
 My timing bot is working really well! Putting it up tomorrow.
 
 Also doing bodyguard stuff tomorrow morning! Gotta be funny!
+
+### 2024-04-22 22:20
+
+Monday, bit under the weather from yesterday so literally took a day off (after
+work xD), watched some movies, ate properly, all that fun. Beamtime prep in
+full force! It's really funny seeing everything happening! Also have a couple
+nice pics from all of it.
+
+### 2024-04-24 00:46
+
+First beamtime started. First shifts started (probs not for me, but I'm still
+going to be part of all the fun). Most of the day at ISOLDE, finishing an hour
+later than I should but it was really interesting till the end! Like 11 people
+in the "controll room" at ISOLDE. Booster had circuit breaker troubles, our DAQ
+has all the troubles. More sorting out to be done tomorrow!
+
+Gym done again! Still some caugh but I'm feeling better after the rest
+yesterday! SOO WELL THAT I DID LEGS. And I don't feel so good anymore xDD JK,
+did pretty well, it was just hard as always. Didn't want to squat heavy... well
+I did a bit (150x2 without a belt is GREAT). Heavy splitsquads, mid but really
+slow legpresses, intense extension + curls. PLUS MIGUEL. 
+
+It was Roman's birthday today!
+
