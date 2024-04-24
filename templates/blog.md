@@ -1665,3 +1665,8 @@ slow legpresses, intense extension + curls. PLUS MIGUEL.
 
 It was Roman's birthday today!
 
+### 2024-04-24 14:37
+
+My laptop was at the beamline for the first time xDD Freaking funny!
+
+Have my vacation request, luckily wednesday is a free day at CERN as well.
