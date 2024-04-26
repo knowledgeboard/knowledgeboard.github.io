@@ -1670,3 +1670,22 @@ It was Roman's birthday today!
 My laptop was at the beamline for the first time xDD Freaking funny!
 
 Have my vacation request, luckily wednesday is a free day at CERN as well.
+
+### 2024-04-24 23:55
+
+### 2024-04-26 02:09
+
+Today we actually reasearch some shit! I HAVE ALMOST NO IDEA WHAT THO (K49 -
+new stuff in hyperfine structure). But loved the excitement about it!
+
+I'm doing what I can to keep my stuff running on whatever they throw at me...
+and it shows. Just magically whipped out an UDP chat bot in like a minute to
+actually listen to where does one PC decide to connect (no screen, keyboard or
+mouse down in the hall with wifi as connection and fucking jumping around IP
+addresses). I felt like GOD making it work in NO TIME!
+
+Grafana now running from different pc and looks smooth! Let's see what another
+day brings.
+
+Last gym session before Spain. Good back. This girl is really staring me down.
+Have to make a move xD FOR SCIENCE!
