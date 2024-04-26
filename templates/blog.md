@@ -1689,3 +1689,19 @@ day brings.
 
 Last gym session before Spain. Good back. This girl is really staring me down.
 Have to make a move xD FOR SCIENCE!
+
+### 2024-04-27 00:04
+
+HEYO! So it's friday, and tomorrow there is a big TRIP coming. I should be
+sleeping already... Around 4:30 at CERN and then airport! No laptot, but might
+try to take notes and transfer them later!
+
+Slow work today as we didn't have beam for most of it (booster problems). I did
+OCR on our webcam for apparently no reason as the cam is gonna move. It wasn't
+working that well either. 
+
+🦆❤️ talked for a moment (birthday party of one of the guys). That Z. really
+wants some beef (always fucking glued on her...). I still believe in her good
+and smart mind not to fall for that.
+
+Good night and see you from Spain 🇪🇸 and Portugal 🇵🇹!!
