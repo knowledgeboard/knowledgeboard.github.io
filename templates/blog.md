@@ -1705,3 +1705,16 @@ wants some beef (always fucking glued on her...). I still believe in her good
 and smart mind not to fall for that.
 
 Good night and see you from Spain 🇪🇸 and Portugal 🇵🇹!!
+
+### 2024-05-02 09:06
+ 
+*Monday* morning (or as we like to say... Thursday but after the beamtime).
+
+Home from Spain/Portugal trip. Was great fun. Bit socially exhausting but fun!
+Was really happy to see new places and visit new countries. Also, mature fun -
+a vacation gym sessions xD
+
+Will have to add some pics back here. These say a bit more than I can :D
+
+Back to work now!
+
