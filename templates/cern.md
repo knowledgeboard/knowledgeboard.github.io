@@ -15,3 +15,4 @@
 [PICOSDK pt104Example](https://github.com/picotech/picosdk-python-wrappers/blob/master/pt104Examples/pt104Example.py)
 [NI services](https://www.ni.com/en/support/documentation/supplemental/13/list-of-windows-services-installed-by-ni-software-2016-version.html)
 [NI services](https://www.ni.com/en/support/documentation/supplemental/13/list-of-windows-services-installed-by-ni-software-2016-version.html)
+[TDMS C++](https://www.iondev.ro/tdms/)
