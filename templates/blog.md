@@ -1718,3 +1718,15 @@ Will have to add some pics back here. These say a bit more than I can :D
 
 Back to work now!
 
+### 2024-05-03 01:26
+
+Sleep now, write later ...
+
+Calm calm day, not much work, not that many people at work. Bunch of guys are
+taking their time off because of all their overtimes during beamtime.
+
+Got a fucking noob answer from the IT support... "*Is that proprietary software
+open source? We could test it... And is it up to date???*". So wtf.
+
+Did some legs afterwards. Those were nice! Slow low 140 squats for 3x3. And a
+long leg day like that.
