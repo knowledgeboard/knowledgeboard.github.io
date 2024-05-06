@@ -16,3 +16,4 @@
 [NI services](https://www.ni.com/en/support/documentation/supplemental/13/list-of-windows-services-installed-by-ni-software-2016-version.html)
 [NI services](https://www.ni.com/en/support/documentation/supplemental/13/list-of-windows-services-installed-by-ni-software-2016-version.html)
 [TDMS C++](https://www.iondev.ro/tdms/)
+[ROOT primer](https://root.cern/primer/)

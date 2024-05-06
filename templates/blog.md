@@ -1730,3 +1730,11 @@ open source? We could test it... And is it up to date???*". So wtf.
 
 Did some legs afterwards. Those were nice! Slow low 140 squats for 3x3. And a
 long leg day like that.
+
+### 2024-05-04 01:45
+
+Friday, no gym today. Resting with 🦆❤️ and movies :)!
+
+### 2024-05-04 22:20
+
+Saturday, 
