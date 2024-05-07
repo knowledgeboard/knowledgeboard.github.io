@@ -1762,3 +1762,11 @@ you can out of whatever is left!*
 Backday in the evening, Pendley rows with 100kg to try. GOOOD. But I gotta
 shorten it a little because I'm generally taking really long nowadays... (1.5h
 max!)...
+
+### 2024-05-07 13:36
+
+Was I really just helping Mag. with refactoring Marcu.' sentences in his thesis
+POG xDD I should be a freaking co-author on that thing.
+
+The sentence to remember: *the sequencer processes the parameter sets from the
+queue to coordinate the external devices and the FPGA*.
