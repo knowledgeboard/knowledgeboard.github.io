@@ -1737,4 +1737,28 @@ Friday, no gym today. Resting with 🦆❤️ and movies :)!
 
 ### 2024-05-04 22:20
 
-Saturday, 
+Saturday, was for a small Gex hike. One and only day with a bit of fine weather
+so one had to take that opportunity! Nice (cloudy) view on a forrest trip,
+nothing harsh but felt good, the end was super nice!.
+
+In the evening I went to the gym to see Miguel possibly for the last time. We
+hit off it with a back/chest workout day! I guess I'm alone again.
+
+### 2024-05-06 21:03
+
+Sunday was about nothign xD did laundry, read a little, cleaned a little.
+Watched movie and cleaned my shoes.
+
+Monday on the other hand was quite exciting. For one I figured that I have to
+buy the golf clubs myself... Because that's not moving anywhere! And at work
+I'm tasked with an interesting challenge of changing the TDMS2matlab conversion
+script to a CPP TDMS2root thing. Gotta work with Ilaria on that a little! 
+
+Both Ila. and Am. were independantly asking me if I already know something
+about a possible extension... We'll see, maybe I'm gonna be lucky or useful
+enough that they (Mag.) want to keep me a little longer! *Just enjoy the most
+you can out of whatever is left!*
+
+Backday in the evening, Pendley rows with 100kg to try. GOOOD. But I gotta
+shorten it a little because I'm generally taking really long nowadays... (1.5h
+max!)...
