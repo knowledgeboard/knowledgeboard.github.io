@@ -1770,3 +1770,13 @@ POG xDD I should be a freaking co-author on that thing.
 
 The sentence to remember: *the sequencer processes the parameter sets from the
 queue to coordinate the external devices and the FPGA*.
+
+### 2024-05-08 08:55
+
+Full day of working and it was great! `TDMS2ROOT` coming well together! 
+
+Gym afterwards which was great! Maybe because of those caffeine pills before xD
+Had such a good pump (deserves a pic tho! TODO)! Finally started working out
+earlier so was able to be home before 10pm and get some bed time as well!
+Altough my asian friend kept me out a bit longer, I still got some rest and
+feel great today!
