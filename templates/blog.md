@@ -1780,3 +1780,25 @@ Had such a good pump (deserves a pic tho! TODO)! Finally started working out
 earlier so was able to be home before 10pm and get some bed time as well!
 Altough my asian friend kept me out a bit longer, I still got some rest and
 feel great today!
+
+### 2024-05-09 17:33
+
+Free day today! So lazy, cinema in the evening and not much else xD.
+
+Yesterday was great, working went fine, almost noone in the office. Got
+response from NI that it would be probably for the best to wipe the system and
+do full reinstall xD That makes everyone really happy xDD It's gonna be fun
+next few weeks. Went to the lab and had more cpp fun.
+
+Gym in the night! HUGE LEG DAY. Everything done till death! And it was amazing.
+Also met Neeko in there. Met *allegedly* the Brazilian girl and then the bad
+posture girl which stalks me a little xD Went for that and got IG from all xD
+No problems xD Also hit a proper 160 squat alone! And then all the painful
+things :D
+
+Going for a cinema today. The Fall Guy, should be fun! Also bought my golf
+clubs! LET'S GO!!! Can't wait. Should have gone for it much sooner! Live and
+learn...
+
+Bit homesick again... feel like I need to stay alone to get it out for some
+reason... we'll see
