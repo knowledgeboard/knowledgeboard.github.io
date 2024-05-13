@@ -1820,3 +1820,12 @@ AAANd then aurora! Wouldn't ever think that I had an opportunity to see that
 around here! Even mum saw it at home. I'm even lower but had completely clear
 skies so I managed to get some amazing pics and videos of it! Bit of evening
 call and sleep.
+
+### 2024-05-12 22:12
+
+Sunday, home from the gym, enjoying life and calling people. The weekend was
+nice, pretty calm Saturday and then meeting with Eva on Sunday and some
+exercise and stuff today! Also finished documents for the guiding so gonna try
+to meet the *Conor* McGregor during the week!
+
+Also, golf clubs should arrive maybe tomorrow! I'm so looking forward to that!
