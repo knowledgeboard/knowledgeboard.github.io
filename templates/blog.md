@@ -1829,3 +1829,15 @@ exercise and stuff today! Also finished documents for the guiding so gonna try
 to meet the *Conor* McGregor during the week!
 
 Also, golf clubs should arrive maybe tomorrow! I'm so looking forward to that!
+
+### 2024-05-13 10:59
+
+I've presented my stance on the pc problems and described what has to be done.
+Felt so good to be in charge of all of it, actually beeing 100% on that matter.
+I've done the research, checked with supportS, described results and gonna
+finally do step towards solving it. One problem is that there is around 18 TB
+of stuff on the PC+raid which I haven't ever worked with... soo probably some
+tutorials time and let's see what we can do about it (and backups for sure).
+
+
+ALSOOOO, GOLF clubs have arrived!!!
