@@ -1809,8 +1809,8 @@ HELL a long night!
 
 Calm work day today. Talking sentences of Marc. thesis, only 4 of us in the
 office xD only PhD. students + Amy. Doing bunch of cpp nowadays, again on
-Pico5000 with Amy, working well tho! (although we went home around 6:30...) And then trip to ISOLDE to help Il. with
-bringing PSU modules back to epool. Fun!
+Pico5000 with Amy, working well tho! (although we went home around 6:30...) And
+then trip to ISOLDE to help Il. with bringing PSU modules back to epool. Fun!
 
 Then good evening workout! Back day with Niko and Brazilian around xD Got a few
 compliments and a little flex with her! Like wtf so good! Plus some good
@@ -1845,3 +1845,18 @@ ALSOOOO, GOLF clubs have arrived!!!
 
 Monday done, gym done. Bit too tired but great! We talked about the golf clubs
 and they look amazing and parents are gonna send them to me asap.
+
+### 2024-05-15 00:24
+
+I'm currently resting after dinner and gym, texting with a brazilian mama xDD
+Fun!
+
+Work has been fun. Did bunch of my own stuff. Plane tickets, guiding stuff,
+helped on magnet + cpp and we had a our local group physics meeting, which I
+understood almost none of (as expected - I must have missed nuclear magnetic
+moments in my second year physics...).
+
+Did a little armday today, exchanged few close calls with brazilian and met
+Niko. And also, this guy from SGP picked me up going from the gym and brought
+me here faster! Great guy xD The same one we've shaken our heads because of an
+ass (what a memory) xD
