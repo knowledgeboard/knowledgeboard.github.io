@@ -1839,5 +1839,9 @@ finally do step towards solving it. One problem is that there is around 18 TB
 of stuff on the PC+raid which I haven't ever worked with... soo probably some
 tutorials time and let's see what we can do about it (and backups for sure).
 
-
 ALSOOOO, GOLF clubs have arrived!!!
+
+### 2024-05-13 23:35
+
+Monday done, gym done. Bit too tired but great! We talked about the golf clubs
+and they look amazing and parents are gonna send them to me asap.
