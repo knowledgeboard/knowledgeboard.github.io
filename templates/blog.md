@@ -1860,3 +1860,14 @@ Did a little armday today, exchanged few close calls with brazilian and met
 Niko. And also, this guy from SGP picked me up going from the gym and brought
 me here faster! Great guy xD The same one we've shaken our heads because of an
 ass (what a memory) xD
+
+### 2024-05-15 21:57
+
+Rest day today! So writing early today. 
+
+Work was a lot of fun today, magnet stabil working again! It was dependant on
+the orientation of the cables... Freaking hell... It works consistently now
+which seems to be promising. I was doing cpp there, other working on the
+bellows everyone is talking about! It was a really productive blast of a day! 
+
+A bit of icecream on the top :P
