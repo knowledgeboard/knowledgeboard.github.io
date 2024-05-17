@@ -1873,3 +1873,23 @@ bellows everyone is talking about! It was a really productive blast of a day!
 A bit of icecream on the top :P
 
 ### 2024-05-16 23:40
+
+Thursday! Weather forecast was not lying so we mostly stayed inside the office
+and I continued working on that TDMS conversion. Finally talked with Marcus
+about it so managed to make some sense of the data. More tomorrow, I feel like
+I'm getting close to a working TTree architecture now (at least not getting
+that many errors or unexpected behaviors xD).
+
+Also I finished the guiding presentation with Patrick! So I'm officially able
+to do guiding around ISOLDE. COOL. Now I just need to learn stuff about it xD
+
+Did chest day immediately afterwards (took mcdonald's before and with jumper
+and all the stuff I weighted in at around 84/85 xD holy bulk! *So normal weight
+around 80/81*). Did chest, benches, 100x2 and then few sets of 100x1, then 90x7
+which was great! Greagt inclines with 35 and more. BUT my shoulder is still
+hurting, I have to have it in a good position. Possibly gonna have to do a rest
+week for the top to make this go away. Don't want to play around with it that
+much if it's gonna hurt. 
+
+My golf clubs were in Germany today around noon! I'm really really really
+looking forward to them <3
