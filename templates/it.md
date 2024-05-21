@@ -45,3 +45,4 @@
 [Fix Kernel Panic Ubuntu](https://www.geekswarrior.com/2019/07/solved-how-to-fix-kernel-panic-on-linux.html)
 [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 [Crafting Interpreters Patterns](https://craftinginterpreters.com/)
+[Compile-Time insertion sort c++](https://medium.com/@ziyue.liu.vm/compile-time-insertion-sort-in-c-5851aec9363d)
