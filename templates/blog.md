@@ -1893,3 +1893,30 @@ much if it's gonna hurt.
 
 My golf clubs were in Germany today around noon! I'm really really really
 looking forward to them <3
+
+### 2024-05-17 23:15
+
+Week done! Friday pretty empty office again. But went to work on the magnet for
+most of the day, actually had improvements again which is great! Ended up
+sitting it out with A. at the end and chatting about all of it. I would really
+like to see more of what comes up in the holidays, but I would also like to
+spend some time home during that time... we'll see!
+
+My YoungLA shorts have arrived, I feel the sluttiest I have ever been in the
+green shorts and off-whites are just amazing!!
+Some fine fine leg day to test the green ones. Absolutely dying on sets of
++200kg leg presses for 10-12. But that what's it all about! And some extension
+with like 50 per leg and some holds around 90. Great job. I feel stronger on
+these!
+
+Not much planned for the prolonged weekend as I want to rest my shoulder to be
+good later.
+
+### 2024-05-21 09:21
+
+So it's actually Tuesday, back at work. My golf clubs are most likely arriving
+today! We'll see what we doing according to the weather, I would love to try
+them out xD
+
+Weekend was lazy, but I got some HS in and did some terrain improvements! More
+to come.
