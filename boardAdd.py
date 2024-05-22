@@ -7,7 +7,7 @@ import sys
 
 TEMPLATE_PATH = "/home/marculonis/Desktop/Projects/knowledgeboard.github.io/templates/"
 
-groups = ["ai","graphics","it","movies","other","school","vim","test","cern"]
+groups = ["ai","graphics","it","movies","other","school","vim","test","cern","brain"]
 
 def get_parser() -> ArgumentParser:
     parser = ArgumentParser()
