@@ -1920,3 +1920,29 @@ them out xD
 
 Weekend was lazy, but I got some HS in and did some terrain improvements! More
 to come.
+
+### 2024-05-21 23:22
+
+Evening here. Back at home after bit underwhelming day. Clubs should have
+arrived, didn't as the reception was closed and/or the address is wrong. I
+might stay home tomorrow to wait for them. 
+
+At work did some great improvements to the Pico5000. A. just mentioned that we
+discussed the implementation and I was just able to say that I have already
+done it (*talk during the meeting*), which was epic. And a bit more work on
+that after that.
+
+Today's gym I did back and I wanted to do some strength prep for deadlifts
+(200kg). So I've tried rack pulls (rug pulls as I like to type them xD). I've
+done 200kg for 6 for 2 sets and managed to move 220 fine, got stuck on 240.
+Epic thing and my back is absolutly fine with that (with no belt). Great. It
+was mainly experimental today. More new exercises to try and it was a good one!
+Shoulder feeling better.
+
+### 2024-05-22 13:37
+
+I stayed at home in the morning and when the clubs were not arriving I went
+back to work. Did some 275 stuff as always and now we have just called the
+French GLS. For some reason they picked up as soon as I called, so luckily Mark
+didn't have to wait at all! Seems like all is fine and they should arrive
+tomorrow! We'll see, I'm probably gonna wait for them again!
