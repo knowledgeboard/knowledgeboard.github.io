@@ -1946,3 +1946,12 @@ back to work. Did some 275 stuff as always and now we have just called the
 French GLS. For some reason they picked up as soon as I called, so luckily Mark
 didn't have to wait at all! Seems like all is fine and they should arrive
 tomorrow! We'll see, I'm probably gonna wait for them again!
+
+### 2024-05-22 23:42
+
+Day done, leg day done. Amazing slow slow 130x8,x6 + 120x8 squats. Amazing
+things. Also the new off-white shorts! Great!
+
+Work was also fun, Amy found a problem with my wiring test implementation xD "A
+little dance" xD Well, we had some fun in 275 optimizing pico5000 and the
+"Fastest fourier transform in the west xD".
