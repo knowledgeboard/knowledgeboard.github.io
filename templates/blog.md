@@ -1957,3 +1957,17 @@ little dance" xD Well, we had some fun in 275 optimizing pico5000 and the
 "Fastest fourier transform in the west xD".
 
 ### 2024-05-24 01:43
+
+I have my clubs here!! TODO: PICS PICS. 
+
+Spent the day at home to wait for them. Spoke to three different postmen and
+spent like 2.5h outside for them but GOOD all good got them.
+
+### 2024-05-25 12:16
+
+Saturday and I'm in PRAGUE. Yesterday was quite nice. Basically finished
+my *tdms2root* project and managed to find more improvements for pico5000.
+
+Then went and with a small delay flew to CZ to meet 🦆❤️. Enjoying all of it!
+
+AAAND really looking forward to playing golf xDD
