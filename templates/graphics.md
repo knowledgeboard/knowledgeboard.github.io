@@ -40,3 +40,4 @@
 [YT - How games have worked for 30 Years](https://www.youtube.com/watch?v=CHYxjpYep_M&ab_channel=SimonDev)
 [Displacement mapping vs height mapping](https://gamedev.stackexchange.com/questions/65755/whats-the-difference-between-displacement-mapping-and-height-mapping)
 [Hydraulic Erosion GPU Paper](https://inria.hal.science/inria-00402079/document)
+[Tiny voxel renderer BLOG](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
