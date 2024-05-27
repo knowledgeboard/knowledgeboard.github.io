@@ -1971,3 +1971,13 @@ my *tdms2root* project and managed to find more improvements for pico5000.
 Then went and with a small delay flew to CZ to meet 🦆❤️. Enjoying all of it!
 
 AAAND really looking forward to playing golf xDD
+
+### 2024-05-26 23:40
+
+We are WORLD CHAMPIONS!!! I'm back at France. Spent the weekend with 🦆❤️. She
+had her birthday today so gifts and meetings with parents(+ H. & K.) for lunch
+in Prague. Went well!
+
+The plane was delayed again! Like 35 mins off start, because of trafic. Still
+managed to see the last third of the game and at least listen to the radio
+broadcast of the second one :)!
