@@ -1981,3 +1981,29 @@ in Prague. Went well!
 The plane was delayed again! Like 35 mins off start, because of trafic. Still
 managed to see the last third of the game and at least listen to the radio
 broadcast of the second one :)!
+
+### 2024-05-28 22:21
+
+Monday done! I'm for the third time at home today xD I went out of the office a
+bit sooner to try to get my bike fixed, still need to take it somewhere else
+tho... I went home and even though it was raining I've tried going to the golf
+club to get stuff sorted. They were closed already, but I met a guy who was
+training there, spoke english to me and said that the language is not gonna be
+a problem. And I met a woman from the org hut in there who was a bit surprised
+I came there (by foot even). Spoke to me a little french/english. We managed to
+get it together, they are opened till 8. And tomorrow it's for sure gonna be
+good! So let's go tomorrow! Training comences!
+
+I went gym after xD There was still a lot of time. Did chest after a while. I
+found why and how I managed to hurt my shoulder a little. But after I found the
+wrong position on the bench, I was able to do normal sets (really slow and
+controlled ones) with no issues! Even did incline with 35 with really really
+slow reps for 8. Which is GOOD.
+
+At work the magnet program finally starts, and it talks. Not everything works
+,hahah the programming pin on the PSU is broken in 'whatever' position xD
+that's gonna be fun. But my program works the way it should. Now we are able to
+prompt whatever we want. So good.
+
+And I've started the talk about prolongation and immediately I'm on the fance
+of what I actually want. Mum helped me a little but it's still difficult.
