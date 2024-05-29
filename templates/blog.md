@@ -2020,4 +2020,7 @@ At work some progress with the PSU controller. It's horrible but most of the
 dip switches seem to be inverted xD We'll see what we can do about it!
 It seems to be working now, we just have to find it's limitations!
 
-An episode with A. and sleep!
+Fun physics meeting where everyone came out of it more confused than at the
+start xD
+
+An episode of OnePace with A. and sleep!
