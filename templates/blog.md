@@ -2008,6 +2008,8 @@ prompt whatever we want. So good.
 And I've started the talk about prolongation and immediately I'm on the fance
 of what I actually want. Mum helped me a little but it's still difficult.
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1LkoYGxmYpO6QSEvY5C0Zl?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### 2024-05-28 21:32
 
 Tuesday and the first day of golf practice! It was really cool! Great weather
