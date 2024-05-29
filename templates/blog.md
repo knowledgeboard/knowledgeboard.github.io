@@ -1982,7 +1982,7 @@ The plane was delayed again! Like 35 mins off start, because of trafic. Still
 managed to see the last third of the game and at least listen to the radio
 broadcast of the second one :)!
 
-### 2024-05-28 22:21
+### 2024-05-27 22:21
 
 Monday done! I'm for the third time at home today xD I went out of the office a
 bit sooner to try to get my bike fixed, still need to take it somewhere else
@@ -2007,3 +2007,17 @@ prompt whatever we want. So good.
 
 And I've started the talk about prolongation and immediately I'm on the fance
 of what I actually want. Mum helped me a little but it's still difficult.
+
+### 2024-05-28 21:32
+
+Tuesday and the first day of golf practice! It was really cool! Great weather
+all day, didn't go from work as soon as I wanted to but managed to get like
+hour and a half of playing around on the range and greens. Not that much
+english around but some! Spoke french to get my ball card done. Had some nice
+shots with the 4H. Gonna train more!
+
+At work some progress with the PSU controller. It's horrible but most of the
+dip switches seem to be inverted xD We'll see what we can do about it!
+It seems to be working now, we just have to find it's limitations!
+
+An episode with A. and sleep!
