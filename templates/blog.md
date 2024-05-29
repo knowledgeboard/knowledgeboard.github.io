@@ -1259,6 +1259,8 @@ Did a fine leg day afterwards and I'm enjoying every minute of it Jerry xDD
 We are talking/calling with 🦆❤️ a lot lately and I just love it. I'm glad we
 learned how to communicate in this way as well!
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6pO5svQbrKKLZS08tIiEUA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### 2024-03-17 23:00
 
 Lazy lazy day. The laundry is still working only partly. I did bunch of work on
@@ -1498,6 +1500,9 @@ Package arrived, well fed, looks satisfied. Car pickup tomorrow!
 ...
 
 ### 2024-04-09 01:34
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7yq4Qj7cqayVTp3FF9CWbm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 I'm not sleeping, pumped from the gym today, a loong session with tries on
 200kg deadlifts and then bunch of talk with Miguel. I'm gonna try to be with
 him as long as possible before he leaves. 
@@ -1671,8 +1676,6 @@ My laptop was at the beamline for the first time xDD Freaking funny!
 
 Have my vacation request, luckily wednesday is a free day at CERN as well.
 
-### 2024-04-24 23:55
-
 ### 2024-04-26 02:09
 
 Today we actually reasearch some shit! I HAVE ALMOST NO IDEA WHAT THO (K49 -
@@ -1705,6 +1708,8 @@ wants some beef (always fucking glued on her...). I still believe in her good
 and smart mind not to fall for that.
 
 Good night and see you from Spain 🇪🇸 and Portugal 🇵🇹!!
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/228BxWXUYQPJrJYHDLOHkj?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 2024-05-02 09:06
  
@@ -2017,6 +2022,8 @@ all day, didn't go from work as soon as I wanted to but managed to get like
 hour and a half of playing around on the range and greens. Not that much
 english around but some! Spoke french to get my ball card done. Had some nice
 shots with the 4H. Gonna train more!
+
+My YoungLA polo shirts came and they are freaking gorgeous!
 
 At work some progress with the PSU controller. It's horrible but most of the
 dip switches seem to be inverted xD We'll see what we can do about it!
