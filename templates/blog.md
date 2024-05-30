@@ -2033,3 +2033,16 @@ Fun physics meeting where everyone came out of it more confused than at the
 start xD
 
 An episode of OnePace with A. and sleep!
+
+### 2024-05-29 22:13
+
+Calm day, was struggling with a bit of headache after lunch. But managed well
+enough. Talked with I. about tdms that I did. Worked with some of my projects
+later and changed a bit about PSC program.
+
+Did a small back/arm gym in the afternoon and talked to the brazilian
+afterwards xD Helped my headache at least. Gotta do some more golf and maybe
+try the heavy deadlift at the end of the week.
+
+My extension is kinda finalised now. Need to get it to school for some
+paperwork but other than that it should be good!
