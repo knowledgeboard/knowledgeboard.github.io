@@ -2046,3 +2046,21 @@ try the heavy deadlift at the end of the week.
 
 My extension is kinda finalised now. Need to get it to school for some
 paperwork but other than that it should be good!
+
+### 2024-05-30 23:24
+
+Long day, did some programming on the PSU. Seems to communicate better now and
+I now understand what we have to do with it for it to work as we want! Some
+paperwork as well for the extension. Spent the rest of the day in 275 with A.
+which was quite fun.
+
+There are now poster for the powerlifting meet with Barbie pics xD FUN And if
+I'm staying that I could probably try it! At least a way to get into that gym.
+
+There was this relay race happening today during our lunch. CERN full of people
+in costumes running around xD Looked interesting xD Some of the ISOLDE guys
+took it hella seriously xD Came back like the best winners.
+
+Went for a golf training afterwards! 7 Iron impressively reliant for me, 4H
+still amazing. Driver horrible. Need to find some help on that one. Chipping...
+only when I'm not trying xD
