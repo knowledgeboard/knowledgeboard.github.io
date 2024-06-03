@@ -2071,4 +2071,17 @@ LET'S THROW THE GUY WHO DESIGNED THIS REHOS POS UNDER A (some not specific) TRAI
 
 ### 2024-06-01 20:40
 
-GOLF BABY!!
+GOLF BABY!! First official round today! TODO: PICS. Did 2.5h practice in the
+morning and played a round finally in the afternoon! Was properly scared before
+going there! BUT I've found something at the range today, I've implemented the
+lesson of holding the glove under right armpit and raising a little and I'm
+really really consistent in getting into the correct possition basically
+always! And trying like 3/4 swings I'm really getting there! And even hybrid
+was goood! I've made a deal with myself that I'm not using driver and I'm happy
+about it xD Only 2 lost balls.
+
+**I shot 56 (or 54** if Anežka is correct with the high voltage ruling). And I've
+played from the blue/yellow ties. So I've made it even a bit harder on myself.
+
+I was really happy about how I played with 1 par under my belt on par 3 and
+almost a par 4 par, ruined by sketch topped pitch.
