@@ -2085,3 +2085,16 @@ played from the blue/yellow ties. So I've made it even a bit harder on myself.
 
 I was really happy about how I played with 1 par under my belt on par 3 and
 almost a par 4 par, ruined by sketch topped pitch.
+
+### 2024-06-03 23:50
+
+Monday, there's a new coleague at work, from Sweden I think (Amy's summer
+student). I've spent most of the day preparing magnet stuff, because I was
+kinda the main talking about with the magnet software xD. 
+
+Did gym in the afternoon. Met the guy who deadlifted with me on Friday xD he
+was immediately complaining about pack pain xD ME TOO BROTHER, ME TOO...
+Did back and my back is well improved now. Dunno if I'm hitting legs or golf
+tomorrow xD Problems :)
+
+One Pace with A. and early sleep hopefully!
