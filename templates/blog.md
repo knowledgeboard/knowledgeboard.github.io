@@ -2127,3 +2127,11 @@ McDonald's on the way back and talk with A. for a bit :) All feels alright.
 Work has been stale now. All the meetings about magnet safety, I'm prepared for
 the tests so hopefully we'll managed to do it in time before I need to leave...
 still can't find any place.
+
+### 2024-06-06 13:33
+
+We are transfering data (full raid is only about 5TB at the end, it's gonna be
+fine...).
+
+Also I finally went into buying the Google Drive extension soooo pictures will
+be coming here shortly!
