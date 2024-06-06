@@ -155,9 +155,9 @@ Adding some images from the podcast event and on my way home: (also the gallery
 idea is not really bad - could use the slick library I found out about)
 
 <div class="row slider">
-    <img src="images/another_globe.jpg" alt="globe" width=40%>
-    <img src="images/podcast.jpg" alt="globe" width=40%>
-    <img src="images/podcast2.jpg" alt="globe" width=40%>
+<img src="images/another_globe.jpg" alt="globe" width=40%>
+<img src="images/podcast.jpg" alt="globe" width=40%>
+<img src="images/podcast2.jpg" alt="globe" width=40%>
 </div>
 
 ### 2024-01-13 23:14
@@ -171,17 +171,17 @@ english everywhere...
 Geneva was nice, look at some of the nice images.
 
 <div class="row slider">
-    <img src="images/geneva_0113/1.jpg"  width=40%>
-    <img src="images/geneva_0113/2.jpg"  width=40%>
-    <img src="images/geneva_0113/3.jpg"  width=40%>
-    <img src="images/geneva_0113/4.jpg"  width=40%>
-    <img src="images/geneva_0113/5.jpg"  width=40%>
-    <img src="images/geneva_0113/6.jpg"  width=40%>
-    <img src="images/geneva_0113/7.jpg"  width=40%>
-    <img src="images/geneva_0113/8.jpg"  width=40%>
-    <img src="images/geneva_0113/9.jpg"  width=40%>
-    <img src="images/geneva_0113/10.jpg" width=40%>
-    <img src="images/geneva_0113/11.jpg" width=40%>
+<img src="images/geneva_0113/1.jpg"  width=40%>
+<img src="images/geneva_0113/2.jpg"  width=40%>
+<img src="images/geneva_0113/3.jpg"  width=40%>
+<img src="images/geneva_0113/4.jpg"  width=40%>
+<img src="images/geneva_0113/5.jpg"  width=40%>
+<img src="images/geneva_0113/6.jpg"  width=40%>
+<img src="images/geneva_0113/7.jpg"  width=40%>
+<img src="images/geneva_0113/8.jpg"  width=40%>
+<img src="images/geneva_0113/9.jpg"  width=40%>
+<img src="images/geneva_0113/10.jpg" width=40%>
+<img src="images/geneva_0113/11.jpg" width=40%>
 </div>
 
 Sunday is about trying to find suitable gym. I already know about a boulder gym
@@ -190,7 +190,7 @@ the program. Also I should look at those indico events, because there might be
 something interesting that I'm missing.
 
 ### 2024-01-14 18:40
- 
+
 Soo no workout today, weird membership rules so a new member cannot go anywhere
 just to try it once. Swiss people actually don't work on weekends.
 But I was fortunate enough to have a **bouldering gym** pretty close in Geneva.
@@ -942,25 +942,25 @@ Everything is an unexpected behaviour.
 Just talked to M. about different LHC stuff (my dumb little questions)... SOOO:
 
 1. ISOLDE is one of the lowest energy points of the beam because we are
-    basically the closest to the origin (1.4 GeV),
+basically the closest to the origin (1.4 GeV),
 2. BUT because of that we are getting like 50% of all the particles (as I was
-    told),
+told),
 3. at the LHC things are bit more interesting (~14 TeV - 7 + 7),
 4. the particles need time to saturate the LHC and get to the speed, they are
-   being fed in and accumulated and sped up AND then collision are set up to
-   happen,
+being fed in and accumulated and sped up AND then collision are set up to
+happen,
 5. soo *collision events* are happening for like a few hours - until they
-   decide it's not worth it anymore and saturation starts again,
+decide it's not worth it anymore and saturation starts again,
 6. also the *collision events* are pretty much probabilistic - meaning that
-   they are happening all the time (possibly at all places at once - *in LHC*)
-   BUT as it was described -- *hitting two particles together is like trying to
-   throw two needles across the Atlantic and hit them streight on*,
+they are happening all the time (possibly at all places at once - *in LHC*)
+BUT as it was described -- *hitting two particles together is like trying to
+throw two needles across the Atlantic and hit them streight on*,
 7. also cool! when it is not worth anymore - for some reason - particles are
-   dumped (*you guessed it*) into a beam dump xD M. said that one of the
-   towns/villages nearby is actually partly running their heating using the
-   heat from the particle dump (the only source we found atm is about the water
-   being used --
-   [link](https://home.cern/news/news/engineering/lhcs-cooling-system-energy-source-cerns-neighbours)).
+dumped (*you guessed it*) into a beam dump xD M. said that one of the
+towns/villages nearby is actually partly running their heating using the
+heat from the particle dump (the only source we found atm is about the water
+being used --
+[link](https://home.cern/news/news/engineering/lhcs-cooling-system-energy-source-cerns-neighbours)).
 
 ### 2024-02-28 23:40
 
@@ -1148,16 +1148,16 @@ amazing!
 
 - we talked about the syncronization of everything in LHC
 - synced batches with 25ns gaps (I think) from the series of lower boosters and
-    accelerators
+accelerators
 - 8T magnets steering everything around (15-20 mins run-up time)
 - about a 10% of the sinlge group energy to clench a magnet
 - LEP - electron-positron collider - some energy getting thrown out when a
-    charged particle is turning at high speeds (e^- losing about 10% energy a
-    turn!)
+charged particle is turning at high speeds (e^- losing about 10% energy a
+turn!)
 - LHC - run up about 2 hours - longest stay about 2 days (1 days avg)
 - the 900m abort gap - wtf - 3 microsecond gap with a synced power source which
-    can come up in power in that time to charge a H-beam (type of thing) to
-    induce *small* magnetic field to steer the particles away to dump
+can come up in power in that time to charge a H-beam (type of thing) to
+induce *small* magnetic field to steer the particles away to dump
 - [facts and figures](https://home.cern/resources/faqs/facts-and-figures-about-lhc#:~:text=The%20Large%20Hadron%20Collider%20(LHC,Swiss%20border%20near%20Geneva%2C%20Switzerland.)
 - [LHC wiki](https://en.wikipedia.org/wiki/Large_Hadron_Collider)
 
@@ -1712,7 +1712,7 @@ Good night and see you from Spain 🇪🇸 and Portugal 🇵🇹!!
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/228BxWXUYQPJrJYHDLOHkj?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 2024-05-02 09:06
- 
+
 *Monday* morning (or as we like to say... Thursday but after the beamtime).
 
 Home from Spain/Portugal trip. Was great fun. Bit socially exhausting but fun!
@@ -2114,3 +2114,16 @@ topping long clubs xD Weird little changes. Gonna be better. I like the place
 so much, it's just great in there!
 
 Planned One Pace with A. We've talked for a few hours yesterday xD Love <3
+
+### 2024-06-05 23:43
+
+Back from gym after legs, my back still hurts from last Friday, but managed to
+do pretty nice squats as always xD Did a few sets of 5s with 120/130kg jsut to
+see what the weight does to the back and it was completely fine! Love this kind
+of bodybuilding style and it shows NOW! 
+
+McDonald's on the way back and talk with A. for a bit :) All feels alright.
+
+Work has been stale now. All the meetings about magnet safety, I'm prepared for
+the tests so hopefully we'll managed to do it in time before I need to leave...
+still can't find any place.
