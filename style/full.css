@@ -57,7 +57,9 @@ body a {
     display: block;
     margin: 0 auto;
     margin-top: 25px;
-    width: 40%;
+    /* width: 40%; */
+    min-width: fit-content;
+    max-width: 50%;
 }
 
 .blog img {
