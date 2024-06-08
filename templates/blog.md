@@ -2140,7 +2140,18 @@ fine...).
 Also I finally went into buying the Google Drive extension soooo pictures will
 be coming here shortly!
 
+### 2024-06-07 23:00
+
+Great great great CERN public event about 'Still mysterious universe' with
+bunch of amazing people (Nobel prize, Harvard physics chair, etc). Lovely pics
+from it and then physics and location related music. COOL FOR SURE! TODO: PICS!
+
+Also the indian girl was for sure watching me waaay to much on the way back xD
+Gotta shave! that must have been it! xD
+
 ### 2024-06-08 01:49
+
+BTW SHAVED xD
 
 It's now Saturday (Friday night), Degu and Mari arrived and we have seen a part
 of ISOLDE at least from the main meeting room and they still seemed to be very
