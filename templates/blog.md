@@ -2197,6 +2197,16 @@ Also I've been working on the backup through the weekend like a GOOD BOY!
 
 ### 2024-06-11 00:10
 
+Monday done. I'm back after gym and ate and watch some Shōgun already. 
+
+Did back day today and all was good. I still know about the back but nothing
+hurts in a wrong way! Pretty great pump. Also went for Decathlon before and I
+bought more new golf balls (necessary... xD).
+
+Work alright! Finishing up the transfer of the data and prep for the reinstall.
+And also preping for the magnet with software ready and reinstalling the 275 pc
+for it.
+
 ### 2024-06-11 01:02
 
 My mind is really scattered because of the extension rn...
