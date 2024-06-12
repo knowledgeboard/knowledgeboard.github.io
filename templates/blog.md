@@ -2210,3 +2210,25 @@ for it.
 ### 2024-06-11 01:02
 
 My mind is really scattered because of the extension rn...
+
+### 2024-06-12 00:16
+
+Done for the Tuesday. Finishing late as we were fooling around/calling with
+with 🦆❤️  in the evening after I came from the gym.
+
+Did chest today and started with the bench. I was worried but managed to do
+100x2 in the end! It feels like the pain zone is getting smaller and smaller
+with each week. So that's a great thing. Karol came and I'm literally the only
+guy she greets in this way xD They must be jealous. At least they can
+understand her xD It was a strong workout and I can do basically everything
+again! 
+
+At work there was basically only 4 of us xD I fixed some cpp (*ROOT*) for
+Mateusz in the morning and after lunch I spent a bit of time with Louis
+discussing some of his changes and fixing compilation issues on his new way of
+the Pico project build proces. AND he's not a programmer at all! 
+
+Guy should have been someone with MRI and computer science background. He
+studies physics, did a little programming at school and went for a summer
+job/internship to a place where there was someone working with MRI xD MAN
+that's what CV bragging get's you...
