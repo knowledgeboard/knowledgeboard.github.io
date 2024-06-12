@@ -2195,6 +2195,11 @@ fast playing xD
 
 Also I've been working on the backup through the weekend like a GOOD BOY!
 
+BTW I've really moved the erosion sim to the next level and it's finally
+getting into a great shape!
+
+<img src="images/erosion_normals1.png" alt="ter2" width=40%>
+
 ### 2024-06-11 00:10
 
 Monday done. I'm back after gym and ate and watch some Shōgun already. 
