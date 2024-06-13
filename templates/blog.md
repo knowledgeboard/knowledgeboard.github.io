@@ -2256,3 +2256,41 @@ allows me to check what's going on in there :D Luckily!
 
 We are still waiting on some of the components for the diode box so that is
 still ongoing process. I'm really waiting for that magnet power up :D
+
+### 2024-06-13 17:39
+
+Finishing the working day!
+
+Man I have just made the sexiest (yet trivial) piece of advanced C++ that, *I
+think*, I have ever written!
+
+```cpp
+struct Voltage {
+    Voltage() : value(0) {}
+    Voltage(double voltage) : value(voltage) {}
+
+    // get rid of those weird value assignments
+    template <typename T> 
+    Voltage& operator=(const T& other) = delete; 
+    Voltage& operator=(const Voltage& other) {
+        this->value = other.value;
+        return *this;
+    }; 
+
+    /* Voltage(const Voltage &other) : value(other.value) {} */
+    double operator()() const { return value; }
+    bool operator<(const Voltage &other) const { return value < other.value; }
+
+    Voltage operator-(const Voltage &other) const { return Voltage(value - other.value); }
+    Voltage operator+(const Voltage &other) const { return Voltage(value + other.value); }
+    Voltage operator-(double num) const { return Voltage(value - num); }
+    Voltage operator+(double num) const { return Voltage(value + num); }
+
+  private:
+    double value;
+};
+```
+
+Safe codespace with Voltage/Current values which cannot be mistaken!
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/74tLlkN3rgVzRqQJgPfink?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

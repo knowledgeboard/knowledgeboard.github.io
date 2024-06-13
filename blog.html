@@ -2286,6 +2286,45 @@ allows me to check what's going on in there :D Luckily!</p>
 <p>We are still waiting on some of the components for the diode box so that is
 still ongoing process. I'm really waiting for that magnet power up :D</p>
 
+<h3>2024-06-13 17:39</h3>
+
+<p>Finishing the working day!</p>
+
+<p>Man I have just made the sexiest (yet trivial) piece of advanced C++ that, <em>I
+think</em>, I have ever written!</p>
+
+<p>```cpp
+struct Voltage {
+    Voltage() : value(0) {}
+    Voltage(double voltage) : value(voltage) {}</p>
+
+<pre><code>// get rid of those weird value assignments
+template &lt;typename T&gt; 
+Voltage&amp; operator=(const T&amp; other) = delete; 
+Voltage&amp; operator=(const Voltage&amp; other) {
+    this-&gt;value = other.value;
+    return *this;
+}; 
+
+/* Voltage(const Voltage &amp;other) : value(other.value) {} */
+double operator()() const { return value; }
+bool operator&lt;(const Voltage &amp;other) const { return value &lt; other.value; }
+
+Voltage operator-(const Voltage &amp;other) const { return Voltage(value - other.value); }
+Voltage operator+(const Voltage &amp;other) const { return Voltage(value + other.value); }
+Voltage operator-(double num) const { return Voltage(value - num); }
+Voltage operator+(double num) const { return Voltage(value + num); }
+</code></pre>
+
+<p>private:
+    double value;
+};
+```</p>
+
+<p>Safe codespace with Voltage/Current values which cannot be mistaken!</p>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/74tLlkN3rgVzRqQJgPfink?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 </div>
 </div>
 
