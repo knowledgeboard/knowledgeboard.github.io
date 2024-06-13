@@ -46,3 +46,4 @@
 [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 [Crafting Interpreters Patterns](https://craftinginterpreters.com/)
 [Compile-Time insertion sort c++](https://medium.com/@ziyue.liu.vm/compile-time-insertion-sort-in-c-5851aec9363d)
+[C++ casting as Star Wars Han Solo](https://betterprogramming.pub/han-solos-guide-to-c-casting-344043d90030)
