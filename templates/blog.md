@@ -2237,3 +2237,22 @@ Guy should have been someone with MRI and computer science background. He
 studies physics, did a little programming at school and went for a summer
 job/internship to a place where there was someone working with MRI xD MAN
 that's what CV bragging get's you...
+
+### 2024-06-13 00:31
+
+Heyo! We doing just fine. Had a evening talk with A. It's all good. Went to
+range in the evening, to practice my driver. I was finally able to pull it a
+bit more straight, but man it's hard. Gotta need some trainer to perfect it and
+truly trust it more... altogether it was a nice session.
+
+I've been all around at work. Helping Louis to understand some of the codes and
+Anu asking me to proof read her *theoretical physics* python (plus Magda's and
+Mark's paper on the topic) xD
+
+<img src="images/gandalf_yes.png" alt="gandalf" width=40%>
+
+But I've genuinely been able to at least understand a the idea behind it and it
+allows me to check what's going on in there :D Luckily!
+
+We are still waiting on some of the components for the diode box so that is
+still ongoing process. I'm really waiting for that magnet power up :D
