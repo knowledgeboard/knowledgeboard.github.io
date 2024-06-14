@@ -2264,32 +2264,71 @@ Finishing the working day!
 Man I have just made the sexiest (yet trivial) piece of advanced C++ that, *I
 think*, I have ever written!
 
-<span style='color:#e66170; font-weight:bold; '>enum</span> <span style='color:#e66170; font-weight:bold; '>class</span> FencedType <span style='color:#b060b0; '>{</span> VOLTAGE<span style='color:#d2cd86; '>,</span> CURRENT<span style='color:#d2cd86; '>,</span> <span style='color:#b060b0; '>}</span><span style='color:#b060b0; '>;</span>
-<span style='color:#e66170; font-weight:bold; '>template</span> <span style='color:#b060b0; '>&lt;</span>FencedType X<span style='color:#b060b0; '>></span>
-<span style='color:#e66170; font-weight:bold; '>struct</span> FencedValue <span style='color:#b060b0; '>{</span>
-FencedValue<span style='color:#d2cd86; '>(</span><span style='color:#d2cd86; '>)</span> <span style='color:#b060b0; '>:</span> value<span style='color:#d2cd86; '>(</span><span style='color:#008c00; '>0</span><span style='color:#d2cd86; '>)</span> <span style='color:#b060b0; '>{</span><span style='color:#b060b0; '>}</span>
-FencedValue<span style='color:#d2cd86; '>(</span><span style='color:#e66170; font-weight:bold; '>double</span> voltage<span style='color:#d2cd86; '>)</span> <span style='color:#b060b0; '>:</span> value<span style='color:#d2cd86; '>(</span>voltage<span style='color:#d2cd86; '>)</span> <span style='color:#b060b0; '>{</span><span style='color:#b060b0; '>}</span>
-<span style='color:#9999a9; '>// get rid of those weird value copy assignments</span>
-<span style='color:#e66170; font-weight:bold; '>template</span> <span style='color:#b060b0; '>&lt;</span><span style='color:#e66170; font-weight:bold; '>typename</span> T<span style='color:#b060b0; '>></span> FencedValue <span style='color:#d2cd86; '>&amp;</span><span style='color:#e66170; font-weight:bold; '>operator</span><span style='color:#d2cd86; '>=</span><span style='color:#d2cd86; '>(</span><span style='color:#e66170; font-weight:bold; '>const</span> T <span style='color:#d2cd86; '>&amp;</span>other<span style='color:#d2cd86; '>)</span> <span style='color:#d2cd86; '>=</span> <span style='color:#e66170; font-weight:bold; '>delete</span><span style='color:#b060b0; '>;</span>
-FencedValue <span style='color:#d2cd86; '>&amp;</span><span style='color:#e66170; font-weight:bold; '>operator</span><span style='color:#d2cd86; '>=</span><span style='color:#d2cd86; '>(</span><span style='color:#e66170; font-weight:bold; '>const</span> FencedValue <span style='color:#d2cd86; '>&amp;</span>other<span style='color:#d2cd86; '>)</span> <span style='color:#b060b0; '>{</span>
-<span style='color:#e66170; font-weight:bold; '>this</span><span style='color:#d2cd86; '>-</span><span style='color:#d2cd86; '>></span>value <span style='color:#d2cd86; '>=</span> other<span style='color:#d2cd86; '>.</span>value<span style='color:#b060b0; '>;</span>
-<span style='color:#e66170; font-weight:bold; '>return</span> <span style='color:#d2cd86; '>*</span><span style='color:#e66170; font-weight:bold; '>this</span><span style='color:#b060b0; '>;</span>
-<span style='color:#b060b0; '>}</span><span style='color:#b060b0; '>;</span>
-<span style='color:#9999a9; '>/* FencedValue(const FencedValue &amp;other) : value(other.value) {} */</span>
-<span style='color:#e66170; font-weight:bold; '>double</span> <span style='color:#e66170; font-weight:bold; '>operator</span><span style='color:#d2cd86; '>(</span><span style='color:#d2cd86; '>)</span><span style='color:#d2cd86; '>(</span><span style='color:#d2cd86; '>)</span> <span style='color:#e66170; font-weight:bold; '>const</span> <span style='color:#b060b0; '>{</span> <span style='color:#e66170; font-weight:bold; '>return</span> value<span style='color:#b060b0; '>;</span> <span style='color:#b060b0; '>}</span>
-<span style='color:#e66170; font-weight:bold; '>bool</span> <span style='color:#e66170; font-weight:bold; '>operator</span><span style='color:#d2cd86; '>&lt;</span><span style='color:#d2cd86; '>(</span><span style='color:#e66170; font-weight:bold; '>const</span> FencedValue <span style='color:#d2cd86; '>&amp;</span>other<span style='color:#d2cd86; '>)</span> <span style='color:#e66170; font-weight:bold; '>const</span> <span style='color:#b060b0; '>{</span>
-<span style='color:#e66170; font-weight:bold; '>return</span> value <span style='color:#d2cd86; '>&lt;</span> other<span style='color:#d2cd86; '>.</span>value<span style='color:#b060b0; '>;</span>
-<span style='color:#b060b0; '>}</span>
-FencedValue <span style='color:#e66170; font-weight:bold; '>operator</span><span style='color:#d2cd86; '>-</span><span style='color:#d2cd86; '>(</span><span style='color:#e66170; font-weight:bold; '>const</span> FencedValue <span style='color:#d2cd86; '>&amp;</span>other<span style='color:#d2cd86; '>)</span> <span style='color:#e66170; font-weight:bold; '>const</span> <span style='color:#b060b0; '>{</span> <span style='color:#e66170; font-weight:bold; '>return</span> FencedValue<span style='color:#d2cd86; '>(</span>value <span style='color:#d2cd86; '>-</span> other<span style='color:#d2cd86; '>.</span>value<span style='color:#d2cd86; '>)</span><span style='color:#b060b0; '>;</span> <span style='color:#b060b0; '>}</span>
-FencedValue <span style='color:#e66170; font-weight:bold; '>operator</span><span style='color:#d2cd86; '>+</span><span style='color:#d2cd86; '>(</span><span style='color:#e66170; font-weight:bold; '>const</span> FencedValue <span style='color:#d2cd86; '>&amp;</span>other<span style='color:#d2cd86; '>)</span> <span style='color:#e66170; font-weight:bold; '>const</span> <span style='color:#b060b0; '>{</span> <span style='color:#e66170; font-weight:bold; '>return</span> FencedValue<span style='color:#d2cd86; '>(</span>value <span style='color:#d2cd86; '>+</span> other<span style='color:#d2cd86; '>.</span>value<span style='color:#d2cd86; '>)</span><span style='color:#b060b0; '>;</span> <span style='color:#b060b0; '>}</span>
-FencedValue <span style='color:#e66170; font-weight:bold; '>operator</span><span style='color:#d2cd86; '>-</span><span style='color:#d2cd86; '>(</span><span style='color:#e66170; font-weight:bold; '>double</span> num<span style='color:#d2cd86; '>)</span> <span style='color:#e66170; font-weight:bold; '>const</span> <span style='color:#b060b0; '>{</span> <span style='color:#e66170; font-weight:bold; '>return</span> FencedValue<span style='color:#d2cd86; '>(</span>value <span style='color:#d2cd86; '>-</span> num<span style='color:#d2cd86; '>)</span><span style='color:#b060b0; '>;</span> <span style='color:#b060b0; '>}</span>
-FencedValue <span style='color:#e66170; font-weight:bold; '>operator</span><span style='color:#d2cd86; '>+</span><span style='color:#d2cd86; '>(</span><span style='color:#e66170; font-weight:bold; '>double</span> num<span style='color:#d2cd86; '>)</span> <span style='color:#e66170; font-weight:bold; '>const</span> <span style='color:#b060b0; '>{</span> <span style='color:#e66170; font-weight:bold; '>return</span> FencedValue<span style='color:#d2cd86; '>(</span>value <span style='color:#d2cd86; '>+</span> num<span style='color:#d2cd86; '>)</span><span style='color:#b060b0; '>;</span> <span style='color:#b060b0; '>}</span>
-<span style='color:#e34adc; '> </span><span style='color:#e66170; font-weight:bold; '>private</span><span style='color:#e34adc; '>:</span>
-<span style='color:#e66170; font-weight:bold; '>double</span> value<span style='color:#b060b0; '>;</span>
-<span style='color:#b060b0; '>}</span><span style='color:#b060b0; '>;</span>
-<span style='color:#e66170; font-weight:bold; '>using</span> Voltage <span style='color:#d2cd86; '>=</span> FencedValue<span style='color:#b060b0; '>&lt;</span>FencedType<span style='color:#b060b0; '>::</span>VOLTAGE<span style='color:#b060b0; '>></span><span style='color:#b060b0; '>;</span>
-<span style='color:#e66170; font-weight:bold; '>using</span> Current <span style='color:#d2cd86; '>=</span> FencedValue<span style='color:#b060b0; '>&lt;</span>FencedType<span style='color:#b060b0; '>::</span>CURRENT<span style='color:#b060b0; '>></span><span style='color:#b060b0; '>;</span>
-<!--Created using ToHTML.com on 2024-06-14 09:23:55 UTC -->
+<!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><table><tr><td><pre style="margin: 0; line-height: 125%">
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32</pre></td><td><pre style="margin: 0; line-height: 125%">
+<span style="color: #66d9ef">enum</span> <span style="color: #66d9ef">class</span> <span style="color: #a6e22e">FencedType</span> <span style="color: #f8f8f2">{</span> <span style="color: #f8f8f2">VOLTAGE,</span> <span style="color: #f8f8f2">CURRENT,</span> <span style="color: #f8f8f2">};</span>
+<span style="color: #f8f8f2">   </span>
+<span style="color: #66d9ef">template</span> <span style="color: #f92672">&lt;</span><span style="color: #f8f8f2">FencedType</span> <span style="color: #f8f8f2">X</span><span style="color: #f92672">&gt;</span> 
+<span style="color: #66d9ef">struct</span> <span style="color: #f8f8f2">FencedValue</span> <span style="color: #f8f8f2">{</span>
+<span style="color: #f8f8f2">   FencedValue()</span> <span style="color: #f92672">:</span> <span style="color: #f8f8f2">value(</span><span style="color: #ae81ff">0</span><span style="color: #f8f8f2">)</span> <span style="color: #f8f8f2">{}</span>
+<span style="color: #f8f8f2">   FencedValue(</span><span style="color: #66d9ef">double</span> <span style="color: #f8f8f2">voltage)</span> <span style="color: #f92672">:</span> <span style="color: #f8f8f2">value(voltage)</span> <span style="color: #f8f8f2">{}</span>
+<span style="color: #f8f8f2">   </span>
+<span style="color: #75715e">   // get rid of those weird value copy assignments</span>
+<span style="color: #66d9ef">   template</span> <span style="color: #f92672">&lt;</span><span style="color: #66d9ef">typename</span> <span style="color: #f8f8f2">T</span><span style="color: #f92672">&gt;</span> <span style="color: #f8f8f2">FencedValue</span> <span style="color: #f92672">&amp;</span><span style="color: #66d9ef">operator</span><span style="color: #f92672">=</span><span style="color: #f8f8f2">(</span><span style="color: #66d9ef">const</span> <span style="color: #f8f8f2">T</span> <span style="color: #f92672">&amp;</span><span style="color: #f8f8f2">other)</span> <span style="color: #f92672">=</span> <span style="color: #66d9ef">delete</span><span style="color: #f8f8f2">;</span>
+<span style="color: #f8f8f2">   FencedValue</span> <span style="color: #f92672">&amp;</span><span style="color: #66d9ef">operator</span><span style="color: #f92672">=</span><span style="color: #f8f8f2">(</span><span style="color: #66d9ef">const</span> <span style="color: #f8f8f2">FencedValue</span> <span style="color: #f92672">&amp;</span><span style="color: #f8f8f2">other)</span> <span style="color: #f8f8f2">{</span>
+<span style="color: #66d9ef">   this</span><span style="color: #f92672">-&gt;</span><span style="color: #f8f8f2">value</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">other.value;</span>
+<span style="color: #66d9ef">      return</span> <span style="color: #f92672">*</span><span style="color: #66d9ef">this</span><span style="color: #f8f8f2">;</span>
+<span style="color: #f8f8f2">   };</span>
+<span style="color: #f8f8f2">   </span>
+<span style="color: #75715e">   /* FencedValue(const FencedValue &amp;other) : value(other.value) {} */</span>
+<span style="color: #66d9ef">   double</span> <span style="color: #66d9ef">operator</span><span style="color: #f8f8f2">()()</span> <span style="color: #66d9ef">const</span> <span style="color: #f8f8f2">{</span> <span style="color: #66d9ef">return</span> <span style="color: #f8f8f2">value;</span> <span style="color: #f8f8f2">}</span>
+<span style="color: #66d9ef">   bool</span> <span style="color: #66d9ef">operator</span><span style="color: #f92672">&lt;</span><span style="color: #f8f8f2">(</span><span style="color: #66d9ef">const</span> <span style="color: #f8f8f2">FencedValue</span> <span style="color: #f92672">&amp;</span><span style="color: #f8f8f2">other)</span> <span style="color: #66d9ef">const</span> <span style="color: #f8f8f2">{</span>
+<span style="color: #66d9ef">      return</span> <span style="color: #f8f8f2">value</span> <span style="color: #f92672">&lt;</span> <span style="color: #f8f8f2">other.value;</span>
+<span style="color: #f8f8f2">   }</span>
+<span style="color: #f8f8f2">   </span>
+<span style="color: #f8f8f2">   FencedValue</span> <span style="color: #66d9ef">operator</span><span style="color: #f92672">-</span><span style="color: #f8f8f2">(</span><span style="color: #66d9ef">const</span> <span style="color: #f8f8f2">FencedValue</span> <span style="color: #f92672">&amp;</span><span style="color: #f8f8f2">other)</span> <span style="color: #66d9ef">const</span> <span style="color: #f8f8f2">{</span> <span style="color: #66d9ef">return</span> <span style="color: #f8f8f2">FencedValue(value</span> <span style="color: #f92672">-</span> <span style="color: #f8f8f2">other.value);</span> <span style="color: #f8f8f2">}</span>
+<span style="color: #f8f8f2">   FencedValue</span> <span style="color: #66d9ef">operator</span><span style="color: #f92672">+</span><span style="color: #f8f8f2">(</span><span style="color: #66d9ef">const</span> <span style="color: #f8f8f2">FencedValue</span> <span style="color: #f92672">&amp;</span><span style="color: #f8f8f2">other)</span> <span style="color: #66d9ef">const</span> <span style="color: #f8f8f2">{</span> <span style="color: #66d9ef">return</span> <span style="color: #f8f8f2">FencedValue(value</span> <span style="color: #f92672">+</span> <span style="color: #f8f8f2">other.value);</span> <span style="color: #f8f8f2">}</span>
+<span style="color: #f8f8f2">   FencedValue</span> <span style="color: #66d9ef">operator</span><span style="color: #f92672">-</span><span style="color: #f8f8f2">(</span><span style="color: #66d9ef">double</span> <span style="color: #f8f8f2">num)</span> <span style="color: #66d9ef">const</span> <span style="color: #f8f8f2">{</span> <span style="color: #66d9ef">return</span> <span style="color: #f8f8f2">FencedValue(value</span> <span style="color: #f92672">-</span> <span style="color: #f8f8f2">num);</span> <span style="color: #f8f8f2">}</span>
+<span style="color: #f8f8f2">   FencedValue</span> <span style="color: #66d9ef">operator</span><span style="color: #f92672">+</span><span style="color: #f8f8f2">(</span><span style="color: #66d9ef">double</span> <span style="color: #f8f8f2">num)</span> <span style="color: #66d9ef">const</span> <span style="color: #f8f8f2">{</span> <span style="color: #66d9ef">return</span> <span style="color: #f8f8f2">FencedValue(value</span> <span style="color: #f92672">+</span> <span style="color: #f8f8f2">num);</span> <span style="color: #f8f8f2">}</span>
+<span style="color: #f8f8f2">   </span>
+<span style="color: #f8f8f2"> private:</span>
+<span style="color: #66d9ef">   double</span> <span style="color: #f8f8f2">value;</span>
+<span style="color: #f8f8f2">};</span>
+
+<span style="color: #66d9ef">using</span> <span style="color: #f8f8f2">Voltage</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">FencedValue</span><span style="color: #f92672">&lt;</span><span style="color: #f8f8f2">FencedType</span><span style="color: #f92672">::</span><span style="color: #f8f8f2">VOLTAGE</span><span style="color: #f92672">&gt;</span><span style="color: #f8f8f2">;</span>
+<span style="color: #66d9ef">using</span> <span style="color: #f8f8f2">Current</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">FencedValue</span><span style="color: #f92672">&lt;</span><span style="color: #f8f8f2">FencedType</span><span style="color: #f92672">::</span><span style="color: #f8f8f2">CURRENT</span><span style="color: #f92672">&gt;</span><span style="color: #f8f8f2">;</span>
+</pre></td></tr></table></div>
 
 Safe codespace with Voltage/Current values which cannot be mistaken!
 
