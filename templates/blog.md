@@ -2265,7 +2265,7 @@ Man I have just made the sexiest (yet trivial) piece of advanced C++ that, *I
 think*, I have ever written!
 
 <!-- HTML generated using hilite.me -->
-<div style="background: #272822;overflow: auto;scrollbar-width: none;border:solid gray;border-width:0.1em 0.1em .1em .1em;padding:.1em 0.1em;width: 70%;position: relative;left: 15%;">
+<div style="margin: 20px 0px; background: #272822;overflow: auto;scrollbar-width: none;border:solid gray;border-width:0.1em 0.1em .1em .1em;padding:.1em 0.1em;width: 70%;position: relative;left: 15%;">
 <table>
 <tr>
 <td><pre style="margin: 0; line-height: 120%; font-size: 12px">
