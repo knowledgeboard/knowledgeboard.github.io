@@ -2265,6 +2265,7 @@ Man I have just made the sexiest (yet trivial) piece of advanced C++ that, *I
 think*, I have ever written!
 
 ```cpp
+
 struct Voltage {
     Voltage() : value(0) {}
     Voltage(double voltage) : value(voltage) {}
@@ -2289,6 +2290,7 @@ struct Voltage {
   private:
     double value;
 };
+
 ```
 
 Safe codespace with Voltage/Current values which cannot be mistaken!
