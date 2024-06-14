@@ -14,3 +14,4 @@
 [MonkeyType](https://monkeytype.com/)
 [Asus linux controls](https://gitlab.com/asus-linux/asusctl)
 [Asus linux super controls](https://gitlab.com/asus-linux/supergfxctl)
+[Internal conversion Nucl Physics](https://en.wikipedia.org/wiki/Internal_conversion#:~:text=Internal%20conversion%20is%20an%20atomic,(ejected)%20from%20the%20atom.)
