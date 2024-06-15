@@ -2305,3 +2305,13 @@ think*, I have ever written!
 Safe codespace with Voltage/Current values which cannot be mistaken!
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/74tLlkN3rgVzRqQJgPfink?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+### 2024-06-15 11:32
+
+Saturday and another round finished. I shot 50 on the SG 9! Two pars (on 3 and
+4 pars !!!). My changes to the grip really helped. 
+
+Also met Amy at the roundabout. She came to see Marius who has been hit by a
+car on his way home on the scooter. They smashed the front windshield. Luckily
+she texted me that he should be mostly OK!
+
