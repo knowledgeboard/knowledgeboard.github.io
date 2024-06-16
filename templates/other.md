@@ -15,3 +15,4 @@
 [Asus linux controls](https://gitlab.com/asus-linux/asusctl)
 [Asus linux super controls](https://gitlab.com/asus-linux/supergfxctl)
 [Internal conversion Nucl Physics](https://en.wikipedia.org/wiki/Internal_conversion#:~:text=Internal%20conversion%20is%20an%20atomic,(ejected)%20from%20the%20atom.)
+[Resize linux partition](https://www.amyschlesener.com/posts/2020/04/increasing-ubuntu-partition/)
