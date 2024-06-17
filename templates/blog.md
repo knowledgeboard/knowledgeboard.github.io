@@ -2344,3 +2344,6 @@ to the fringe and putt from there to like 6/7 meters).
 Also just finished my second ever chairman position on our Monday morning
 meeting. Went fine although it was a bit long as Magda with Mark were gone last
 week on a conference. So there was a lot to discuss.
+ 
+A lot of work for me this week from what it looks like. We want to power up the
+magnet this week and I'm still not sure which capabilities are we missing.
