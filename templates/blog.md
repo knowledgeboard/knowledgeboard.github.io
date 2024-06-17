@@ -2306,6 +2306,19 @@ Safe codespace with Voltage/Current values which cannot be mistaken!
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/74tLlkN3rgVzRqQJgPfink?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+### 2024-06-14 21:12
+
+OK so weird weird things. Ended week with a pretty calm day with a really small
+amount of peolpe. We have talked about bunch of stuff mainly including M. She
+disallowed Anu to get married xDDD She asked her in advance to let her know
+that she wants to take longer time off around Christmas to get married and she
+didn't approve it xD And a lot of fun about that...
+
+Did golf today and it went really well! I managed to change my grip slightly
+and I feel much better not turning over the wrist! It's going really straight
+and well.
+
+
 ### 2024-06-15 11:32
 
 Saturday and another round finished. I shot 50 on the SG 9! Two pars (on 3 and
@@ -2315,3 +2328,19 @@ Also met Amy at the roundabout. She came to see Marius who has been hit by a
 car on his way home on the scooter. They smashed the front windshield. Luckily
 she texted me that he should be mostly OK!
 
+### 2024-06-17 11:06
+
+Just a recap from yesterday! Played another golf course - the [Jiva
+Hills](https://www.jivahillgolf.com/). It has only artifical tees and greens. A
+weird feeling for sure and I didn't have any tees which would be good for that
+so I started everything off the ground! Which made it a bit harder for sure but
+I still managed to score pretty well! I did the front nine, fairly frustrated.
+Was turning again and shit. BUT I stuck with it and extended my stay to all 18
+holes (9 hole course with 2 starting positions and 2 holes per green). The
+second nine is obviously harder than the first one and I shot 11 over on the
+second nine! THAT'S HUGE PB. I even shot my first birdie!!!! (par 3 138m - tee
+to the fringe and putt from there to like 6/7 meters).
+
+Also just finished my second ever chairman position on our Monday morning
+meeting. Went fine although it was a bit long as Magda with Mark were gone last
+week on a conference. So there was a lot to discuss.
