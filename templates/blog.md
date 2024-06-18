@@ -2350,4 +2350,30 @@ magnet this week and I'm still not sure which capabilities are we missing.
 
 ### 2024-06-18 01:00
 
-An absolute bizzare moment on my way home in the bus!
+An absolute bizzare moment on my way home in the bus! Today I wore my offwhite
+youngla shorts. On my way back I sat down in the bus at CERN and infornt of me
+was a pair (nerdy guy and kinda hot girl). Girl immediatelly watched me and
+legs and everything but in a way that seemed like she's making fun of me. She
+spoke to the guy and both were kinda laughing about something so I was like,
+sure they are making fun of me. Continued to listen to music and didn't mind
+them. Both kept watching me from time to time. The girl was kinda like
+goth/emo/rave style (not my type at all). Down half the journey I saw her
+picking some stuff up and recongnized something like a eu passport. Didn't
+think much of it. Around the roundabout, I see her with a sharpie
+doing/scribbling something. Second roundabout and I'm getting up for the door
+which is like just next to them (they are behind my back). We stop, I get to
+open the door and the girl reaches over, touches my shoulder and gives me a
+FOLDED PIECE OF PAPER and tells/whispers me something in the voice of the weird
+people (she spoke french I think xD). I GOT A PHONE NUMBER FROM A RANDOM GIRL
+ON THE BUS (and she actually looked alright)! That's a new one xD 
+
+ABOUT The rest of today! The work was great, I was the chair of the morning
+meeting. Magda came with two new polish high school students and then Jiří from
+Brno came to our office (summer student of Michael). The magnet power up is
+close by and we still don't know all that's neccessary for it! It's gonna be fun.
+
+And then I felt like the gym was shit (but it was mainly my bench which was
+struggling) but tbh I don't remember when did I do bench the last time and also
+I'm now doing fairly bit different bench press technique with a very slow
+movements. I feel good about it and the pump is there! But the shoulder is
+still complaining a little. I might try to go to some physio at home.
