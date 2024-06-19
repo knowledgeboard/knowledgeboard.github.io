@@ -2377,3 +2377,24 @@ struggling) but tbh I don't remember when did I do bench the last time and also
 I'm now doing fairly bit different bench press technique with a very slow
 movements. I feel good about it and the pump is there! But the shoulder is
 still complaining a little. I might try to go to some physio at home.
+
+### 2024-06-18 23:23
+
+I'm back from gym, kinda disgusted. I'm really really easilly getting this
+lower back pump/pain. Was trying to do easy 150 deadlifts. Did 5 of them.
+pretty easily! Went for second set, did 1 and immediately felt that the back is
+out of power. So I stopped there, fucking horrible. Did some more back
+exercises and that was completely fine. Just dunno what's up with the lower
+back. Gonna have to do some improvements on that.
+
+I'm probably taking a few days of now. It shouldn't hurt...
+
+At work we had the recording crew at ISOLDE. Might have been BBC what what do
+we know. We have done really nice live background. I managed to make Mich. talk
+about the magnet when the crew was coming so it really looked like we did two
+something! xD
+
+### 2024-06-19 09:44
+
+[HMM lower back?](https://www.youtube.com/watch?v=DWmGArQBtFI)
+
