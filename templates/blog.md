@@ -2412,4 +2412,12 @@ which I had no idea why it was happening! This voltage/current set which
 freezes everything as if there was some deadlock or infinite loop. It's just
 weird. Gotta change it a little tomorrow and it's gonna be fine!
 
+### 2024-06-20 16:31
 
+Spent the whole morning at ISOLDE hall alone. Did some magic on the magnet
+program and it is working like a minimal viable product... Bunch of the
+functionality is missing, but it is what it is. The QT just works differently
+than one would expect.
+
+Just finished preparing second version, which does not use threads at all so
+I'm gonna go and test it against the old one... (probably tomorrow tho xD)
