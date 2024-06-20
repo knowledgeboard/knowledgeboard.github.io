@@ -2398,3 +2398,18 @@ something! xD
 
 [HMM lower back?](https://www.youtube.com/watch?v=DWmGArQBtFI)
 
+### 2024-06-19 21:29
+
+Movie night with 🦆❤️! Taking some time off to let my body rest a little. There
+could be something wrong, so I need to take some good food and rest and it's
+probably gonna be fine! 
+
+Fun time at work, bunch of time spent in ISOLDE in the afternoon. Actually I
+left close to half past 7... Well that's what you get when you do test just a
+day before the day-m (magnet xD). QT had some problems (for example running
+timers in threads is not allowed... WHYYYYY). I still have one problem there
+which I had no idea why it was happening! This voltage/current set which
+freezes everything as if there was some deadlock or infinite loop. It's just
+weird. Gotta change it a little tomorrow and it's gonna be fine!
+
+
