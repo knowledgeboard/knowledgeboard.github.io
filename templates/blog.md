@@ -2428,3 +2428,10 @@ turn to me and just start to be extremely interested about everything about me.
 12th year from London trip for a 3 day visit of CERN. Cool and they have been
 really interested. Funny how they just chose to approach me out of nowhere, but
 I don't mind.
+
+### 2024-06-20 22:10
+
+Those exercises that I found for the lower back (upper glute) really do be
+targeting the area which I felt and they actually made it much better!
+
+Also did some more exercises, pushups and etc.
