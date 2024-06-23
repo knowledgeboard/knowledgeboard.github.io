@@ -2435,3 +2435,12 @@ Those exercises that I found for the lower back (upper glute) really do be
 targeting the area which I felt and they actually made it much better!
 
 Also did some more exercises, pushups and etc.
+
+### 2024-06-21 10:28
+
+It's mum's birthday today! Work stalling my progress with magnets. 
+
+### 2024-06-23 10:28
+
+An. is here! Some fun/golf/shop today, some longer trip tomorrow. What a trip
+for her to get here! xD
