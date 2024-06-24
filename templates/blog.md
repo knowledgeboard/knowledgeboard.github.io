@@ -2444,3 +2444,9 @@ It's mum's birthday today! Work stalling my progress with magnets.
 
 An. is here! Some fun/golf/shop today, some longer trip tomorrow. What a trip
 for her to get here! xD
+
+### 2024-06-24 23:01   
+
+Chamonix trip today! We are dead xD 4835m above the sea level (or something
+like that) - again... we are dead. We took the bus there... The car rental was
+like 300CHF... Now eat and sleep. Gotta add some pics later: TODO: PICS.
