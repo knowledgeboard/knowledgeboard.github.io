@@ -2450,3 +2450,7 @@ for her to get here! xD
 Chamonix trip today! We are dead xD 4835m above the sea level (or something
 like that) - again... we are dead. We took the bus there... The car rental was
 like 300CHF... Now eat and sleep. Gotta add some pics later: TODO: PICS.
+
+### 2024-06-25 22:50
+
+First golf together xD Ended with a literal storm! Went alright.
