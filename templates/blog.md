@@ -2469,3 +2469,6 @@ But at least I had her here the correct amount of days :D Her visit has been
 awesome. The main Chamonix trip was really worth it and adventurous. I think
 that now I'm the proud owner of the height record in family with the heighest
 telecabin in France (3842m).
+
+Now fixing some place where to stay during July. Have something for most of it,
+just missing like first 4 days or something like that, it's gonna be fine!
