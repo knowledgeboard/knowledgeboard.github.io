@@ -47,3 +47,4 @@
 [Crafting Interpreters Patterns](https://craftinginterpreters.com/)
 [Compile-Time insertion sort c++](https://medium.com/@ziyue.liu.vm/compile-time-insertion-sort-in-c-5851aec9363d)
 [C++ casting as Star Wars Han Solo](https://betterprogramming.pub/han-solos-guide-to-c-casting-344043d90030)
+[Julia blog](https://julialang.org/blog/2012/02/why-we-created-julia/)
