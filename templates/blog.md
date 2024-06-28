@@ -2472,3 +2472,16 @@ telecabin in France (3842m).
 
 Now fixing some place where to stay during July. Have something for most of it,
 just missing like first 4 days or something like that, it's gonna be fine!
+
+### 2024-06-27 22:49
+
+Watching An. flying home. No gym today, I've spent a long time coming back for
+her and then on the airport with her. I'm seriously not complaining :D Just
+want to sleep a little and there wouldn't be time for that if I went to gym
+then.
+
+Still trying to figure out some place to stay. Going tomorrow to the reception
+to see if anything has changed.
+
+Watching Shogun. Now on the 9th episode. I thought there is only 8 of them so
+I'm always getting surprised (pleasently) that there is always more to go xD
