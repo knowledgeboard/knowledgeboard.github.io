@@ -190,3 +190,61 @@ li::before {
 /*   border-top: 2px solid #818181; */
 /* } */
 
+
+/* Some test for homepage cards */
+.card-holder {
+  padding-top: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  align-items: center;
+}
+
+.card-text {
+  /* font-family: "Major Mono Display", monospace; */
+  /* font-family: "Anton", sans-serif; */
+  font-family: "Satisfy", cursive;
+  font-size: 50px;
+}
+
+
+.card {
+ width: 400px;
+ height: 300px;
+ background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+ border-radius: 20px;
+ transition: all .3s;
+}
+
+#c1.card {
+ background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+#c2.card {
+ background-image: linear-gradient(163deg, #00a5cc 0%, #f95700 100%);
+}
+#c3.card {
+ background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+}
+
+.card2 {
+ display: block;
+ width: 400px;
+ height: 300px;
+ background-color: #1a1a1a;
+ border-radius:;
+ transition: all .2s;
+
+ text-align: center;
+ line-height: 300px;
+ font-size: 27px;
+ text-decoration: none;
+}
+
+.card2:hover {
+ transform: scale(0.98);
+ border-radius: 20px;
+}
+
+.card:hover {
+ box-shadow: 0px 0px 30px 1px rgba(0, 255, 117, 0.30);
+}
