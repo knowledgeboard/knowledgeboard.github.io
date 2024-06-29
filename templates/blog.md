@@ -2485,3 +2485,16 @@ to see if anything has changed.
 
 Watching Shogun. Now on the 9th episode. I thought there is only 8 of them so
 I'm always getting surprised (pleasently) that there is always more to go xD
+
+### 2024-06-29 02:37
+
+Good day, good workout! Solid back day with no issues and nice pump and call
+with An. :) Then a movie with her and late late sleep.
+
+Had a nice idea for new evo project I wanted to try for a while. We'll see
+where it goes. The repo is in the place xD
+
+### 2024-06-29 10:41
+
+PC works again! Another kernel panic (volume corrupted thingy) popped up. Dealt
+with it the same way as before! Worked.
