@@ -2517,3 +2517,12 @@ chest last time. SO when I did dumbells it hurt immediatelly xD I was doing
 proper squeezy ones and I felt every rep with a great pump in the process! I
 love it! Shoulder was complaining a little but I think it was just as tired as
 the rest of the upper body! So it's alright!
+
+### 2024-07-01 21:38
+
+A bit of Linux nvidia work today on my own. Some GPIB test - psc config works
+now! Improvements! Then some Lua/C++ learning time! Gonna continue with lua
+tomorrow!
+
+Staying at home today! We spoke with mum for a lot and then with An. for more
+:) It's been great!
