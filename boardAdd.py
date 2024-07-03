@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from argparse import ArgumentParser, ArgumentTypeError, Namespace
+from argparse import ArgumentParser, ArgumentTypeError
 import sys
 
 TEMPLATE_PATH = "/home/marculonis/Desktop/Projects/knowledgeboard.github.io/templates/"
@@ -46,10 +46,32 @@ def get_parser() -> ArgumentParser:
 
 
 parser = get_parser()
-args = parser.parse_args(sys.argv[1:])
+if not len(sys.argv) == 1:
+    args = parser.parse_args(sys.argv[1:])
 
-if not args.group in groups: raise ArgumentTypeError(f"Unknown group type - {args.group}")
+    if not args.group in groups: raise ArgumentTypeError(f"Unknown group type - {args.group}")
 
-with open(TEMPLATE_PATH+args.group+".md", 'a') as f:
-    f.write("["+" ".join(args.name)+"]"+f"({args.url})\n")
-    print(f"Successfully written to {args.group}.md")
+    with open(TEMPLATE_PATH+args.group+".md", 'a') as f:
+        f.write("["+" ".join(args.name)+"]"+f"({args.url})\n")
+        print(f"Successfully written to {args.group}.md")
+### INTERACTIVE MODE
+else: 
+    print("(interactive mode)")
+    while True:
+        print("- Group: ", end="")
+        group = input()
+        if not group in groups:
+            print(f"Unknown group type - {group}")
+            print(f"Choose group to add to - available groups: " + " ".join(groups))
+            continue
+
+        break
+
+    print("- Name: ", end="")
+    name = input()
+    print("- URL: ", end="")
+    url = input()
+
+    with open(TEMPLATE_PATH+group+".md", 'a') as f:
+        f.write(f"[{name}]({url})\n")
+        print(f"Successfully written to {group}.md")

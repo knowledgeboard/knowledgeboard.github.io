@@ -19,3 +19,4 @@
 [ROOT primer](https://root.cern/primer/)
 [ROOT CMAKE](https://cliutils.gitlab.io/modern-cmake/chapters/packages/ROOT.html)
 [Where web was born](https://home.cern/science/computing/where-web-was-born)
+[Cern summer student lectures](https://indico.cern.ch/event/1347523/timetable/)
