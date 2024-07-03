@@ -2526,3 +2526,17 @@ tomorrow!
 
 Staying at home today! We spoke with mum for a lot and then with An. for more
 :) It's been great!
+
+### 2024-07-03 09:05
+
+What a night yesterday! Last evening summer students had an invitational party!
+So I infiltrated it and mingled with guys (everyone student of my age, so I
+can't really complain). Party was great, met just so many different guys. It
+got a bit worse when the loud music started and the stiff dance moves were
+taking out! xD But it always got better for a moment. Spent most of the time
+with Jiří and our high school polish friend (whos name I forgot), and they also
+had their time with one other german girl.
+
+Everyone was interesting, everyone wanted to talk at least a little! Was great!
+
+Back to work now xD
