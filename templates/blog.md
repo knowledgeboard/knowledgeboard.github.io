@@ -2540,3 +2540,21 @@ had their time with one other german girl.
 Everyone was interesting, everyone wanted to talk at least a little! Was great!
 
 Back to work now xD
+
+### 2024-07-03 23:28
+
+Work was fun. I was needed for some reformating of a python code from Anu which
+they use alongside her sims. But the code is mostly completely fine! Other than
+that I did some more lua learning and began to try to start EvoScripts project.
+
+One of the colleagues from other ISOLDE group came to complain to our office.
+The older guy who's always active at the meetings. And he completely wasn't
+feeling the situation when EP safety is blocking something from RP safety just
+because they felt like it and for a really minor reason. Guy really described
+all of this as a Kafka's world xD
+
+I'm home after gym. Pretty good back arm day. Texting with An. She's partying
+with the others. The classic group is there. Just kinda miss her and I can
+imagine what part of the group is trying to hit on that, which I am enabling
+because I'm gone. So we'll see how it works for us. There's always gonna be
+someone looking into that.
