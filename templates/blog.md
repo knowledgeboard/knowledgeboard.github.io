@@ -2558,3 +2558,11 @@ with the others. The classic group is there. Just kinda miss her and I can
 imagine what part of the group is trying to hit on that, which I am enabling
 because I'm gone. So we'll see how it works for us. There's always gonna be
 someone looking into that.
+
+### 2024-07-04 15:11
+
+I've moved into a new place! Luckily I was able to check in earlier so I didn't
+have to wait such a long time at the hotel or somewhere else.
+
+Ilaria's talk now, then zoom with Anu for a moment and then want to fit in gym
+and the evening presentation + maybe meeting some guys from the student party.
