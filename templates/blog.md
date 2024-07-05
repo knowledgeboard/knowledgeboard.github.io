@@ -2584,3 +2584,6 @@ call to change some PC info to even be able to reinstall it through CERN PXE. I
 for a moment thought that I bricked the PC or that I would need to reinstall
 ubuntu back to change it and then do it all again. But ALL good... computer
 science magic student after all! 
+
+### 2024-07-06 01:52
+
