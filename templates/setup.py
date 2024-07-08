@@ -1,9 +1,12 @@
 #!/usr/bin/env python
 
+from __future__ import annotations
+
 import os
 import subprocess
 
 import sys
+import re
 
 file = open(sys.argv[1])
 lines = file.readlines()
@@ -38,11 +41,20 @@ def itemParser(item:str):
 
     return info, url
 
+def findAndReplace(item:list[str], replace:str):
+    # print(item)
+    s = "".join(item)
+    replaced = re.sub("@TITLE@", replace, s)
+    s_split = replaced.split("\n") 
+    print(s_split)
+    quit()
+    return s_split
+
 for source in sources:
+    name = source[:-3].split("/")[1]
     if source.endswith("blog.md"):
-        name = source[:-3].split("/")[1]
         out = open(f"{name}.html", "w")
-        out.writelines(PRE)
+        out.writelines(findAndReplace(PRE, "Blog"))
         blog_text = subprocess.Popen(["markdown", source],
                                      stdout=subprocess.PIPE).communicate()[0]
         blog_text = blog_text.decode()
@@ -54,9 +66,9 @@ for source in sources:
         items = _f.readlines()
         _f.close()
 
-        out = open("{}.html".format(source[:-3].split("/")[1]), "w")
+        out = open("{}.html".format(name, "w"))
 
-        out.writelines(PRE)
+        out.writelines(findAndReplace(PRE, name))
         
         for item in items:
             if item == "": continue
