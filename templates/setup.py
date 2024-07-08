@@ -65,12 +65,9 @@ for source in sources:
         items = _f.readlines()
         _f.close()
 
-        out = open("{}.html".format(name, "w"))
+        out = open(f"{name}.html", "w")
 
-        print(PRE)
-        print(findAndReplace(PRE, name))
-        quit()
-        # out.writelines()
+        out.writelines(findAndReplace(PRE, name))
         
         for item in items:
             if item == "": continue
