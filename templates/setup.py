@@ -46,8 +46,7 @@ def findAndReplace(item:list[str], replace:str):
     s = "".join(item)
     replaced = re.sub("@TITLE@", replace, s)
     s_split = replaced.split("\n") 
-    print(s_split)
-    quit()
+    s_split = [x + "\n" for x in s_split if x != '']
     return s_split
 
 for source in sources:
@@ -68,7 +67,10 @@ for source in sources:
 
         out = open("{}.html".format(name, "w"))
 
-        out.writelines(findAndReplace(PRE, name))
+        print(PRE)
+        print(findAndReplace(PRE, name))
+        quit()
+        # out.writelines()
         
         for item in items:
             if item == "": continue
