@@ -2615,3 +2615,9 @@ Also watched the first Matrix with An. this weekend as she has never seen it
 and wanted to at some point (and we didn't know what else to watch). I've
 enjoyed it so much as I heven't seen much of it lately and I understand the
 whole story so rewatching felt much better this time! More to come!
+
+### 2024-07-08 23:55
+
+Finished monday quite well with a nice chestday! Felt weird as 100kg bench was
+hard, but still did 102.5kg with the same effort... then was able to do 8 and 6
+reps on 37.5kg incline. So weird xD
