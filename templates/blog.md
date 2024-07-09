@@ -2621,3 +2621,19 @@ whole story so rewatching felt much better this time! More to come!
 Finished monday quite well with a nice chestday! Felt weird as 100kg bench was
 hard, but still did 102.5kg with the same effort... then was able to do 8 and 6
 reps on 37.5kg incline. So weird xD
+
+### 2024-07-09 23:39
+
+Early out today! We have tested the magnet today! That was eventful and I have
+some pics from it as well! TODO: Flow problem, then it worked, everything
+worked with my software as well. Safety guy was impressed. Magnet guru was
+impressed. And then it kinda blew xD Burst disc opened becuase one of the
+valves was left closed xD What a stupid f thing to do xD Burst Disc like 1000
+CHF, so fun. But my entry to the project was great and it worked so I can be
+happy that we got to test everything as it is!
+
+We spent there the majority of the day so actually a late late lunch and I felt
+like going home earlier so went like 20 mins early, shop and then golf :) It
+was really nice and finally barebly not warm! 
+
+All good! + Started watching The Bear!
