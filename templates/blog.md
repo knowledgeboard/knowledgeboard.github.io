@@ -2651,3 +2651,12 @@ All good! + Started watching The Bear!
 Talk about B11 from Daniel. A really nice discussion afterwards which I helped
 to start with the classical question - why do we do this and who asked for it
 xD But it was actually a relevant thing to ask in this context.
+
+### 2024-07-11 00:39
+
+Wednesday done, after workout and dinner. Met my new apartment mate today!
+Sabrina from USA - Texas. Couldn't have tell. She seems alright and is here
+only for a few days. WOrking at Alice doing shifts. Poor her! My schedule would
+be fucked even more!
+
+Did a proper leg day today! 150x3 squats? Sounds alright! Felt great as well!
