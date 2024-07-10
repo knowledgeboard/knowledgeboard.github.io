@@ -2646,3 +2646,8 @@ was really nice and finally barebly not warm!
 
 All good! + Started watching The Bear!
 
+### 2024-07-10 16:02
+
+Talk about B11 from Daniel. A really nice discussion afterwards which I helped
+to start with the classical question - why do we do this and who asked for it
+xD But it was actually a relevant thing to ask in this context.
