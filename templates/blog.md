@@ -2494,6 +2494,10 @@ with An. :) Then a movie with her and late late sleep.
 Had a nice idea for new evo project I wanted to try for a while. We'll see
 where it goes. The repo is in the place xD
 
+Also listening to a bunch of Rammstein at the moment xD
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/69InBLmrz7Cu0jBJk1dAgw?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### 2024-06-29 10:41
 
 PC works again! Another kernel panic (volume corrupted thingy) popped up. Dealt
@@ -2526,6 +2530,8 @@ tomorrow!
 
 Staying at home today! We spoke with mum for a lot and then with An. for more
 :) It's been great!
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6MtI49ggHHumUTONlvMQlq?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 2024-07-03 09:05
 
