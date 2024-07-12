@@ -6,3 +6,4 @@
 [Cool looking notifications](https://github.com/rcarriga/nvim-notify)
 [Neovim addons](https://github.com/rockerBOO/awesome-neovim?tab=readme-ov-file#completion)
 [Neovim addons](https://github.com/rockerBOO/awesome-neovim?tab=readme-ov-file#completion)
+[Neovim BUILD](https://github.com/neovim/neovim/blob/master/BUILD.md)
