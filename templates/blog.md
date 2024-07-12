@@ -2660,3 +2660,17 @@ only for a few days. WOrking at Alice doing shifts. Poor her! My schedule would
 be fucked even more!
 
 Did a proper leg day today! 150x3 squats? Sounds alright! Felt great as well!
+
+### 2024-07-11 22:22
+
+Well I got absolutely soaked today just as I went to the gym. Did some chest
+today and it is now feeling really well! Getting some nice chest pumps
+recently! Got soaked again on the way back xD Gonna be draining my shoes for a
+couple days! Love the hairdrier at home.
+
+Went for a fresh cut today! Like YOUR CUT G!
+
+Working day was mainly about meetings as the day started with Magda's summer
+student lecture on nuclear physics and ended with Markuses trial talk for his
+defense presentation which is gonna take place on wednesday next week. BEST OF
+LUCK TO HIM.
