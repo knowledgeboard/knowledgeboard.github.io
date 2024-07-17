@@ -2767,3 +2767,11 @@ big squeezy incline with 35s, flat with that and some flies on both! Getting
 great pumps nowadays. Finished with tris and bis and uff xD Great great pump in
 there! Just switching between tris with ~21kg a bis with 20kg on hammers and
 curls 🥵.
+
+### 2024-07-17 12:39
+
+Just came from lunch after which we talked with Amy. And she was all like 'ahh
+you are leaving this soon'. And she was basically saying that Magda probably
+does not fully appreciate how much I have helped around here and how benefitial
+it was. I'm really happy that she sees it in this way and I hope the others
+have a similar point of view about it!
