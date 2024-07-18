@@ -2775,3 +2775,16 @@ you are leaving this soon'. And she was basically saying that Magda probably
 does not fully appreciate how much I have helped around here and how benefitial
 it was. I'm really happy that she sees it in this way and I hope the others
 have a similar point of view about it!
+
+### 2024-07-17 14:00
+
+Dr. Jankowski - Marcus made it 👏!
+
+### 2024-07-17 22:30
+
+A prodcutive day, writing some manuals for my conversion script. Tried to do
+the problem specific optimization but it got so convoluted for probably not
+much of a gain at the end so I got rid of it. 
+
+Came home to do some cooking and laundry. And took a rest day otherwise, while
+talking with at the end Fabiona.
