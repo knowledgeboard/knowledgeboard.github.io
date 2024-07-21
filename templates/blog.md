@@ -2788,3 +2788,12 @@ much of a gain at the end so I got rid of it.
 
 Came home to do some cooking and laundry. And took a rest day otherwise, while
 talking with at the end Fabiona.
+
+### 2024-07-19 22:15
+
+Horrible friday then at the gym.
+
+### 2024-07-21 02:29
+
+A trip with Fabi to Oeschinensee! Driving and all good! More to come. Now it's
+really late, I have just eaten and should go to sleep!
