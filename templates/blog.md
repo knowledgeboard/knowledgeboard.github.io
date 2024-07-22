@@ -935,6 +935,7 @@ went hard. 170x3 good.
 
 Work was fine, bit of setup work (TMUX and stuff), trying to get my VM started
 to install QT creator for myself and some PICO5000 work - it sucks xD
+
 Everything is an unexpected behaviour.
 
 ### 2024-02-28 15:53
@@ -2791,9 +2792,43 @@ talking with at the end Fabiona.
 
 ### 2024-07-19 22:15
 
-Horrible friday then at the gym.
+Horrible friday then at the gym. Why oh why did I go to work on the main pc on
+a day that everything was fucking itself up xD The day of THE CROWDSTRIKE
+issue. And even my daq pc (unrelated issue) started making problems. The admin
+account changes from yesterday did not propagate so the only way how to get
+admin back is to reinstall and that was not an option as the official cern way
+was bluescreening on install... 
+So fresh windows (no cern windows) is there and more work for next week xD
+
+Did nice chest day after, I've been really enjoying them nowadays! Shoulder
+seem good!
 
 ### 2024-07-21 02:29
 
 A trip with Fabi to Oeschinensee! Driving and all good! More to come. Now it's
 really late, I have just eaten and should go to sleep!
+
+The trip was amazing! Really glad she mentioned some trip so I hijacked it,
+rented a car and drove us there. Like 2.5h there, a horrible amount of people
+there so I was actually worried that there would be no place to stay! We found
+a place close to a local camp where there was no parking restriction. 
+
+And then a family parked close to us and a woman came to me and asked if we
+speak german!!! I Was so struggling to find a german 'yes' xD But I managed and
+I actually spoke to her in german and did pretty well! Fabi was so surprised
+also and it really made me happy that I was able to do that (rusty but good)!
+
+The trip was great! A lots of great pics! (TODO: some PICS) And I'm practicing
+spanish with Fabi xD
+
+The way back was pretty chill. A little to no cars around all the way home and
+I didn't feel tired or anything! 
+
+### 2024-07-21 23:43
+
+OK the tiredness settled in today! xDD Slept until like 11 or 12 and until 5 I
+was basically just laying down xD 
+
+Did a back day after :P Was pretty nice, did rows with 100kgs pretty well!
+Feels like my grip has improved because I was really fine with holding 80kgs on
+rows pretty fine.
