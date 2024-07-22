@@ -2832,3 +2832,18 @@ was basically just laying down xD
 Did a back day after :P Was pretty nice, did rows with 100kgs pretty well!
 Feels like my grip has improved because I was really fine with holding 80kgs on
 rows pretty fine.
+
+### 2024-07-22 23:26
+
+Home from gym! Stayed there so long just because of my brazilian mama xD But we
+got a pic at the end so worth it? Now I'm just preparing some dinner and
+sleeping soon because I'm going to CERN GYM with Amy tomorrow morning :_) Today
+she mentioned that she is looking forward for tomorrow's deadlifting session so
+I was like, aaaaand can I join pleaaaase xD So yeah going there to blow out my
+back probably! ALL WORTH IT, just You wait for tomorrow's entry :D
+
+Pretty interesting day. Have to finish up all the project, but it's gonna be
+fine I think! Kinda were putting the Daq pc together xD Was fun, still need to
+find the proper raid thing, but hopefully gonna be quick tomorrow!
+
+Then finishing some manuals for my programs and off we go!
