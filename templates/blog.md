@@ -2518,7 +2518,7 @@ Duncan invited me to. And I'm so glad that I've made it in there. Concert like
 for a little chest day!
 
 It was my 4th day in a row training I thing. Like 2 days appart from training
-chest last time. SO when I did dumbells it hurt immediatelly xD I was doing
+chest last time. SO when I did dumbbells it hurt immediatelly xD I was doing
 proper squeezy ones and I felt every rep with a great pump in the process! I
 love it! Shoulder was complaining a little but I think it was just as tired as
 the rest of the upper body! So it's alright!
@@ -2847,3 +2847,10 @@ fine I think! Kinda were putting the Daq pc together xD Was fun, still need to
 find the proper raid thing, but hopefully gonna be quick tomorrow!
 
 Then finishing some manuals for my programs and off we go!
+
+### 2024-07-23 10:03
+
+Back from the gym :D GOOD quick session with Amy! Deadlift and a bit of
+dumbbell rows. Basically tried my best for deadlifts xD Did 190kg! Felt really
+really heavy xD But did get it up and I'm not feeling bad with my back! Feels
+fine!
