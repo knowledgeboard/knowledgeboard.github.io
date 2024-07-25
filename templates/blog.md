@@ -2854,3 +2854,18 @@ Back from the gym :D GOOD quick session with Amy! Deadlift and a bit of
 dumbbell rows. Basically tried my best for deadlifts xD Did 190kg! Felt really
 really heavy xD But did get it up and I'm not feeling bad with my back! Feels
 fine!
+
+### 2024-07-24 00:56
+
+Well, sucky day. Work was alright, but we are having troubles with 🦆❤️  because
+of my weekend trip. My mistakes, hopefully still able to make it better.
+
+Did a workout later. Went for a fine back day. I feel my back a little from the
+deadlifts, but nothing bad, mostly just fatigue. Feels like the exercise I've
+done for my back helped! Then a motivational call with Anna! After which my
+phone died on the way home... Took mcdonals and sat at CERN and talked ith
+Fabiana for a while and then a few others from latinas group. But I don't feel
+great around some of the other guys there, so went home bit after that (still
+quite late). 
+
+Looking forward to coming back home!!! It's already time!
