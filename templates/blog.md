@@ -2857,8 +2857,9 @@ fine!
 
 ### 2024-07-24 00:56
 
-Well, sucky day. Work was alright, but we are having troubles with 🦆❤️  because
-of my weekend trip. My mistakes, hopefully still able to make it better.
+Well, sucky day. Work was alright, showing the tdms2root to Ilaria - have some
+changes to be done, but we are having troubles with 🦆❤️  because of my weekend
+trip. My mistakes, hopefully still able to make it better.
 
 Did a workout later. Went for a fine back day. I feel my back a little from the
 deadlifts, but nothing bad, mostly just fatigue. Feels like the exercise I've
@@ -2869,3 +2870,40 @@ great around some of the other guys there, so went home bit after that (still
 quite late). 
 
 Looking forward to coming back home!!! It's already time!
+
+### 2024-07-25 20:44
+
+Back from golf after a nice working day. Slowly getting ready to return
+everything and make peace with all of it!
+
+Did changes to my project for Ilaria. Showing it to her later (tomorrow xD).
+I'm really big in todo lists now as there's so much to be done and I don't want
+to leave any problems behind...
+
+Going to squat with Amy tomorrow morning AT 7:30 xDDD I'm going to fucking die!
+
+Waiting for <3 and watching a movie tonight!
+
+### 2024-07-26 15:37
+
+SOOOO slowly getting everything done! Showed the *tdms2root* to Ilaria with Amy
+now, they were able to follow all the steps and everything looked fine, other
+than them needing to rewrite the matlab analysis in root now :P seeee youuu I'm
+gone! xD Amy was like, but we need you! xD I would LOVE to help with that.
+Maybe another time xD 
+
+Nikolay now has basically everything about Grafana, so I should be contacted
+about that just just before beamtimes xD
+
+French card collected and returned xD Bicycle returned, dosimeter and ISOLDE
+access privileges GONE.
+
+Farewell icecream in a minute!
+
+Also we have worked out again with Amy in the morning! Managed to get here at
+7:30 (before Amy came xD). She ended up coming with Marios, who arrived and
+said that the steroid allegations were true xDDD I wore my orange top today!
+Spoke about a bit of basketball too. He is still recovering from his accident
+being hit by a car, so he didn't do too much with us.
+We did squats mainly! I managed to get 160 out of me on a really weird setup
+and no mirror xD I'm really happy about that! 
