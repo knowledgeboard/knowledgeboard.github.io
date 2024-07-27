@@ -2886,6 +2886,8 @@ Waiting for <3 and watching a movie tonight!
 
 ### 2024-07-26 15:37
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3auN63rMDBPfrvuer0MOCi?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 SOOOO slowly getting everything done! Showed the *tdms2root* to Ilaria with Amy
 now, they were able to follow all the steps and everything looked fine, other
 than them needing to rewrite the matlab analysis in root now :P seeee youuu I'm
@@ -2907,3 +2909,40 @@ Spoke about a bit of basketball too. He is still recovering from his accident
 being hit by a car, so he didn't do too much with us.
 We did squats mainly! I managed to get 160 out of me on a really weird setup
 and no mirror xD I'm really happy about that! 
+
+### 2024-07-26 11:10
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2B3D38o8GaXnZo6DnTyZ2m?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Well the farewell was the best, I'm really happy about the people I had here!
+All of them!
+
+<img src="images/farewell.jpeg" alt="farewell" width=40%>
+
+I've received a CERN tshirt a small protection hat and a postcard with few nice
+words from Amy and their signatures (+ Magda's original xD). I actually feel
+that the three of them might actually genuinely miss me. I would give anything
+for any of my future work teams being made up of these guys! They have been the
+best to me and the reason my workdays were always great! THANK YOU!
+
+Followed up on the morning gym with finishing my legs on machines at Blandonnet. 
+
+### 2024-07-28 00:34
+
+A long long day, got up pretty early today to go to Geneva for small gifts and
+chocolates to bring home to everyone! I managed to get something for all I
+think, but spent liek 120 chf on chocolates xDDD DEAR GOD. 
+
+I'm really looking forward to getting back to 🦆❤️. We went talking together
+through most of the day!
+
+After shopping I went home, changed and got my swim shorts because I wanted to
+go to swim for a last bit. We joined forces with Bethy around 4 as I wanted to
+say bye to her as we couldn't have done that the day before. Met her at the
+botanical garden with her other friends. None of them wanted to go swimming
+tho, so we went for the UN beach (!) just for them to get expensive ice cream
+and for me to take my swim xD 
+
+I went to acompany them back to CERN and took Bethy for last desert xD THE LAST
+SUPPER xD Just the two of us ended up talking really well so we ended up being
+there till like 9. I STILL WENT FOR AN ARMDAY AFTER THAT xD
