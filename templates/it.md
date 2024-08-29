@@ -49,3 +49,4 @@
 [C++ casting as Star Wars Han Solo](https://betterprogramming.pub/han-solos-guide-to-c-casting-344043d90030)
 [Julia blog](https://julialang.org/blog/2012/02/why-we-created-julia/)
 [Programming in Lua Book](https://www.lua.org/pil/contents.html)
+[HTMX crashcourse](https://www.youtube.com/watch?v=0UvA7zvwsmg)
