@@ -50,3 +50,4 @@
 [Julia blog](https://julialang.org/blog/2012/02/why-we-created-julia/)
 [Programming in Lua Book](https://www.lua.org/pil/contents.html)
 [HTMX crashcourse](https://www.youtube.com/watch?v=0UvA7zvwsmg)
+[django-htmx blog](https://hellosambhavi.com/django-htmx)
