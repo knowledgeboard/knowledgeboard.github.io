@@ -51,3 +51,4 @@
 [Programming in Lua Book](https://www.lua.org/pil/contents.html)
 [HTMX crashcourse](https://www.youtube.com/watch?v=0UvA7zvwsmg)
 [django-htmx blog](https://hellosambhavi.com/django-htmx)
+[Lightbox - html image gallery](https://www.w3schools.com/howto/howto_js_lightbox.asp)
