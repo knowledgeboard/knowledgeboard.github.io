@@ -53,3 +53,4 @@
 [django-htmx blog](https://hellosambhavi.com/django-htmx)
 [Lightbox - html image gallery](https://www.w3schools.com/howto/howto_js_lightbox.asp)
 [Rustup](https://rustup.rs/)
+[Rust By Example](https://doc.rust-lang.org/rust-by-example/)
