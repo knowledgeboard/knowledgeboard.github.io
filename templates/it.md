@@ -54,3 +54,4 @@
 [Lightbox - html image gallery](https://www.w3schools.com/howto/howto_js_lightbox.asp)
 [Rustup](https://rustup.rs/)
 [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
+[Tierra - Evolved organisms](https://faculty.cc.gatech.edu/~turk/bio_sim/articles/tierra_thomas_ray.pdf)
