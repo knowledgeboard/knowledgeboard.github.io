@@ -16,3 +16,4 @@
 [Resize linux partition](https://www.amyschlesener.com/posts/2020/04/increasing-ubuntu-partition/)
 [Deutsche Welle](https://www.youtube.com/@dwlearngerman)
 [Fun ust-vs-c-vs-go-runtime-speed-comparison](https://users.rust-lang.org/t/rust-vs-c-vs-go-runtime-speed-comparison/104107/37)
+[Nice wallpapers - github](https://github.com/michaelScopic/Wallpapers/tree/main)
