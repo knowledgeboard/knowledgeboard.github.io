@@ -56,3 +56,4 @@
 [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
 [Tierra - Evolved organisms](https://faculty.cc.gatech.edu/~turk/bio_sim/articles/tierra_thomas_ray.pdf)
 [TigerStyle NASA doc on asserts](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
+[Django pub1](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment)
