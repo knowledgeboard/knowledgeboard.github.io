@@ -52,3 +52,4 @@
 [Wolfs](https://www.youtube.com/watch?v=0UZLOpDTwO0&ab_channel=IGN)
 [Roadhouse 2024](https://www.youtube.com/watch?v=Y0ZsLudtfjI)
 [Bladerunner 1982](https://www.youtube.com/watch?v=eogpIG53Cis)
+[The Wild Robot](https://www.youtube.com/watch?v=67vbA5ZJdKQ&ab_channel=UniversalPictures)
