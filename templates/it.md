@@ -58,3 +58,4 @@
 [TigerStyle NASA doc on asserts](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
 [Django pub1](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment)
 [MDBook](https://rust-lang.github.io/mdBook/)
+[Squarespace Domains](https://domains.squarespace.com)
