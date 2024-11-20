@@ -19,3 +19,4 @@
 [Nice wallpapers - github](https://github.com/michaelScopic/Wallpapers/tree/main)
 [Asciiur - asciart](https://www.asciiur.com/)
 [Deploy django](https://www.linkedin.com/pulse/deploy-django-app-sqlite-digitalocean-droplet-bashar-ghadanfar-mq7if/)
+[Unigram,Bigram,Trigram modelling](https://www.exploredatabase.com/2020/04/bigram-trigram-and-ngram-language-model-in-nlp.html)
