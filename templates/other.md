@@ -20,3 +20,4 @@
 [Asciiur - asciart](https://www.asciiur.com/)
 [Deploy django](https://www.linkedin.com/pulse/deploy-django-app-sqlite-digitalocean-droplet-bashar-ghadanfar-mq7if/)
 [Unigram,Bigram,Trigram modelling](https://www.exploredatabase.com/2020/04/bigram-trigram-and-ngram-language-model-in-nlp.html)
+[EngCZ lingv](https://jakub.vrana.cz/texty/lingv1.html)
