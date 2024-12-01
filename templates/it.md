@@ -60,3 +60,4 @@
 [MDBook](https://rust-lang.github.io/mdBook/)
 [Squarespace Domains](https://domains.squarespace.com)
 [UI Design - Typography - AMAZING](https://www.youtube.com/watch?v=9-oefwZ6Z74&ab_channel=Sajid)
+[AOC24](https://adventofcode.com/2024)
