@@ -22,3 +22,4 @@
 [Unigram,Bigram,Trigram modelling](https://www.exploredatabase.com/2020/04/bigram-trigram-and-ngram-language-model-in-nlp.html)
 [EngCZ lingv](https://jakub.vrana.cz/texty/lingv1.html)
 [Alert sounds for notipyme](https://freesound.org/search/?q=alert&f=&s=Downloads+%28most+first%29&si_tags=0&si_name=0&si_description=0&si_packname=0&si_sound_id=0&si_username=0&d0=0&d1=*&ig=0&r=0&g=1&dp=0&cm=0&mm=0)
+[My Kaggle](https://www.kaggle.com/code/marekbev/stack-overflow-social-nets?scriptVersionId=213258856)
