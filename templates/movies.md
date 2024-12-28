@@ -11,7 +11,6 @@
 [Brian Banks 2019](https://www.youtube.com/watch?v=Ii5HG0G-Bi0&ab_channel=RottenTomatoesTrailers)
 [New upcoming 2020](https://www.youtube.com/watch?v=aWjPSuR5YF4&ab_channel=FilmSpotTrailer)
 [Thank you for you service 2017](https://www.youtube.com/watch?v=QT1qx-5K0y8&ab_channel=ONEMedia)
-[Yes God Yes 2020](https://www.youtube.com/watch?v=8GK8M7Fgx5Q&ab_channel=FilmSelectTrailer)
 [Greenland 2020](https://www.youtube.com/watch?v=J43zOCT0Wy0&ab_channel=FilmSelectTrailer)
 [The Giver](https://en.wikipedia.org/wiki/The_Giver_(film))
 [Upcoming anim 2020-21](https://www.youtube.com/watch?v=2-GfbaR13ek&ab_channel=KinoCheck.com)

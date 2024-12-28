@@ -14,8 +14,6 @@
 [Basic Python Network - iamtrask github](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 [towardsdatascience - qrash course, RL, Deep Q Nets](https://towardsdatascience.com/qrash-course-deep-q-networks-from-the-ground-up-1bbda41d3677)
 [DeepLizard](https://deeplizard.com/)
-[DeepLizard - Reinforcement learning](https://deeplizard.com/learn/video/PyQNfsGUnQA)
-[DeepLizard - courses](https://deeplizard.com/course/rlcpailzrd)
 [Github ILearnDeepLearning](https://github.com/SkalskiP/ILearnDeepLearning.py)
 [Github - Deep learning - The Straight Dope book](https://github.com/zackchase/mxnet-the-straight-dope)
 [Machinelearningmastery - Into to Adam Optimizing Alg](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
