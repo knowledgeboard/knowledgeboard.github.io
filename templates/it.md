@@ -63,3 +63,4 @@
 [AOC24](https://adventofcode.com/2024)
 [allauth](https://docs.allauth.org/en/latest/)
 [django-login](https://learndjango.com/tutorials/django-login-and-logout-tutorial)
+[Python Scraping](https://www.youtube.com/watch?v=ji8F8ppY8bs&ab_channel=JohnWatsonRooney)
