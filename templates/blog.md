@@ -52,7 +52,7 @@ gonna be able to fiddle around a bit and get it working.
 Probably gonna be making new website, should look into that (*some state of the art
 html source*). And some simpler Python thingies.
 
-<img src="images/globe_cern.jpg" alt="globe" width=40%>
+<img src="images/opt-globe_cern.jpg" alt="globe" width=40%>
 
 ### 2024-01-09 16:12
 
@@ -155,9 +155,9 @@ Adding some images from the podcast event and on my way home: (also the gallery
 idea is not really bad - could use the slick library I found out about)
 
 <div class="row slider">
-<img src="images/another_globe.jpg" alt="globe" width=40%>
-<img src="images/podcast.jpg" alt="globe" width=40%>
-<img src="images/podcast2.jpg" alt="globe" width=40%>
+<img src="images/opt-another_globe.jpg" alt="globe" width=40%>
+<img src="images/opt-podcast.jpg" alt="globe" width=40%>
+<img src="images/opt-podcast2.jpg" alt="globe" width=40%>
 </div>
 
 ### 2024-01-13 23:14
@@ -171,17 +171,17 @@ english everywhere...
 Geneva was nice, look at some of the nice images.
 
 <div class="row slider">
-<img src="images/geneva_0113/1.jpg"  width=40%>
-<img src="images/geneva_0113/2.jpg"  width=40%>
-<img src="images/geneva_0113/3.jpg"  width=40%>
-<img src="images/geneva_0113/4.jpg"  width=40%>
-<img src="images/geneva_0113/5.jpg"  width=40%>
-<img src="images/geneva_0113/6.jpg"  width=40%>
-<img src="images/geneva_0113/7.jpg"  width=40%>
-<img src="images/geneva_0113/8.jpg"  width=40%>
-<img src="images/geneva_0113/9.jpg"  width=40%>
-<img src="images/geneva_0113/10.jpg" width=40%>
-<img src="images/geneva_0113/11.jpg" width=40%>
+<img src="images/geneva_0113/opt-1.jpg"  width=40%>
+<img src="images/geneva_0113/opt-2.jpg"  width=40%>
+<img src="images/geneva_0113/opt-3.jpg"  width=40%>
+<img src="images/geneva_0113/opt-4.jpg"  width=40%>
+<img src="images/geneva_0113/opt-5.jpg"  width=40%>
+<img src="images/geneva_0113/opt-6.jpg"  width=40%>
+<img src="images/geneva_0113/opt-7.jpg"  width=40%>
+<img src="images/geneva_0113/opt-8.jpg"  width=40%>
+<img src="images/geneva_0113/opt-9.jpg"  width=40%>
+<img src="images/geneva_0113/opt-10.jpg" width=40%>
+<img src="images/geneva_0113/opt-11.jpg" width=40%>
 </div>
 
 Sunday is about trying to find suitable gym. I already know about a boulder gym
@@ -200,7 +200,7 @@ climbing kids as always. Talked a bit to these two in CERN student girls and
 they were great. One was getting seriously close to embarassing my climbing
 too. But luckily I showed off well.
 
-<img src="images/boulder.jpg" width=40%>
+<img src="images/opt-boulder.jpg" width=40%>
 
 Not gonna work much more today. Will get a dinner in. And probably look at some
 javascript thingy so I know what I'm getting myself into or I try to look for
@@ -298,24 +298,13 @@ two after my arrival and I'm completely hooked.
 ### 2024-01-19 23:45
 
 End of the second working week. Clouds went finally away and it look awesome!
-**TODO: add some pics!** Also tried to get the bike sorted but that went south
-real bad. How does an atm not have enought money... 
-
-The visualization app is running, although there is a problem on upload (not on
-my side I think). And I had meeting with M. about the website and we finally
-have some contents for it. She has some really ambitious ideas for it. I'll try
-whats possible.
-
-I'm going to look for some trips around the area. Gym tomorrow for sure!
-
-End of the second working week. Clouds went finally away and it look awesome!
 Also tried to get the bike sorted but that went south real bad. How does an atm
 not have enought money... 
 
-<img src="images/sun1/1.jpg" width=40%>
-<img src="images/sun1/2.jpg" width=40%>
-<img src="images/sun1/3.jpg" width=40%>
-<img src="images/sun1/4.jpg" width=40%>
+<img src="images/sun1/opt-1.jpg" width=40%>
+<img src="images/sun1/opt-2.jpg" width=40%>
+<img src="images/sun1/opt-3.jpg" width=40%>
+<img src="images/sun1/opt-4.jpg" width=40%>
 
 The visualization app is running, although there is a problem on upload (not on
 my side I think). And I had meeting with M. about the website and we finally
@@ -332,16 +321,16 @@ of the time I was choosing pretty nonsense tracks for myself. It was a weird
 feeling being there just on my own. Felt kinda awkward for a bit. Gotta add
 some of the pictures. 
 
-<img src="images/trip1/1.jpg" width=40%>
-<img src="images/trip1/2.jpg" width=40%>
-<img src="images/trip1/3.jpg" width=40%>
-<img src="images/trip1/4.jpg" width=40%>
-<img src="images/trip1/5.jpg" width=40%>
-<img src="images/trip1/6.jpg" width=40%>
-<img src="images/trip1/7.jpg" width=40%>
-<img src="images/trip1/8.jpg" width=40%>
-<img src="images/trip1/9.jpg" width=40%>
-<img src="images/trip1/10.jpg" width=40%>
+<img src="images/trip1/opt-1.jpg" width=40%>
+<img src="images/trip1/opt-2.jpg" width=40%>
+<img src="images/trip1/opt-3.jpg" width=40%>
+<img src="images/trip1/opt-4.jpg" width=40%>
+<img src="images/trip1/opt-5.jpg" width=40%>
+<img src="images/trip1/opt-6.jpg" width=40%>
+<img src="images/trip1/opt-7.jpg" width=40%>
+<img src="images/trip1/opt-8.jpg" width=40%>
+<img src="images/trip1/opt-9.jpg" width=40%>
+<img src="images/trip1/opt-10.jpg" width=40%>
 
 I'm gonna go for a night gym session later.
 
@@ -381,7 +370,20 @@ Another Monday. What an eventful day! Got my credit card (made of cornstarch
 for some reason). After last entry we almost immediately had lunch, I went to
 work for a minute and Marius was heading away with Daniel to CMS for friendly
 excursion. And stuffed happend and they had one free spot which he gave to me.
-I'm so greateful. That was amazing. Gotta add some pics later **TODO: pics**.
+I'm so greateful. That was amazing. Gotta add some pics:
+
+<img src="images/CMS_visit0122/opt-cms1.jpg" width=40%>
+<img src="images/CMS_visit0122/opt-cms2.jpg" width=40%>
+<img src="images/CMS_visit0122/opt-cms3.jpg" width=40%>
+<img src="images/CMS_visit0122/opt-cms4.jpg" width=40%>
+<img src="images/CMS_visit0122/opt-cms5.jpg" width=40%>
+<img src="images/CMS_visit0122/opt-cms6.jpg" width=40%>
+<img src="images/CMS_visit0122/opt-cms7.jpg" width=40%>
+<img src="images/CMS_visit0122/opt-cms8.jpg" width=40%>
+<img src="images/CMS_visit0122/opt-cms9.jpg" width=40%>
+<img src="images/CMS_visit0122/opt-cms10.jpg" width=40%>
+<img src="images/CMS_visit0122/opt-cms11.jpg" width=40%>
+
 
 Stuff like science fiction. 100m underground, built on top and with crane took
 to the cavern. Crane was used to build the South African(I think) football
@@ -454,6 +456,9 @@ persuade myself to go to bed. Friday was pretty sick (in a good way). Killer
 leg workout, 160kg clean. Guys were crazy, but it's nice exploring new workout
 routines.
 
+<img src="images/legs1_0126/opt-legs1.jpg" width=40%>
+<img src="images/legs1_0126/opt-legs2.jpg" width=40%>
+
 Work was awesome. Pretty much all day spent with A. on C++ problems and
 changes. And we again did fair amount of work which is always great! We talked
 about gym as well and she might take me to see the CERN gym. We can surely talk
@@ -462,7 +467,21 @@ more gym later. We seem to get on well.
 Also was to see the ATLAS experiment on Friday. Great presentation to actually
 understand what happens inside of it. But in comparison with CMS a bit
 underwhelming. CMS was just so cool that you could actually see inside of it.
-BUT there was a rubber duck inside of the control room (*TODO:pics!*)
+BUT there was a rubber duck inside of the control room:
+
+<img src="images/ATLAS_visit0126/opt-atlas1.jpg" width=40%>
+<img src="images/ATLAS_visit0126/opt-atlas2.jpg" width=40%>
+<img src="images/ATLAS_visit0126/opt-atlas3.jpg" width=40%>
+<img src="images/ATLAS_visit0126/opt-atlas4.jpg" width=40%>
+<img src="images/ATLAS_visit0126/opt-atlas5.jpg" width=40%>
+<img src="images/ATLAS_visit0126/opt-atlas6.jpg" width=40%>
+<img src="images/ATLAS_visit0126/opt-atlas7.jpg" width=40%>
+<img src="images/ATLAS_visit0126/opt-atlas8.jpg" width=40%>
+<img src="images/ATLAS_visit0126/opt-atlas9.jpg" width=40%>
+<img src="images/ATLAS_visit0126/opt-atlas10.jpg" width=40%>
+<img src="images/ATLAS_visit0126/opt-atlas11.jpg" width=40%>
+<img src="images/ATLAS_visit0126/opt-atlas12.jpg" width=40%>
+
 There we met with a few people around my age that also do technical
 studentships and are mainly into IT. And I think I have pretty great position!
 All the other guys seemed a bit fed up with their mundane tasks, which have no
@@ -507,6 +526,8 @@ that from what I talked to the head of N_TOF... which is also crazy). Lab with
 the most RP precautions I have seen to this point. Also this AL^26 story xD
 Kekw
 
+TODO
+
 We tried to work on magnet with A. but we got a leak. Before that we saw a
 correct signal so that was positive!
 
@@ -535,6 +556,8 @@ was quite a tiny detector compared to the other ones (but the lowest I've been
 *rotor*-looking thingy on the other side. CMS still rules as the best I would
 say.
 
+TODO
+
 Lazy rest of the evening.
 
 ### 2024-01-31 23:21
@@ -560,6 +583,8 @@ at you but we are fighting well and it's moving! I was *interrogated* by M.
 about the progress and at the end of the day we showed her some of it. It
 wasn't perfect, but seemed alright! 
 
+TODO magnetic lamp
+
 Also did some lighter leg workout... cos my legs are still burning from last
 friday!
 
@@ -579,6 +604,8 @@ our offices, seen everything outside of the Meyrin site at CERN, went to
 Manor for coffee and visited the best light festival ever (Geneva Lux --
 possibly the 10th). It has been great having her around again! Made dinner and
 watched Your Name. Lovely movie.
+
+TODO lights
 
 Such a long Saturday! Loved that. Bit of a shopping and climbing tomorrow :).
 
@@ -611,8 +638,7 @@ See you then!
 
 Tuesday done. Work had not much programming, but I was a plumber, a solderer, a
 cleaner and a technical mover when we were moving and securing the magnet again
-(and I did a bit of programming :P). TODO: FINALLY ADD SOME PICS FROM THE
-WEEKEND SIGNAL FESTIVAL AND FROM THE MOVING.
+(and I did a bit of programming :P). TODO: magnet THE MOVING.
 
 Went for a gym and missed 100kg bench and hit 5x90 afterwards... wtf. Not
 great, not terrible... I think I might go for a creatine tomorrow. It might
@@ -664,6 +690,8 @@ show tomorrow? :P*).
 Hey I got my new gym gear! YoungLA is freaking goated. Everything fits
 perfectly (*for my own liking*). And the double layered shorts! Goated.
 
+TODO
+
 Work was feeling slow today, but killed time with website (*filling up profile
 pics with xkcd memes xD*). Preparing all of the content already. Probably gonna
 spend tomorrow with it as well. Also, wanna get my dosimeter tomorrow morning.
@@ -682,6 +710,8 @@ the morning... Sooo gotta hit bed asap.
 Work was weird! Magnet worked, then everything worked, then motor started doing
 weird things... nwm, I thought I knew the solution... lunch and the spectrum is
 nowhere to be found!!! Got my dosimeter today tho!
+
+TODO
 
 French... man who designed the numbering system. above 60 it's sum... above 80
 it's partly multiplication WTF! Language sounds great tho and I love to add new
@@ -708,6 +738,8 @@ meet 4 other guys at Carrefour and go to see on really really snowy adventure.
 Nice hike although we could have gone a bit further (*batter safe than
 sorry*). 
 
+TODO first hike
+
 Today I took my window blinders fully down, so I slept till like 10:30 with no
 problem xD did laundry, looked at french stuff, played arround with CUDA (*need
 to find some sample projects for cuda opengl interopt*). Pretty nice calm day.
@@ -729,6 +761,8 @@ already!
 
 Finally joined RP course (8 hours), and I'm doing electrical course tomorrow!
 Gonna be interesting!
+
+TODO
 
 Hit gym, was really strong again! 100kg bench good, 37.5 for bunch of reps and
 sets like nothing!
@@ -778,9 +812,11 @@ days! Had birthday yesterday so seemed under the weather xD It was a fun day!
 
 ### 2024-02-17 12:37
 
-I'm up! xD Friday at work ended up with French lesson and Francesco offering me
+SATURDAY and I'm up! xD Friday at work ended up with French lesson and Francesco offering me
 and the indian girl their party that night! So I took Gin, got gym in between
 and went there (in SG). 
+
+TODO: Party 
 
 The house was packed! It felt like a premium MFF party xD mainly guys, some
 girls but at least everyone was quite talkative. Had fun. Talked to a few gym
@@ -791,6 +827,8 @@ but nothing crazy! Everyone was going arond 12-1, I went around 2 and was still
 able to cycle home. Completely fine.
 
 Gotta be a lazy day today, but still want to go climbing today!
+
+TODO: boulder
 
 ### 2024-02-18 01:26
 
