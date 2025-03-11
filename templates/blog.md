@@ -155,9 +155,9 @@ Adding some images from the podcast event and on my way home: (also the gallery
 idea is not really bad - could use the slick library I found out about)
 
 <div class="row slider">
-<img src="images/opt-another_globe.jpg" alt="globe" width=40%>
-<img src="images/opt-podcast.jpg" alt="globe" width=40%>
-<img src="images/opt-podcast2.jpg" alt="globe" width=40%>
+<img src="images/another_globe.jpg" alt="globe" width=40%>
+<img src="images/podcast.jpg" alt="globe" width=40%>
+<img src="images/podcast2.jpg" alt="globe" width=40%>
 </div>
 
 ### 2024-01-13 23:14
