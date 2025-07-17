@@ -51,3 +51,7 @@
 [World War Z](https://www.youtube.com/watch?v=Md6Dvxdr0AQ&ab_channel=RottenTomatoesTrailers)
 [Frankenstein Netflix](https://www.youtube.com/watch?v=x--N03NO130&ab_channel=Netflix)
 [Naked Gun](https://www.youtube.com/results?search_query=naked+gun)
+[Guns Up](https://www.youtube.com/watch?v=ZgNi6tEuKfI&ab_channel=MovieTrailersSource)
+[Project Hail Mary](https://www.youtube.com/watch?v=m08TxIsFTRI&ab_channel=AmazonMGMStudios)
+[The Core | 2003 movie clip](https://www.youtube.com/watch?v=b_HhiU1mOwU&ab_channel=Movieclips)
+[Ballerina](https://www.youtube.com/results?search_query=ballerina+trailer)
