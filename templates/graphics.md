@@ -44,3 +44,4 @@
 [Hydraulic and thermal erosion](https://harald.ist.org/paste/erosion.pdf?utm_source=chatgpt.com)
 [Advanced opengl shader techniques](https://toxigon.com/advanced-opengl-shader-techniques?utm_source=chatgpt.com)
 [GraphicsCompendium - Raytracing monte carlo](https://graphicscompendium.com/raytracing/19-monte-carlo)
+[PolyHaven Rocks](https://polyhaven.com/textures/rock/terrain)
