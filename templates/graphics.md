@@ -45,3 +45,4 @@
 [Advanced opengl shader techniques](https://toxigon.com/advanced-opengl-shader-techniques?utm_source=chatgpt.com)
 [GraphicsCompendium - Raytracing monte carlo](https://graphicscompendium.com/raytracing/19-monte-carlo)
 [PolyHaven Rocks](https://polyhaven.com/textures/rock/terrain)
+[OpenglTutorial - Shadow mapping](https://www.opengl-tutorial.org/intermediate-tutorials/tutorial-16-shadow-mapping/)
