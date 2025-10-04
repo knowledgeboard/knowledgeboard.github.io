@@ -25,3 +25,4 @@
 [My Kaggle](https://www.kaggle.com/code/marekbev/stack-overflow-social-nets?scriptVersionId=213258856)
 [iconscout](https://iconscout.com/free-illustration/apple-watch-1970140)
 [DeeplearningVis](https://udlbook.github.io/udlfigures/)
+[CERN Hunting Anomalies with AI Trigger](https://cerncourier.com/a/hunting-anomalies-with-an-ai-trigger/)
