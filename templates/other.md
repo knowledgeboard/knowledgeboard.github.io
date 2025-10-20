@@ -26,3 +26,4 @@
 [iconscout](https://iconscout.com/free-illustration/apple-watch-1970140)
 [DeeplearningVis](https://udlbook.github.io/udlfigures/)
 [CERN Hunting Anomalies with AI Trigger](https://cerncourier.com/a/hunting-anomalies-with-an-ai-trigger/)
+[Cern HGQ + hls4ml event](https://indico.cern.ch/event/1593461/)
