@@ -68,3 +68,4 @@
 [CP-Algorithms: String hashing](https://cp-algorithms.com/string/string-hashing.html)
 [HGQ2](https://github.com/calad0i/HGQ2)
 [gitlab standalone trigger honal](https://gitlab.com/davide.cieri89/standalone-trigger-honal)
+[Omarchy](https://omarchy.org/)
