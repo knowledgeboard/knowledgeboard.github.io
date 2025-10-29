@@ -69,3 +69,4 @@
 [HGQ2](https://github.com/calad0i/HGQ2)
 [gitlab standalone trigger honal](https://gitlab.com/davide.cieri89/standalone-trigger-honal)
 [Omarchy](https://omarchy.org/)
+[Fast gradient sign method - CNNs](https://wandb.ai/authors/adv-dl/reports/An-Introduction-to-Adversarial-Examples-in-Deep-Learning--VmlldzoyMTQwODM)
