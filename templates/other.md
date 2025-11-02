@@ -28,3 +28,5 @@
 [CERN Hunting Anomalies with AI Trigger](https://cerncourier.com/a/hunting-anomalies-with-an-ai-trigger/)
 [Cern HGQ + hls4ml event](https://indico.cern.ch/event/1593461/)
 [DHH Lofree mechanical keyboard](https://www.lofree.co/products/lofree-flow-the-smoothest-mechanical-keyboard)
+[i3 to hyprland](https://theoratkin.com/blog/i3-to-hyprland)
+[Magic TGH - Full card list](https://scryfall.com/)
