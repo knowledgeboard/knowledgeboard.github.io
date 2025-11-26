@@ -31,3 +31,4 @@
 [i3 to hyprland](https://theoratkin.com/blog/i3-to-hyprland)
 [Magic TGH - Full card list](https://scryfall.com/)
 [GNN-intro](https://distill.pub/2021/gnn-intro/)
+[Deep Learning [Bishop,Bishop]](https://link.springer.com/book/10.1007/978-3-031-45468-4)
