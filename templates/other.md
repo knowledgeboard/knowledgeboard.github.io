@@ -30,3 +30,4 @@
 [DHH Lofree mechanical keyboard](https://www.lofree.co/products/lofree-flow-the-smoothest-mechanical-keyboard)
 [i3 to hyprland](https://theoratkin.com/blog/i3-to-hyprland)
 [Magic TGH - Full card list](https://scryfall.com/)
+[GNN-intro](https://distill.pub/2021/gnn-intro/)
