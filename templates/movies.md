@@ -65,3 +65,5 @@
 [Ballad of a Small Player ](https://www.youtube.com/watch?v=z1B5W55TFyo)
 [Cover-Up](https://www.youtube.com/watch?v=9CxEnECKs9U)
 [Disclosure Day](https://www.youtube.com/watch?v=UFe6NRgoXCM)
+[Predator: Killer of Killers](https://www.youtube.com/watch?v=fbddYji1F8s)
+[The Death of Robin Hood - A24](https://www.youtube.com/watch?v=tlSDDuWxO_0)
