@@ -32,3 +32,4 @@
 [Magic TGH - Full card list](https://scryfall.com/)
 [GNN-intro](https://distill.pub/2021/gnn-intro/)
 [Deep Learning [Bishop,Bishop]](https://link.springer.com/book/10.1007/978-3-031-45468-4)
+[Dune Exposures - Dune photobook DEGU](https://www.youtube.com/watch?v=Tjpq3Y-aE9Q)

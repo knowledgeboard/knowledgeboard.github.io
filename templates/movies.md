@@ -69,3 +69,6 @@
 [The Death of Robin Hood - A24](https://www.youtube.com/watch?v=tlSDDuWxO_0)
 [Die Hard NY](https://www.youtube.com/watch?v=Kb8kF1NYiFM)
 [Sinners](https://www.rottentomatoes.com/m/sinners_2025)
+[Moana Live Action](https://www.youtube.com/watch?v=n7f6hlKsxxo)
+[Spider-man Brand new day](https://www.youtube.com/watch?v=pB2Y8Yr8j5A)
+[Disclosure Day](https://www.youtube.com/watch?v=SCYT8vb2siQ)
