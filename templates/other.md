@@ -33,3 +33,5 @@
 [GNN-intro](https://distill.pub/2021/gnn-intro/)
 [Deep Learning [Bishop,Bishop]](https://link.springer.com/book/10.1007/978-3-031-45468-4)
 [Dune Exposures - Dune photobook DEGU](https://www.youtube.com/watch?v=Tjpq3Y-aE9Q)
+[Atlas cheat sheets](https://atlas.cern/Resources/Cheat-sheets)
+[LHC p collisions](https://www.lhc-closer.es/taking_a_closer_look_at_lhc/0.lhc_p_collisions)
