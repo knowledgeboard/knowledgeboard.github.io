@@ -47,3 +47,4 @@
 [PolyHaven Rocks](https://polyhaven.com/textures/rock/terrain)
 [OpenglTutorial - Shadow mapping](https://www.opengl-tutorial.org/intermediate-tutorials/tutorial-16-shadow-mapping/)
 [Fluid Sim](https://unusualinsights.github.io/fluid_tutorial/)
+[MFF UK 3D advanced graphics course](https://cgg.mff.cuni.cz/courses/advanced-3d-graphics-for-movies-and-games/)
